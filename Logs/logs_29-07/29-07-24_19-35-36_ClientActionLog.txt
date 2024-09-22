@@ -1,0 +1,10 @@
+[29-07-24 19:35:36.129] [76561197983853879][ISEnterVehicle][Shuffmayn][10871,10036,0][CarStationWagon2].
+[29-07-24 19:35:56.842] [76561197983853879][ISExitVehicle][Shuffmayn][10871,10037,0][CarStationWagon2].
+[29-07-24 20:04:11.277] [76561197983853879][ISEnterVehicle][Shuffmayn][10894,10046,0][SmallCar02].
+[29-07-24 20:04:28.300] [76561197983853879][ISExitVehicle][Shuffmayn][10895,10046,0][SmallCar02].
+[29-07-24 20:07:32.744] [76561197983853879][ISEnterVehicle][Shuffmayn][10871,10036,0][CarStationWagon2].
+[29-07-24 20:08:12.162] [76561197983853879][ISExitVehicle][Shuffmayn][10871,10035,0][CarStationWagon2].
+[29-07-24 20:10:01.691] [76561197983853879][ISEnterVehicle][Shuffmayn][10884,10054,0][CarStationWagon2].
+[29-07-24 20:10:06.564] [76561197983853879][ISExitVehicle][Shuffmayn][10883,10053,0][CarStationWagon2].
+[29-07-24 20:11:08.659] [76561197983853879][ISEnterVehicle][Shuffmayn][10871,10036,0][CarStationWagon2].
+[29-07-24 20:11:17.113] [76561197983853879][ISExitVehicle][Shuffmayn][10871,10035,0][CarStationWagon2].

@@ -1,0 +1,178 @@
+[29-07-24 19:08:52.653] 76561197983853879 "Shuffmayn" floor +1 10910,9995,0 [Base.Bag_Schoolbag].
+[29-07-24 19:09:19.088] 76561197983853879 "Shuffmayn" container -1 10911,9998,0 [Base.TinOpener].
+[29-07-24 19:09:22.078] 76561197983853879 "Shuffmayn" container -1 10911,9998,0 [Base.MeatCleaver].
+[29-07-24 19:09:34.072] 76561197983853879 "Shuffmayn" container -2 10909,10000,0 [Base.TortillaChips, Base.Chocolate].
+[29-07-24 19:09:37.082] 76561197983853879 "Shuffmayn" container -2 10909,10000,0 [Base.DriedBlackBeans, Base.DriedChickpeas].
+[29-07-24 19:09:46.081] 76561197983853879 "Shuffmayn" container -1 10911,9999,0 [Base.TinnedBeans].
+[29-07-24 19:09:49.081] 76561197983853879 "Shuffmayn" container -2 10911,9999,0 [Base.CannedCornedBeef, Base.CannedPeas].
+[29-07-24 19:10:01.079] 76561197983853879 "Shuffmayn" container -1 10909,9993,0 [Base.Eraser].
+[29-07-24 19:10:04.086] 76561197983853879 "Shuffmayn" container -1 10909,9993,0 [Base.BookMetalWelding1].
+[29-07-24 19:10:07.079] 76561197983853879 "Shuffmayn" container -1 10909,9993,0 [Base.Magazine].
+[29-07-24 19:10:10.077] 76561197983853879 "Shuffmayn" container -1 10909,9993,0 [Base.Pencil].
+[29-07-24 19:10:16.077] 76561197983853879 "Shuffmayn" container -1 10910,9993,0 [Base.Book].
+[29-07-24 19:10:22.074] 76561197983853879 "Shuffmayn" container -1 10910,9993,0 [Base.Notebook].
+[29-07-24 19:10:25.080] 76561197983853879 "Shuffmayn" container -2 10910,9993,0 [Base.Magazine].
+[29-07-24 19:11:31.075] 76561197983853879 "Shuffmayn" container -1 10908,9990,0 [Base.RifleCase2].
+[29-07-24 19:13:12.686] 76561197983853879 "Shuffmayn" floor +1 10910,9998,0 [Base.RifleCase2].
+[29-07-24 19:13:28.075] 76561197983853879 "Shuffmayn" container -1 10912,9997,0 [Base.Bandage].
+[29-07-24 19:13:31.079] 76561197983853879 "Shuffmayn" container -1 10912,9997,0 [Base.BathTowel].
+[29-07-24 19:13:34.082] 76561197983853879 "Shuffmayn" container -1 10912,9997,0 [Base.Sheet].
+[29-07-24 19:13:37.075] 76561197983853879 "Shuffmayn" container -1 10912,9998,0 [Base.BathTowel].
+[29-07-24 19:14:55.081] 76561197983853879 "Shuffmayn" container -1 10911,10001,0 [Base.JacketLong_Random].
+[29-07-24 19:15:31.082] 76561197983853879 "Shuffmayn" container -1 10910,10002,0 [Base.Socks_Ankle].
+[29-07-24 19:15:34.074] 76561197983853879 "Shuffmayn" container -1 10910,10002,0 [Base.Shirt_CropTopTINT].
+[29-07-24 19:15:43.082] 76561197983853879 "Shuffmayn" container -1 10910,10002,0 [Base.Jumper_RoundNeck].
+[29-07-24 19:15:46.078] 76561197983853879 "Shuffmayn" container -1 10910,10002,0 [Base.Trousers_DefaultTEXTURE].
+[29-07-24 19:15:58.073] 76561197983853879 "Shuffmayn" container -1 10912,10001,0 [Base.Pen].
+[29-07-24 19:16:04.082] 76561197983853879 "Shuffmayn" container -2 10912,10001,0 [Base.Vest_DefaultTEXTURE_TINT, Base.Socks_Ankle].
+[29-07-24 19:16:07.076] 76561197983853879 "Shuffmayn" container -1 10912,10001,0 [Base.Trousers_DefaultTEXTURE].
+[29-07-24 19:16:10.074] 76561197983853879 "Shuffmayn" container -1 10912,10001,0 [Base.Jumper_VNeck].
+[29-07-24 19:16:25.081] 76561197983853879 "Shuffmayn" container -1 10912,10001,0 [Base.Shoes_Random].
+[29-07-24 19:16:40.075] 76561197983853879 "Shuffmayn" container -1 10911,10001,0 [Base.Tshirt_DefaultTEXTURE_TINT].
+[29-07-24 19:16:43.080] 76561197983853879 "Shuffmayn" container -1 10911,10001,0 [Base.Skirt_Normal].
+[29-07-24 19:16:52.082] 76561197983853879 "Shuffmayn" container -1 10910,10002,0 [Base.Jacket_WhiteTINT].
+[29-07-24 19:17:10.077] 76561197983853879 "Shuffmayn" container -5 10902,9993,0 [Base.Newspaper].
+[29-07-24 19:17:13.074] 76561197983853879 "Shuffmayn" container -1 10902,9993,0 [Base.Tarp].
+[29-07-24 19:18:31.079] 76561197983853879 "Shuffmayn" container -1 10880,9999,0 [Base.RedPen].
+[29-07-24 19:18:34.077] 76561197983853879 "Shuffmayn" container -1 10880,9999,0 [Base.Book].
+[29-07-24 19:18:58.083] 76561197983853879 "Shuffmayn" container -1 10876,9997,0 [Base.Key2].
+[29-07-24 19:19:13.075] 76561197983853879 "Shuffmayn" container -1 10876,10000,0 [Base.MagazineCrossword3].
+[29-07-24 19:19:16.076] 76561197983853879 "Shuffmayn" container -2 10876,10000,0 [Base.FishingMag1, Base.BookForaging1].
+[29-07-24 19:19:28.079] 76561197983853879 "Shuffmayn" container -2 10873,10004,0 [Base.PillsVitamins, Base.Bandage].
+[29-07-24 19:19:43.081] 76561197983853879 "Shuffmayn" container -2 10875,10006,0 [Base.TomatoPaste, Base.TunaTin].
+[29-07-24 19:19:46.078] 76561197983853879 "Shuffmayn" container -1 10875,10006,0 [Base.CannedSardines].
+[29-07-24 19:20:04.075] 76561197983853879 "Shuffmayn" container -1 10879,10006,0 [Base.Cheese].
+[29-07-24 19:20:10.085] 76561197983853879 "Shuffmayn" container -1 10879,10006,0 [Base.Pickles].
+[29-07-24 19:22:13.459] 76561197983853879 "Shuffmayn" floor +1 10879,9975,0 [Base.Glasses_Reading].
+[29-07-24 19:23:01.079] 76561197983853879 "Shuffmayn" container -2 10856,9960,0 [Base.VHS_Retail, Base.BookMechanic1].
+[29-07-24 19:23:13.078] 76561197983853879 "Shuffmayn" container -1 10854,9957,0 [Base.TomatoPaste].
+[29-07-24 19:23:16.077] 76561197983853879 "Shuffmayn" container -3 10854,9957,0 [Base.CannedCorn, Base.CannedPotato2, Base.CannedFruitCocktail].
+[29-07-24 19:23:19.077] 76561197983853879 "Shuffmayn" container -1 10854,9957,0 [Base.CannedBolognese].
+[29-07-24 19:23:31.081] 76561197983853879 "Shuffmayn" container -1 10854,9958,0 [Base.Icecream].
+[29-07-24 19:25:37.081] 76561197983853879 "Shuffmayn" container -1 10856,9945,0 [Base.Key5].
+[29-07-24 19:25:40.075] 76561197983853879 "Shuffmayn" container -1 10856,9945,0 [Base.Pills].
+[29-07-24 19:30:01.084] 76561197983853879 "Shuffmayn" container -1 10856,9944,0 [Base.Key4].
+[29-07-24 19:30:19.076] 76561197983853879 "Shuffmayn" container -1 10856,9944,0 [Base.WristWatch_Left_ClassicBrown].
+[29-07-24 19:30:21.501] 76561197983853879 "Shuffmayn" floor +1 10862,9911,0 [Base.UnusableWood].
+[29-07-24 19:30:21.502] 76561197983853879 "Shuffmayn" floor +1 10862,9911,0 [Base.Doorknob].
+[29-07-24 19:30:21.502] 76561197983853879 "Shuffmayn" floor +1 10862,9911,0 [Base.Hinge].
+[29-07-24 19:30:25.080] 76561197983853879 "Shuffmayn" container -1 10856,9944,0 [Base.Trousers_Ranger].
+[29-07-24 19:30:37.077] 76561197983853879 "Shuffmayn" container -1 10856,9944,0 [Base.Jacket_Ranger].
+[29-07-24 19:30:37.091] 76561197983853879 "Shuffmayn" floor +1 10879,9887,0 [Base.UnusableWood].
+[29-07-24 19:30:37.091] 76561197983853879 "Shuffmayn" floor +1 10879,9887,0 [Base.UnusableWood].
+[29-07-24 19:30:37.092] 76561197983853879 "Shuffmayn" floor +1 10879,9887,0 [Base.Doorknob].
+[29-07-24 19:30:43.081] 76561197983853879 "Shuffmayn" container -1 10856,9944,0 [Base.Screwdriver].
+[29-07-24 19:30:45.456] 76561197983853879 "Shuffmayn" floor +1 10860,9894,0 [Base.UnusableWood].
+[29-07-24 19:30:45.457] 76561197983853879 "Shuffmayn" floor +1 10860,9894,0 [Base.Doorknob].
+[29-07-24 19:30:48.617] 76561197983853879 "Shuffmayn" floor +1 10792,9986,0 [Base.UnusableWood].
+[29-07-24 19:30:48.618] 76561197983853879 "Shuffmayn" floor +1 10792,9986,0 [Base.Doorknob].
+[29-07-24 19:30:48.619] 76561197983853879 "Shuffmayn" floor +1 10792,9986,0 [Base.Hinge].
+[29-07-24 19:30:56.862] 76561197983853879 "Shuffmayn" floor +1 10882,9890,0 [Base.UnusableWood].
+[29-07-24 19:30:56.863] 76561197983853879 "Shuffmayn" floor +1 10882,9890,0 [Base.Doorknob].
+[29-07-24 19:30:56.863] 76561197983853879 "Shuffmayn" floor +1 10882,9890,0 [Base.Hinge].
+[29-07-24 19:30:56.863] 76561197983853879 "Shuffmayn" floor +1 10882,9890,0 [Base.Hinge].
+[29-07-24 19:31:01.075] 76561197983853879 "Shuffmayn" container -1 10856,9944,0 [Base.PillsVitamins].
+[29-07-24 19:32:02.785] 76561197983853879 "Shuffmayn" floor +1 10856,9894,0 [Base.UnusableWood].
+[29-07-24 19:32:02.785] 76561197983853879 "Shuffmayn" floor +1 10856,9894,0 [Base.UnusableWood].
+[29-07-24 19:32:02.786] 76561197983853879 "Shuffmayn" floor +1 10856,9894,0 [Base.Doorknob].
+[29-07-24 19:32:02.787] 76561197983853879 "Shuffmayn" floor +1 10856,9894,0 [Base.Hinge].
+[29-07-24 19:33:28.081] 76561197983853879 "Shuffmayn" container -1 10872,9973,0 [Base.Dress_SmallBlackStrapless].
+[29-07-24 19:33:31.077] 76561197983853879 "Shuffmayn" container -1 10872,9973,0 [Base.Socks_Ankle].
+[29-07-24 19:35:43.078] 76561197983853879 "Shuffmayn" container -1 10870,10036,0 [Base.CarKey].
+[29-07-24 19:35:49.077] 76561197983853879 "Shuffmayn" container -1 10870,10036,0 [Base.Battery].
+[29-07-24 19:36:07.078] 76561197983853879 "Shuffmayn" container -1 10870,10036,0 [Base.DuctTape].
+[29-07-24 19:36:19.081] 76561197983853879 "Shuffmayn" container +0 10870,10036,0 [Base.TinnedBeans, Base.TunaTin].
+[29-07-24 19:36:22.076] 76561197983853879 "Shuffmayn" container +0 10870,10036,0 [Base.CannedCorn].
+[29-07-24 19:36:25.101] 76561197983853879 "Shuffmayn" container +0 10870,10036,0 [Base.CannedCornedBeef, Base.CannedFruitCocktail].
+[29-07-24 19:36:28.074] 76561197983853879 "Shuffmayn" container +0 10870,10036,0 [Base.CannedPeas].
+[29-07-24 19:36:31.075] 76561197983853879 "Shuffmayn" container +0 10870,10036,0 [Base.CannedSardines, Base.CannedPotato2].
+[29-07-24 19:36:34.080] 76561197983853879 "Shuffmayn" container +0 10870,10036,0 [Base.CannedBolognese].
+[29-07-24 19:37:13.079] 76561197983853879 "Shuffmayn" container +0 10870,10036,0 [Base.Pen, Base.RedPen].
+[29-07-24 19:37:16.077] 76561197983853879 "Shuffmayn" container +0 10870,10036,0 [Base.MeatCleaver].
+[29-07-24 19:37:19.076] 76561197983853879 "Shuffmayn" container +0 10870,10036,0 [Base.DriedBlackBeans].
+[29-07-24 19:37:25.075] 76561197983853879 "Shuffmayn" container +0 10870,10036,0 [Base.DriedChickpeas].
+[29-07-24 19:37:28.074] 76561197983853879 "Shuffmayn" container +0 10870,10036,0 [Base.Shoes_Random].
+[29-07-24 19:37:31.081] 76561197983853879 "Shuffmayn" container +0 10870,10036,0 [Base.TortillaChips, Base.TomatoPaste].
+[29-07-24 19:37:34.079] 76561197983853879 "Shuffmayn" container +0 10870,10036,0 [Base.VHS_Retail, Base.TomatoPaste].
+[29-07-24 19:37:55.083] 76561197983853879 "Shuffmayn" container +0 10870,10036,0 [Base.RippedSheetsDirty].
+[29-07-24 19:38:01.079] 76561197983853879 "Shuffmayn" container +0 10870,10036,0 [Base.LightBulb, Base.JacketLong_Random].
+[29-07-24 19:38:04.079] 76561197983853879 "Shuffmayn" container +0 10870,10036,0 [Base.Trousers_DefaultTEXTURE].
+[29-07-24 19:38:07.075] 76561197983853879 "Shuffmayn" container +0 10870,10036,0 [Base.RippedSheets, Base.Thread].
+[29-07-24 19:39:00.503] 76561197983853879 "Shuffmayn" floor +1 10794,9991,0 [Base.UnusableWood].
+[29-07-24 19:39:00.504] 76561197983853879 "Shuffmayn" floor +1 10794,9991,0 [Base.Doorknob].
+[29-07-24 19:39:00.505] 76561197983853879 "Shuffmayn" floor +1 10794,9991,0 [Base.Hinge].
+[29-07-24 19:39:00.505] 76561197983853879 "Shuffmayn" floor +1 10794,9991,0 [Base.Hinge].
+[29-07-24 19:39:16.080] 76561197983853879 "Shuffmayn" container -7 10875,10027,0 [Base.Antibiotics, Base.Hat_SurgicalMask_Blue, Base.SutureNeedleHolder, Base.Scalpel, Base.Bandage, Base.Pills].
+[29-07-24 19:39:19.079] 76561197983853879 "Shuffmayn" container -5 10875,10028,0 [Base.PillsBeta, Base.Bandaid, Base.Pills, Base.CottonBalls].
+[29-07-24 19:39:22.074] 76561197983853879 "Shuffmayn" container -4 10875,10028,0 [Base.AlcoholWipes, Base.PillsSleepingTablets, Base.Disinfectant, Base.Pills].
+[29-07-24 19:39:25.083] 76561197983853879 "Shuffmayn" container -6 10875,10029,0 [Base.AlcoholWipes, Base.PillsSleepingTablets, Base.Bandage, Base.Pills, Base.PillsAntiDep].
+[29-07-24 19:39:37.078] 76561197983853879 "Shuffmayn" container -2 10882,10027,0 [Base.Bandage, Base.CottonBalls].
+[29-07-24 19:39:40.073] 76561197983853879 "Shuffmayn" container -1 10882,10027,0 [Base.AlcoholWipes].
+[29-07-24 19:39:43.086] 76561197983853879 "Shuffmayn" container -4 10881,10027,0 [Base.Gloves_Surgical, Base.Antibiotics, Base.HospitalGown, Base.CottonBalls].
+[29-07-24 19:39:46.086] 76561197983853879 "Shuffmayn" container -2 10881,10027,0 [Base.Shirt_Scrubs, Base.JacketLong_Doctor].
+[29-07-24 19:39:52.078] 76561197983853879 "Shuffmayn" container -1 10880,10027,0 [Base.Book].
+[29-07-24 19:39:55.079] 76561197983853879 "Shuffmayn" container -4 10880,10027,0 [Base.Book, Base.BookFirstAid1, Base.BookFirstAid3].
+[29-07-24 19:40:01.076] 76561197983853879 "Shuffmayn" container -9 10883,10027,0 [Base.AlcoholWipes, Base.Scalpel, Base.Tweezers].
+[29-07-24 19:40:22.075] 76561197983853879 "Shuffmayn" container -2 10880,10029,0 [Base.Notebook].
+[29-07-24 19:40:28.083] 76561197983853879 "Shuffmayn" container -1 10882,10031,0 [Base.Glue].
+[29-07-24 19:41:46.077] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.308Bullets].
+[29-07-24 19:41:49.081] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.Battery, Base.Gloves_Surgical, Base.Antibiotics, Base.Glue, Base.Newspaper, Base.Eraser, Base.SutureNeedleHolder, Base.Pencil, Base.FishingMag1, Base.Bandage, Base.Bandaid, Base.CottonBalls].
+[29-07-24 19:41:52.076] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.PillsBeta, Base.Magazine, Base.MagazineCrossword3, Base.Chocolate, Base.PillsAntiDep, Base.Tweezers].
+[29-07-24 19:41:55.086] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.Magazine, Base.Hat_SurgicalMask_Blue, Base.Pills].
+[29-07-24 19:41:58.081] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.PillsVitamins, Base.PillsSleepingTablets, Base.Pills].
+[29-07-24 19:42:01.071] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.PillsVitamins, Base.AlcoholWipes].
+[29-07-24 19:42:04.074] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.AlcoholWipes, Base.Disinfectant, Base.Scalpel, Base.DuctTape].
+[29-07-24 19:42:07.079] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.Scalpel].
+[29-07-24 19:42:10.077] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.Book].
+[29-07-24 19:42:13.079] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.Book].
+[29-07-24 19:42:16.075] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.Notebook].
+[29-07-24 19:42:19.086] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.TinOpener].
+[29-07-24 19:42:22.078] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.BookFirstAid1, Base.BookFirstAid3].
+[29-07-24 19:42:25.079] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.BookForaging1].
+[29-07-24 19:42:28.079] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.BookMetalWelding1, Base.BookMechanic1].
+[29-07-24 19:42:31.079] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.Sheet].
+[29-07-24 19:42:34.077] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.Hammer].
+[29-07-24 19:42:37.073] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.HospitalGown].
+[29-07-24 19:42:40.082] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.Shirt_Scrubs, Base.Tarp].
+[29-07-24 19:42:46.074] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.BaseballBat].
+[29-07-24 19:42:52.075] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.JacketLong_Doctor].
+[29-07-24 19:44:13.073] 76561197983853879 "Shuffmayn" container -48 10870,10036,0 [Base.Pen, Base.RippedSheets, Base.LightBulb, Base.Thread, Base.RippedSheetsDirty, Base.CannedPotato2, Base.VHS_Retail, Base.RedPen].
+[29-07-24 19:44:16.073] 76561197983853879 "Shuffmayn" container -7 10870,10036,0 [Base.TortillaChips, Base.Screwdriver, Base.CannedCorn, Base.TinnedBeans, Base.TomatoPaste, Base.TunaTin].
+[29-07-24 19:44:19.082] 76561197983853879 "Shuffmayn" container -3 10870,10036,0 [Base.CannedCornedBeef, Base.CannedPeas, Base.CannedFruitCocktail].
+[29-07-24 19:44:22.081] 76561197983853879 "Shuffmayn" container -3 10870,10036,0 [Base.MeatCleaver, Base.CannedSardines, Base.CannedBolognese].
+[29-07-24 19:44:25.082] 76561197983853879 "Shuffmayn" container -2 10870,10036,0 [Base.Shoes_Random, Base.Trousers_DefaultTEXTURE].
+[29-07-24 19:44:28.079] 76561197983853879 "Shuffmayn" container -2 10870,10036,0 [Base.DriedBlackBeans, Base.JacketLong_Random].
+[29-07-24 19:44:31.076] 76561197983853879 "Shuffmayn" container -1 10870,10036,0 [Base.DriedChickpeas].
+[29-07-24 19:45:04.074] 76561197983853879 "Shuffmayn" container -1 10878,10027,1 [Base.Sheet].
+[29-07-24 19:45:13.078] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.RippedSheets, Base.RippedSheetsDirty].
+[29-07-24 19:45:16.082] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.Pen, Base.TortillaChips, Base.RippedSheets, Base.LightBulb, Base.Thread, Base.VHS_Retail, Base.TomatoPaste, Base.RedPen].
+[29-07-24 19:45:19.076] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.Screwdriver, Base.TunaTin].
+[29-07-24 19:45:22.071] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.CannedCorn, Base.TinnedBeans].
+[29-07-24 19:45:25.073] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.CannedCornedBeef].
+[29-07-24 19:45:28.076] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.CannedPeas, Base.CannedFruitCocktail].
+[29-07-24 19:45:31.074] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.CannedPotato2].
+[29-07-24 19:45:34.076] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.CannedSardines, Base.CannedBolognese].
+[29-07-24 19:45:37.084] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.MeatCleaver].
+[29-07-24 19:45:40.082] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.Trousers_DefaultTEXTURE].
+[29-07-24 19:45:43.079] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.Shoes_Random].
+[29-07-24 19:45:49.078] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.JacketLong_Random].
+[29-07-24 19:45:52.085] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.DriedBlackBeans].
+[29-07-24 19:45:58.074] 76561197983853879 "Shuffmayn" container +0 10878,10027,1 [Base.DriedChickpeas].
+[29-07-24 19:47:55.084] 76561197983853879 "Shuffmayn" container -1 10878,10027,1 [Base.FishingMag1].
+[29-07-24 20:04:55.070] 76561197983853879 "Shuffmayn" container -1 10894,10050,0 [Base.Trousers_DefaultTEXTURE_HUE].
+[29-07-24 20:04:58.078] 76561197983853879 "Shuffmayn" container -1 10894,10050,0 [Base.Vest_DefaultTEXTURE_TINT].
+[29-07-24 20:05:01.074] 76561197983853879 "Shuffmayn" container -1 10894,10050,0 [Base.Tshirt_SportDECAL].
+[29-07-24 20:05:04.079] 76561197983853879 "Shuffmayn" container -1 10894,10050,0 [Base.Jacket_Varsity].
+[29-07-24 20:05:19.079] 76561197983853879 "Shuffmayn" container -3 10894,10046,0 [Base.BookElectrician1, Base.DuctTape, Base.Amplifier].
+[29-07-24 20:05:22.082] 76561197983853879 "Shuffmayn" container -1 10894,10046,0 [Base.EmptyPetrolCan].
+[29-07-24 20:05:25.084] 76561197983853879 "Shuffmayn" container -1 10894,10046,0 [Base.ElectronicsScrap].
+[29-07-24 20:09:46.079] 76561197983853879 "Shuffmayn" container -1 10888,10049,0 [Base.Shirt_Lumberjack].
+[29-07-24 20:09:49.083] 76561197983853879 "Shuffmayn" container -1 10888,10049,0 [Base.Vest_DefaultTEXTURE_TINT].
+[29-07-24 20:09:52.080] 76561197983853879 "Shuffmayn" container -1 10888,10049,0 [Base.Socks_Long].
+[29-07-24 20:14:52.080] 76561197983853879 "Shuffmayn" container +0 10880,10032,1 [Base.RippedSheets].
+[29-07-24 20:14:55.076] 76561197983853879 "Shuffmayn" container +0 10880,10032,1 [Base.Thread, Base.Sheet].
+[29-07-24 20:14:58.074] 76561197983853879 "Shuffmayn" container +0 10880,10032,1 [Base.MetalBar].
+[29-07-24 20:15:01.075] 76561197983853879 "Shuffmayn" container +0 10880,10032,1 [Base.MetalBar].
+[29-07-24 20:15:04.079] 76561197983853879 "Shuffmayn" container +0 10880,10032,1 [Base.MetalBar].
+[29-07-24 20:15:07.080] 76561197983853879 "Shuffmayn" container +0 10880,10032,1 [Base.MetalBar].
+[29-07-24 20:22:10.079] 76561197983853879 "Shuffmayn" container -1 10878,10027,1 [Base.Book].

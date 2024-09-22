@@ -1,0 +1,5 @@
+[29-07-24 19:07:34.065][info] Init chat system....
+[29-07-24 19:07:34.065][info] Mode: multiplayer.
+[29-07-24 19:07:34.065][info] Chat owner: Shuffmayn.
+[29-07-24 19:49:06.686][info] Got message from server: ChatMessage{chat=Server, author='Server', text='Unknown command admin'}.
+[29-07-24 19:51:26.919][info] Got message from server: ChatMessage{chat=Server, author='Server', text='Your access level is now: 32'}.

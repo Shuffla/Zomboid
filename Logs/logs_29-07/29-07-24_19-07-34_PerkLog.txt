@@ -1,0 +1,7 @@
+[29-07-24 19:07:34.852] [76561197983853879][Shuffmayn][10908,9994,0][Login][Hours Survived: 0].
+[29-07-24 19:07:34.853] [76561197983853879][Shuffmayn][10908,9994,0][Cooking=0, Fitness=1, Strength=6, Blunt=0, Axe=2, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=1, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[29-07-24 19:52:10.460] [76561197983853879][Shuffmayn][10878,10029,1][Level Changed][MetalWelding][1][Hours Survived: 5].
+[29-07-24 19:52:11.910] [76561197983853879][Shuffmayn][10878,10029,1][Level Changed][MetalWelding][2][Hours Survived: 5].
+[29-07-24 19:52:30.046] [76561197983853879][Shuffmayn][10878,10029,1][Level Changed][Electricity][1][Hours Survived: 5].
+[29-07-24 19:52:37.893] [76561197983853879][Shuffmayn][10878,10029,1][Level Changed][Mechanics][1][Hours Survived: 5].
+[29-07-24 19:52:38.299] [76561197983853879][Shuffmayn][10878,10029,1][Level Changed][Mechanics][2][Hours Survived: 5].

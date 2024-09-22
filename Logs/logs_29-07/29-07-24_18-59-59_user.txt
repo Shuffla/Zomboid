@@ -1,0 +1,8 @@
+[29-07-24 18:59:59.041] added connection index=0 127.0.0.1.
+[29-07-24 19:00:00.777] 76561197983853879 "Shuffmayn" attempting to join.
+[29-07-24 19:00:00.777] 76561197983853879 "Shuffmayn" allowed to join.
+[29-07-24 19:07:15.352] 76561197983853879 "Shuffmayn" attempting to join used queue.
+[29-07-24 19:07:30.763] player Shuffmayn loading time was: 14575 ms.
+[29-07-24 19:07:34.051] 76561197983853879 "Shuffmayn" fully connected (10908,9994,0).
+[29-07-24 20:26:15.256] 76561197983853879 "Shuffmayn" removed connection index=0.
+[29-07-24 20:26:15.287] 76561197983853879 "Shuffmayn" disconnected player (10878,10028,1).

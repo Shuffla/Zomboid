@@ -1,0 +1,2 @@
+[29-07-24 19:07:34.047][INFO] user "Shuffmayn" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[29-07-24 20:26:15.269][INFO] user "Shuffmayn" store safety enabled=true last=true cooldown=0.0 toggle=0.0.

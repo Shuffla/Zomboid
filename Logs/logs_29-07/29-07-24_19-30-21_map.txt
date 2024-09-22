@@ -1,0 +1,7 @@
+[29-07-24 19:30:21.504] 76561197983853879 "Shuffmayn" removed Door (fixtures_doors_01_12) at 10862,9911,0.
+[29-07-24 19:30:37.092] 76561197983853879 "Shuffmayn" removed Door (fixtures_doors_01_12) at 10879,9887,0.
+[29-07-24 19:30:45.457] 76561197983853879 "Shuffmayn" removed Door (fixtures_doors_01_12) at 10860,9894,0.
+[29-07-24 19:30:48.619] 76561197983853879 "Shuffmayn" removed Door (fixtures_doors_01_0) at 10792,9986,0.
+[29-07-24 19:30:56.864] 76561197983853879 "Shuffmayn" removed Door (fixtures_doors_01_13) at 10882,9890,0.
+[29-07-24 19:32:02.787] 76561197983853879 "Shuffmayn" removed Door (fixtures_doors_01_13) at 10856,9894,0.
+[29-07-24 19:39:00.505] 76561197983853879 "Shuffmayn" removed Door (fixtures_doors_01_45) at 10794,9991,0.

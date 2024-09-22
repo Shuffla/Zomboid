@@ -1,0 +1,83 @@
+[19-09-24 21:56:49.620] LOG  : General     , 1726775809620> cachedir set to "C:\Users\mail\Zomboid".
+[19-09-24 21:56:49.625] LOG  : General     , 1726775809625> 19-09-2024 21:56:49.
+[19-09-24 21:56:49.626] LOG  : General     , 1726775809626> cachedir is "C:\Users\mail\Zomboid".
+[19-09-24 21:56:49.626] LOG  : General     , 1726775809626> LogFileDir is "C:\Users\mail\Zomboid\Logs".
+[19-09-24 21:56:49.626] LOG  : General     , 1726775809626> ===== System specs =====.
+[19-09-24 21:56:49.628] LOG  : General     , 1726775809628> OS: Windows 10, version: 10.0, arch: amd64.
+[19-09-24 21:56:49.628] LOG  : General     , 1726775809628> Processor: Intel64 Family 6 Model 151 Stepping 2, GenuineIntel.
+[19-09-24 21:56:49.628] LOG  : General     , 1726775809628> Processor cores: 20.
+[19-09-24 21:56:49.629] LOG  : General     , 1726775809629> Available processors (cores): 20.
+[19-09-24 21:56:49.630] LOG  : General     , 1726775809630> Memory free: 488.5466 MB.
+[19-09-24 21:56:49.631] LOG  : General     , 1726775809631> Memory max: 3072.0 MB.
+[19-09-24 21:56:49.631] LOG  : General     , 1726775809631> Memory  total available to JVM: 510.0 MB.
+[19-09-24 21:56:49.633] LOG  : General     , 1726775809633> C:\, Total: 1862.3677 GB, Free: 947.40106 GB.
+[19-09-24 21:56:49.634] LOG  : General     , 1726775809634> D:\, Total: 931.4961 GB, Free: 181.41724 GB.
+[19-09-24 21:56:49.634] LOG  : General     , 1726775809634> E:\, Total: 464.34467 GB, Free: 300.92633 GB.
+[19-09-24 21:56:49.740] LOG  : General     , 1726775809740> Mobo = [Product=Z790 Pro RS].
+[19-09-24 21:56:49.835] LOG  : General     , 1726775809835> CPU = [Manufacturer=GenuineIntel,MaxClockSpeed=3600,Name=12th Gen Intel(R) Core(TM) i7-12700KF].
+[19-09-24 21:56:49.997] LOG  : General     , 1726775809997> Graphics = [AdapterRAM=4293918720,DriverVersion=31.0.15.5244,Name=NVIDIA GeForce RTX 3050].
+[19-09-24 21:56:50.162] LOG  : General     , 1726775810162> VideoMode = [VideoModeDescription=1920 x 1080 x 4294967296 colors].
+[19-09-24 21:56:50.277] LOG  : General     , 1726775810277> Sound = { [Manufacturer=Microsoft,Name=High Definition Audio Device], [Manufacturer=NVIDIA,Name=NVIDIA High Definition Audio], [Manufacturer=CORSAIR,Name=CORSAIR VOID ELITE Wireless Gaming Headset], [Manufacturer=NVIDIA,Name=NVIDIA Virtual Audio Device (Wave Extensible) (WDM)], [Manufacturer=Voicemod S.L.,Name=Voicemod Virtual Audio Device (WDM)] }.
+[19-09-24 21:56:50.373] LOG  : General     , 1726775810373> Memory RAM = { [Capacity=17179869184,Manufacturer=G Skill Intl], [Capacity=17179869184,Manufacturer=G Skill Intl] }.
+[19-09-24 21:56:50.373] LOG  : General     , 1726775810373> ========================.
+[19-09-24 21:56:50.373] LOG  : General     , 1726775810373> -- listing properties --.
+[19-09-24 21:56:50.374] LOG  : General     , 1726775810374> java.specification.version=17.
+[19-09-24 21:56:50.374] LOG  : General     , 1726775810374> sun.cpu.isalist=amd64.
+[19-09-24 21:56:50.374] LOG  : General     , 1726775810374> sun.jnu.encoding=Cp1252.
+[19-09-24 21:56:50.374] LOG  : General     , 1726775810374> java.class.path=.;commons-compress-1.18.jar;istack-co....
+[19-09-24 21:56:50.375] LOG  : General     , 1726775810375> java.vm.vendor=Azul Systems, Inc..
+[19-09-24 21:56:50.375] LOG  : General     , 1726775810375> sun.arch.data.model=64.
+[19-09-24 21:56:50.375] LOG  : General     , 1726775810375> user.variant=.
+[19-09-24 21:56:50.375] LOG  : General     , 1726775810375> java.vendor.url=http://www.azul.com/.
+[19-09-24 21:56:50.375] LOG  : General     , 1726775810375> user.timezone=Europe/Berlin.
+[19-09-24 21:56:50.375] LOG  : General     , 1726775810375> zomboid.steam=1.
+[19-09-24 21:56:50.376] LOG  : General     , 1726775810376> user.country.format=DK.
+[19-09-24 21:56:50.376] LOG  : General     , 1726775810376> java.vm.specification.version=17.
+[19-09-24 21:56:50.376] LOG  : General     , 1726775810376> os.name=Windows 10.
+[19-09-24 21:56:50.376] LOG  : General     , 1726775810376> user.country=US.
+[19-09-24 21:56:50.376] LOG  : General     , 1726775810376> sun.boot.library.path=C:\Program Files (x86)\Steam\steamapp....
+[19-09-24 21:56:50.376] LOG  : General     , 1726775810376> zomboid.znetlog=1.
+[19-09-24 21:56:50.376] LOG  : General     , 1726775810376> jdk.debug=release.
+[19-09-24 21:56:50.377] LOG  : General     , 1726775810377> sun.cpu.endian=little.
+[19-09-24 21:56:50.377] LOG  : General     , 1726775810377> user.home=C:\Users\mail.
+[19-09-24 21:56:50.377] LOG  : General     , 1726775810377> user.language=en.
+[19-09-24 21:56:50.377] LOG  : General     , 1726775810377> java.specification.vendor=Oracle Corporation.
+[19-09-24 21:56:50.377] LOG  : General     , 1726775810377> java.version.date=2021-10-19.
+[19-09-24 21:56:50.377] LOG  : General     , 1726775810377> java.home=C:\Program Files (x86)\Steam\steamapp....
+[19-09-24 21:56:50.377] LOG  : General     , 1726775810377> file.separator=\.
+[19-09-24 21:56:50.377] LOG  : General     , 1726775810377> java.vm.compressedOopsMode=Zero based.
+[19-09-24 21:56:50.378] LOG  : General     , 1726775810378> line.separator=.
+[19-09-24 21:56:50.378] LOG  : General     , 1726775810378> java.vm.specification.vendor=Oracle Corporation.
+[19-09-24 21:56:50.378] LOG  : General     , 1726775810378> java.specification.name=Java Platform API Specification.
+[19-09-24 21:56:50.378] LOG  : General     , 1726775810378> java.awt.headless=true.
+[19-09-24 21:56:50.379] LOG  : General     , 1726775810379> user.script=.
+[19-09-24 21:56:50.379] LOG  : General     , 1726775810379> sun.management.compiler=HotSpot 64-Bit Tiered Compilers.
+[19-09-24 21:56:50.379] LOG  : General     , 1726775810379> java.runtime.version=17.0.1+12-LTS.
+[19-09-24 21:56:50.379] LOG  : General     , 1726775810379> user.name=mail.
+[19-09-24 21:56:50.379] LOG  : General     , 1726775810379> path.separator=;.
+[19-09-24 21:56:50.379] LOG  : General     , 1726775810379> os.version=10.0.
+[19-09-24 21:56:50.379] LOG  : General     , 1726775810379> java.runtime.name=OpenJDK Runtime Environment.
+[19-09-24 21:56:50.379] LOG  : General     , 1726775810379> file.encoding=Cp1252.
+[19-09-24 21:56:50.380] LOG  : General     , 1726775810380> java.vm.name=OpenJDK 64-Bit Server VM.
+[19-09-24 21:56:50.380] LOG  : General     , 1726775810380> java.vendor.version=Zulu17.30+15-CA.
+[19-09-24 21:56:50.380] LOG  : General     , 1726775810380> java.vendor.url.bug=http://www.azul.com/support/.
+[19-09-24 21:56:50.380] LOG  : General     , 1726775810380> java.io.tmpdir=C:\Users\mail\AppData\Local\Temp\.
+[19-09-24 21:56:50.380] LOG  : General     , 1726775810380> java.version=17.0.1.
+[19-09-24 21:56:50.380] LOG  : General     , 1726775810380> user.dir=C:\Program Files (x86)\Steam\steamapp....
+[19-09-24 21:56:50.380] LOG  : General     , 1726775810380> os.arch=amd64.
+[19-09-24 21:56:50.381] LOG  : General     , 1726775810381> java.vm.specification.name=Java Virtual Machine Specification.
+[19-09-24 21:56:50.381] LOG  : General     , 1726775810381> user.language.format=da.
+[19-09-24 21:56:50.381] LOG  : General     , 1726775810381> sun.os.patch.level=.
+[19-09-24 21:56:50.381] LOG  : General     , 1726775810381> native.encoding=Cp1252.
+[19-09-24 21:56:50.381] LOG  : General     , 1726775810381> java.library.path=win64/;..
+[19-09-24 21:56:50.381] LOG  : General     , 1726775810381> java.vm.info=mixed mode, sharing.
+[19-09-24 21:56:50.381] LOG  : General     , 1726775810381> java.vendor=Azul Systems, Inc..
+[19-09-24 21:56:50.381] LOG  : General     , 1726775810381> java.vm.version=17.0.1+12-LTS.
+[19-09-24 21:56:50.381] LOG  : General     , 1726775810381> sun.io.unicode.encoding=UnicodeLittle.
+[19-09-24 21:56:50.382] LOG  : General     , 1726775810382> java.class.version=61.0.
+[19-09-24 21:56:50.382] LOG  : General     , 1726775810382> -----.
+[19-09-24 21:56:50.382] LOG  : General     , 1726775810382> version=41.78.16 demo=false.
+[19-09-24 21:56:50.584] LOG  : General     , 1726775810584> LightingFPS set to 15.
+[19-09-24 21:56:50.586] LOG  : General     , 1726775810586> [javafmodJNI] Init: Start.
+[19-09-24 21:56:50.586] LOG  : General     , 1726775810586> [javafmodJNI] Init: WIN 64.
+[19-09-24 21:56:50.610] LOG  : General     , 1726775810610> 1726775810606 fmod: Java loging: OK.

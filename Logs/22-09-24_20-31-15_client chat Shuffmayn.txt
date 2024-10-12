@@ -1,5 +1,0 @@
-[22-09-24 20:31:15.990][info] Init chat system....
-[22-09-24 20:31:15.990][info] Mode: multiplayer.
-[22-09-24 20:31:15.990][info] Chat owner: Shuffmayn.
-[22-09-24 21:00:40.058][info] Got message from server: ChatMessage{chat=Admin chat, author='Server', text='user Shuffmayn killed Mikki1990'}.
-[22-09-24 21:20:27.890][info] Got message from server: ChatMessage{chat=Server, author='Server', text='teleported Mikki1990 to Shuffmayn'}.

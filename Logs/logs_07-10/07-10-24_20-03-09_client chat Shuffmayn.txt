@@ -1,0 +1,4 @@
+[07-10-24 20:03:09.350][info] Init chat system....
+[07-10-24 20:03:09.350][info] Mode: multiplayer.
+[07-10-24 20:03:09.350][info] Chat owner: Shuffmayn.
+[07-10-24 20:07:37.083][info] Got message from server: ChatMessage{chat=Local, author='Mikki1990', text='pssst!'}.

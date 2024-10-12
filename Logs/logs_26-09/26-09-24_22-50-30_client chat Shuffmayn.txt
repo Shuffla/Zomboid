@@ -1,0 +1,4 @@
+[26-09-24 22:50:30.600][info] Init chat system....
+[26-09-24 22:50:30.600][info] Mode: multiplayer.
+[26-09-24 22:50:30.600][info] Chat owner: Shuffmayn.
+[26-09-24 23:12:02.680][info] Got message from server: ChatMessage{chat=Local, author='VudO', text='psst'}.

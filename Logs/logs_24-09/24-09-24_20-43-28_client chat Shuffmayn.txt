@@ -1,0 +1,11 @@
+[24-09-24 20:43:28.957][info] Init chat system....
+[24-09-24 20:43:28.957][info] Mode: multiplayer.
+[24-09-24 20:43:28.957][info] Chat owner: Shuffmayn.
+[24-09-24 20:51:30.788][info] Got message from server: ChatMessage{chat=Server, author='Server', text='teleported J_killer to Shuffmayn'}.
+[24-09-24 20:51:37.138][info] Got message from server: ChatMessage{chat=Server, author='Server', text='teleported J_killer to Shuffmayn'}.
+[24-09-24 21:06:24.238][info] Got message from server: ChatMessage{chat=Local, author='Mikki1990', text='It is necessary to clear the passage to the bed.'}.
+[24-09-24 21:06:28.538][info] Got message from server: ChatMessage{chat=Local, author='Mikki1990', text='It is necessary to clear the passage to the bed.'}.
+[24-09-24 21:35:00.355][info] Got message from server: ChatMessage{chat=Server, author='Server', text='teleported VudO to Shuffmayn'}.
+[24-09-24 23:26:40.988][info] Got message from server: ChatMessage{chat=Local, author='Mikki1990', text='HEY!'}.
+[24-09-24 23:26:41.705][info] Got message from server: ChatMessage{chat=Local, author='Mikki1990', text='HEY YOU!'}.
+[24-09-24 23:27:01.988][info] Got message from server: ChatMessage{chat=Local, author='Mikki1990', text='HEY!'}.

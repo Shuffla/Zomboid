@@ -1,0 +1,6 @@
+[23-09-24 19:28:36.564][info] Init chat system....
+[23-09-24 19:28:36.564][info] Mode: multiplayer.
+[23-09-24 19:28:36.564][info] Chat owner: Shuffmayn.
+[23-09-24 19:28:47.339][info] Got message from server: ChatMessage{chat=Server, author='Server', text='teleported to Mikki1990 please wait two seconds to show the map around you.'}.
+[23-09-24 19:30:37.356][info] Got message from server: ChatMessage{chat=Server, author='Server', text='Zombies removed.'}.
+[23-09-24 20:13:32.089][info] Got message from server: ChatMessage{chat=Server, author='Server', text='teleported Mikki1990 to Shuffmayn'}.

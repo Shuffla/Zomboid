@@ -625,6 +625,9 @@ SandboxVars = {
         AllowVanillaWorldItemDismantling = true,
         AllowPowerChadSpawns = true,
         AllowMrBusSpawns = true,
+        AllowChonkerSpawns = true,
+        AllowCashcowSpawns = true,
+        AllowMcBoxySpawns = true,
         AllowBushmasterSpawns = true,
     },
     BicPen = {

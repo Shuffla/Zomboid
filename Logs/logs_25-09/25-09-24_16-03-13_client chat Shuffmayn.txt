@@ -1,0 +1,5 @@
+[25-09-24 16:03:13.364][info] Init chat system....
+[25-09-24 16:03:13.364][info] Mode: multiplayer.
+[25-09-24 16:03:13.364][info] Chat owner: Shuffmayn.
+[25-09-24 16:07:43.879][info] Got message from server: ChatMessage{chat=Server, author='Server', text='teleported VudO to Shuffmayn'}.
+[25-09-24 18:01:32.595][info] Got message from server: ChatMessage{chat=Local, author='VudO', text='It is necessary to clear the passage to the bed.'}.

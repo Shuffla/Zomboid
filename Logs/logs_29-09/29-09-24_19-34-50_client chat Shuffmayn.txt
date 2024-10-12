@@ -1,0 +1,6 @@
+[29-09-24 19:34:50.693][info] Init chat system....
+[29-09-24 19:34:50.693][info] Mode: multiplayer.
+[29-09-24 19:34:50.693][info] Chat owner: Shuffmayn.
+[29-09-24 19:38:31.837][info] Got message from server: ChatMessage{chat=Local, author='VudO', text='sove'}.
+[29-09-24 19:41:36.181][info] Got message from server: ChatMessage{chat=Local, author='VudO', text='sove?'}.
+[29-09-24 19:43:23.154][info] Got message from server: ChatMessage{chat=Local, author='VudO', text='sove?'}.

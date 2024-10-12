@@ -1,0 +1,4 @@
+[24-09-24 14:49:34.525][info] Init chat system....
+[24-09-24 14:49:34.525][info] Mode: multiplayer.
+[24-09-24 14:49:34.525][info] Chat owner: Shuffmayn.
+[24-09-24 15:56:09.514][info] Got message from server: ChatMessage{chat=Local, author='Mikki1990', text='It is necessary to clear the passage to the bed.'}.

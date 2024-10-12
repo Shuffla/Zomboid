@@ -1,0 +1,4 @@
+[27-09-24 20:47:44.055][info] Init chat system....
+[27-09-24 20:47:44.055][info] Mode: multiplayer.
+[27-09-24 20:47:44.055][info] Chat owner: Shuffmayn.
+[27-09-24 21:53:43.041][info] Got message from server: ChatMessage{chat=Server, author='Server', text='Horde spawned.'}.

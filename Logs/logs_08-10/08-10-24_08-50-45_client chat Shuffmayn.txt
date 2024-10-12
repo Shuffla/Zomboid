@@ -1,0 +1,18 @@
+[08-10-24 08:50:45.373][info] Init chat system....
+[08-10-24 08:50:45.373][info] Mode: multiplayer.
+[08-10-24 08:50:45.373][info] Chat owner: Shuffmayn.
+[08-10-24 10:07:04.106][info] Got message from server: ChatMessage{chat=Local, author='Mikki1990', text='hey'}.
+[08-10-24 10:07:06.122][info] Got message from server: ChatMessage{chat=Local, author='Mikki1990', text='HEY YOU!'}.
+[08-10-24 10:07:16.006][info] Got message from server: ChatMessage{chat=Local, author='Mikki1990', text='OVER HERE!'}.
+[08-10-24 10:07:16.822][info] Got message from server: ChatMessage{chat=Local, author='Mikki1990', text='OVER HERE!'}.
+[08-10-24 10:07:17.090][info] Got message from server: ChatMessage{chat=Local, author='Mikki1990', text='HEY YOU!'}.
+[08-10-24 10:07:17.323][info] Got message from server: ChatMessage{chat=Local, author='Mikki1990', text='HEY YOU!'}.
+[08-10-24 10:07:17.573][info] Got message from server: ChatMessage{chat=Local, author='Mikki1990', text='HEY YOU!'}.
+[08-10-24 10:07:17.823][info] Got message from server: ChatMessage{chat=Local, author='Mikki1990', text='OVER HERE!'}.
+[08-10-24 10:07:18.056][info] Got message from server: ChatMessage{chat=Local, author='Mikki1990', text='OVER HERE!'}.
+[08-10-24 10:07:18.273][info] Got message from server: ChatMessage{chat=Local, author='Mikki1990', text='OVER HERE!'}.
+[08-10-24 10:46:23.722][info] Got message from server: ChatMessage{chat=Local, author='Mikki1990', text='psst'}.
+[08-10-24 10:46:25.789][info] Got message from server: ChatMessage{chat=Local, author='Mikki1990', text='hey'}.
+[08-10-24 11:51:17.840][info] Got message from server: ChatMessage{chat=Local, author='Mikki1990', text='It is necessary to clear the passage to the bed.'}.
+[08-10-24 11:51:39.090][info] Got message from server: ChatMessage{chat=Local, author='Mikki1990', text='It is necessary to clear the passage to the bed.'}.
+[08-10-24 11:51:49.223][info] Got message from server: ChatMessage{chat=Local, author='Mikki1990', text='It is necessary to clear the passage to the bed.'}.

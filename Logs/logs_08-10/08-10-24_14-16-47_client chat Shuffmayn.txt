@@ -1,0 +1,4 @@
+[08-10-24 14:16:47.560][info] Init chat system....
+[08-10-24 14:16:47.560][info] Mode: multiplayer.
+[08-10-24 14:16:47.560][info] Chat owner: Shuffmayn.
+[08-10-24 15:24:42.118][info] Got message from server: ChatMessage{chat=Local, author='Mikki1990', text='OVER HERE!'}.

@@ -1,0 +1,5 @@
+[26-09-24 20:46:30.772][info] Init chat system....
+[26-09-24 20:46:30.772][info] Mode: multiplayer.
+[26-09-24 20:46:30.773][info] Chat owner: Shuffmayn.
+[26-09-24 20:47:12.055][info] Got message from server: ChatMessage{chat=Server, author='Server', text='teleported VudO to Shuffmayn'}.
+[26-09-24 22:30:19.337][info] Got message from server: ChatMessage{chat=Server, author='Server', text='teleported VudO to Shuffmayn'}.

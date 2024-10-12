@@ -17,11 +17,11 @@
     window_opacity = 8,
     scroll_speed = 3,
     main_window = {
-        x = 100,
-        y = 100,
+        x = 454,
+        y = 275,
         w = 1000,
         h = 600,
-        a = 0.6,
+        a = 0.7,
     },
     uses = {
         sep_x = 500,

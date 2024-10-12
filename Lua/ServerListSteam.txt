@@ -1,8 +1,9 @@
 name=Janniks Server
 ip=176.57.174.110
+localip=
 port=29000
 serverpassword=
 description=Janniks server
 user=Shuffmayn
 password=5u7p1k10
-usesteamrelay=true
+usesteamrelay=false

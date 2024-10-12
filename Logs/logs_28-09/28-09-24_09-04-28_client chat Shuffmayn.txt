@@ -1,0 +1,4 @@
+[28-09-24 09:04:28.413][info] Init chat system....
+[28-09-24 09:04:28.413][info] Mode: multiplayer.
+[28-09-24 09:04:28.413][info] Chat owner: Shuffmayn.
+[28-09-24 09:20:17.632][info] Got message from server: ChatMessage{chat=Local, author='J_killer', text='HEY!'}.

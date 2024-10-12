@@ -1,0 +1,10 @@
+[02-10-24 20:54:56.369][info] Init chat system....
+[02-10-24 20:54:56.369][info] Mode: multiplayer.
+[02-10-24 20:54:56.369][info] Chat owner: Shuffmayn.
+[02-10-24 22:00:58.481][info] Got message from server: ChatMessage{chat=Local, author='Mikki1990', text='pssst!'}.
+[02-10-24 22:01:03.348][info] Got message from server: ChatMessage{chat=Local, author='Mikki1990', text='pssst!'}.
+[02-10-24 22:01:33.064][info] Got message from server: ChatMessage{chat=Local, author='Mikki1990', text='pssst!'}.
+[02-10-24 22:01:37.848][info] Got message from server: ChatMessage{chat=Local, author='Mikki1990', text='psst'}.
+[02-10-24 22:09:32.382][info] Got message from server: ChatMessage{chat=Server, author='Server', text='teleported J_killer to Shuffmayn'}.
+[02-10-24 22:09:49.098][info] Got message from server: ChatMessage{chat=Server, author='Server', text='teleported J_killer to Shuffmayn'}.
+[02-10-24 22:43:35.714][info] Got message from server: ChatMessage{chat=Local, author='Mikki1990', text='psst'}.

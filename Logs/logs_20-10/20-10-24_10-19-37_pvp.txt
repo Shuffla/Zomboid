@@ -1,0 +1,6 @@
+[20-10-24 10:19:37.177][INFO] user "Shuffmayn" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[20-10-24 10:22:17.500][INFO] user "Shuffmayn" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[20-10-24 10:23:13.838][INFO] user "Shuffmayn" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[20-10-24 10:43:41.203][INFO] user "sumiii3" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[20-10-24 11:50:13.514][INFO] user "sumiii3" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[20-10-24 11:50:25.614][INFO] user "Shuffmayn" store safety enabled=true last=true cooldown=0.0 toggle=0.0.

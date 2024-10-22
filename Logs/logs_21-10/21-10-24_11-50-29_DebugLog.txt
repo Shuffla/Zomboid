@@ -1,0 +1,1330 @@
+[21-10-24 11:50:29.350] LOG  : General     , 1729504229350> 0> MOVABLES: Object has only one face defined for group: (Mid N Hardwood Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.350] LOG  : General     , 1729504229350> 0> MOVABLES: Not all members have a valid face defined for group: (Mid N Hardwood Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.350] LOG  : General     , 1729504229350> 0> MOVABLES: Object has only one face defined for group: (End W Chestnut Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.350] LOG  : General     , 1729504229350> 0> MOVABLES: Not all members have a valid face defined for group: (End W Chestnut Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.350] LOG  : General     , 1729504229350> 0> MOVABLES: Object has only one face defined for group: (Mid N Finewood Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.350] LOG  : General     , 1729504229350> 0> MOVABLES: Not all members have a valid face defined for group: (Mid N Finewood Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.351] LOG  : General     , 1729504229351> 0> MOVABLES: Object has only one face defined for group: (End W Finewood Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.351] LOG  : General     , 1729504229351> 0> MOVABLES: Not all members have a valid face defined for group: (End W Finewood Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.351] LOG  : General     , 1729504229351> 0> MOVABLES: Object has only one face defined for group: (Mid W Oakwood Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.351] LOG  : General     , 1729504229351> 0> MOVABLES: Not all members have a valid face defined for group: (Mid W Oakwood Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.351] LOG  : General     , 1729504229351> 0> MOVABLES: Object has only one face defined for group: (Mid N Chestnut Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.351] LOG  : General     , 1729504229351> 0> MOVABLES: Not all members have a valid face defined for group: (Mid N Chestnut Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.351] LOG  : General     , 1729504229351> 0> MOVABLES: Object has only one face defined for group: (Mid W Chestnut Porch Hori) sheet = tk_porch_01.
+[21-10-24 11:50:29.351] LOG  : General     , 1729504229351> 0> MOVABLES: Not all members have a valid face defined for group: (Mid W Chestnut Porch Hori) sheet = tk_porch_01.
+[21-10-24 11:50:29.351] LOG  : General     , 1729504229351> 0> MOVABLES: Object has only one face defined for group: (Mid W Birchwood Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.351] LOG  : General     , 1729504229351> 0> MOVABLES: Not all members have a valid face defined for group: (Mid W Birchwood Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.351] LOG  : General     , 1729504229351> 0> MOVABLES: Object has only one face defined for group: (Mid W Finewood Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.351] LOG  : General     , 1729504229351> 0> MOVABLES: Not all members have a valid face defined for group: (Mid W Finewood Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.352] LOG  : General     , 1729504229352> 0> MOVABLES: Object has only one face defined for group: (End SE Finewood Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.352] LOG  : General     , 1729504229352> 0> MOVABLES: Not all members have a valid face defined for group: (End SE Finewood Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.352] LOG  : General     , 1729504229352> 0> MOVABLES: Object has only one face defined for group: (Mid W Cinnamon Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.352] LOG  : General     , 1729504229352> 0> MOVABLES: Not all members have a valid face defined for group: (Mid W Cinnamon Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.352] LOG  : General     , 1729504229352> 0> MOVABLES: Object has only one face defined for group: (End SE Cinnamon Porch Hori) sheet = tk_porch_01.
+[21-10-24 11:50:29.352] LOG  : General     , 1729504229352> 0> MOVABLES: Not all members have a valid face defined for group: (End SE Cinnamon Porch Hori) sheet = tk_porch_01.
+[21-10-24 11:50:29.352] LOG  : General     , 1729504229352> 0> MOVABLES: Object has only one face defined for group: (End W Chestnut Porch Hori) sheet = tk_porch_01.
+[21-10-24 11:50:29.352] LOG  : General     , 1729504229352> 0> MOVABLES: Not all members have a valid face defined for group: (End W Chestnut Porch Hori) sheet = tk_porch_01.
+[21-10-24 11:50:29.352] LOG  : General     , 1729504229352> 0> MOVABLES: Object has only one face defined for group: (End W Cinnamon Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.352] LOG  : General     , 1729504229352> 0> MOVABLES: Not all members have a valid face defined for group: (End W Cinnamon Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.353] LOG  : General     , 1729504229353> 0> MOVABLES: Object has only one face defined for group: (Mid N Cinnamon Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.353] LOG  : General     , 1729504229353> 0> MOVABLES: Not all members have a valid face defined for group: (Mid N Cinnamon Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.353] LOG  : General     , 1729504229353> 0> MOVABLES: Object has only one face defined for group: (End SE Hardwood Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.353] LOG  : General     , 1729504229353> 0> MOVABLES: Not all members have a valid face defined for group: (End SE Hardwood Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.353] LOG  : General     , 1729504229353> 0> MOVABLES: Object has only one face defined for group: (End N Chestnut Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.353] LOG  : General     , 1729504229353> 0> MOVABLES: Not all members have a valid face defined for group: (End N Chestnut Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.353] LOG  : General     , 1729504229353> 0> MOVABLES: Object has only one face defined for group: (End W Birchwood Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.353] LOG  : General     , 1729504229353> 0> MOVABLES: Not all members have a valid face defined for group: (End W Birchwood Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.353] LOG  : General     , 1729504229353> 0> MOVABLES: Object has only one face defined for group: (End N Birchwood Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.353] LOG  : General     , 1729504229353> 0> MOVABLES: Not all members have a valid face defined for group: (End N Birchwood Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.353] LOG  : General     , 1729504229353> 0> MOVABLES: Object has only one face defined for group: (End SE Chestnut Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.353] LOG  : General     , 1729504229353> 0> MOVABLES: Not all members have a valid face defined for group: (End SE Chestnut Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.353] LOG  : General     , 1729504229353> 0> MOVABLES: Object has only one face defined for group: (Mid N Oakwood Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.354] LOG  : General     , 1729504229354> 0> MOVABLES: Not all members have a valid face defined for group: (Mid N Oakwood Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.354] LOG  : General     , 1729504229354> 0> MOVABLES: Object has only one face defined for group: (End N Oakwood Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.354] LOG  : General     , 1729504229354> 0> MOVABLES: Not all members have a valid face defined for group: (End N Oakwood Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.354] LOG  : General     , 1729504229354> 0> MOVABLES: Object has only one face defined for group: (End N Chestnut Porch Hori) sheet = tk_porch_01.
+[21-10-24 11:50:29.354] LOG  : General     , 1729504229354> 0> MOVABLES: Not all members have a valid face defined for group: (End N Chestnut Porch Hori) sheet = tk_porch_01.
+[21-10-24 11:50:29.354] LOG  : General     , 1729504229354> 0> MOVABLES: Object has only one face defined for group: (Mid W Cinnamon Porch Hori) sheet = tk_porch_01.
+[21-10-24 11:50:29.354] LOG  : General     , 1729504229354> 0> MOVABLES: Not all members have a valid face defined for group: (Mid W Cinnamon Porch Hori) sheet = tk_porch_01.
+[21-10-24 11:50:29.354] LOG  : General     , 1729504229354> 0> MOVABLES: Object has only one face defined for group: (End N Hardwood Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.354] LOG  : General     , 1729504229354> 0> MOVABLES: Not all members have a valid face defined for group: (End N Hardwood Porch Vert) sheet = tk_porch_01.
+[21-10-24 11:50:29.356] LOG  : General     , 1729504229356> 0> MOVABLES: Object has only one face defined for group: (Yellow Bollard Post and Chain) sheet = city_deco_tk_01.
+[21-10-24 11:50:29.356] LOG  : General     , 1729504229356> 0> MOVABLES: Object has only one face defined for group: (Yellow Bollard Post) sheet = city_deco_tk_01.
+[21-10-24 11:50:29.356] LOG  : General     , 1729504229356> 0> MOVABLES: E face defined more than once for group: (Yellow Bollard Chain) sheet = city_deco_tk_01.
+[21-10-24 11:50:29.356] LOG  : General     , 1729504229356> 0> MOVABLES: S face defined more than once for group: (Yellow Bollard Chain) sheet = city_deco_tk_01.
+[21-10-24 11:50:29.358] LOG  : General     , 1729504229358> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = junkyard_tk_02.
+[21-10-24 11:50:29.358] LOG  : General     , 1729504229358> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = junkyard_tk_02.
+[21-10-24 11:50:29.358] LOG  : General     , 1729504229358> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = junkyard_tk_02.
+[21-10-24 11:50:29.358] LOG  : General     , 1729504229358> 0> MOVABLES: Object has only one face defined for group: (Grey Barrel) sheet = junkyard_tk_02.
+[21-10-24 11:50:29.359] LOG  : General     , 1729504229359> 0> MOVABLES: Not all members have a valid face defined for group: (Grey Barrel) sheet = junkyard_tk_02.
+[21-10-24 11:50:29.359] LOG  : General     , 1729504229359> 0> MOVABLES: Not all members have a valid face defined for group: (Short Stack Cinder Blocks) sheet = junkyard_tk_02.
+[21-10-24 11:50:29.359] LOG  : General     , 1729504229359> 0> MOVABLES: Not all members have a valid face defined for group: (Leaning Tire) sheet = junkyard_tk_02.
+[21-10-24 11:50:29.359] LOG  : General     , 1729504229359> 0> MOVABLES: Object has only one face defined for group: (Single Tire) sheet = junkyard_tk_02.
+[21-10-24 11:50:29.359] LOG  : General     , 1729504229359> 0> MOVABLES: Not all members have a valid face defined for group: (Single Tire) sheet = junkyard_tk_02.
+[21-10-24 11:50:29.359] LOG  : General     , 1729504229359> 0> MOVABLES: Not all members have a valid face defined for group: (Stack Tire) sheet = junkyard_tk_02.
+[21-10-24 11:50:29.359] LOG  : General     , 1729504229359> 0> MOVABLES: Object has only one face defined for group: (Red Barrel) sheet = junkyard_tk_02.
+[21-10-24 11:50:29.359] LOG  : General     , 1729504229359> 0> MOVABLES: Not all members have a valid face defined for group: (Red Barrel) sheet = junkyard_tk_02.
+[21-10-24 11:50:29.359] LOG  : General     , 1729504229359> 0> MOVABLES: Not all members have a valid face defined for group: (Tubing Plastic) sheet = junkyard_tk_02.
+[21-10-24 11:50:29.361] LOG  : General     , 1729504229361> 0> tiledef: loading C:\Program Files (x86)\Steam\steamapps\workshop\content\108600\2599752664\mods\DylansTiles\media\dylanstiles.tiles.
+[21-10-24 11:50:29.363] LOG  : General     , 1729504229363> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylansGardenStuff01.
+[21-10-24 11:50:29.364] LOG  : General     , 1729504229364> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylansGardenStuff01.
+[21-10-24 11:50:29.364] LOG  : General     , 1729504229364> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylansGardenStuff01.
+[21-10-24 11:50:29.366] LOG  : General     , 1729504229366> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylansRandomFurniture03.
+[21-10-24 11:50:29.366] LOG  : General     , 1729504229366> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylansRandomFurniture03.
+[21-10-24 11:50:29.366] LOG  : General     , 1729504229366> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylansRandomFurniture03.
+[21-10-24 11:50:29.366] LOG  : General     , 1729504229366> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylansRandomFurniture03.
+[21-10-24 11:50:29.366] LOG  : General     , 1729504229366> 0> MOVABLES: E face defined more than once for group: (Metal Lab Shelving) sheet = DylansRandomFurniture03.
+[21-10-24 11:50:29.366] LOG  : General     , 1729504229366> 0> MOVABLES: S face defined more than once for group: (Metal Lab Shelving) sheet = DylansRandomFurniture03.
+[21-10-24 11:50:29.369] LOG  : General     , 1729504229369> 0> MOVABLES: Object has too many faces defined for group: (Waterbeach Hills Painting) sheet = DylansWallDeco01.
+[21-10-24 11:50:29.370] LOG  : General     , 1729504229370> 0> MOVABLES: Object has too many faces defined for group: (Green Canopy) sheet = DylansWallDeco01.
+[21-10-24 11:50:29.372] LOG  : General     , 1729504229372> 0> MOVABLES: Difference in SpriteGrid settings for members of group: (Large Metal ACES Astro Suit Stand) sheet = Obs_02.
+[21-10-24 11:50:29.372] LOG  : General     , 1729504229372> 0> MOVABLES: double SpriteGrid position (0,1) for multi sprite movable, group: (Large Metal Shelves) sheet = Obs_02.
+[21-10-24 11:50:29.372] LOG  : General     , 1729504229372> 0> MOVABLES: Error in multi sprite movable, group: (Large Metal Shelves) sheet = Obs_02.
+[21-10-24 11:50:29.372] LOG  : General     , 1729504229372> 0> MOVABLES: Object has only one face defined for group: (Large Metal Container) sheet = Obs_02.
+[21-10-24 11:50:29.374] LOG  : General     , 1729504229374> 0> MOVABLES: Object has too many faces defined for group: (Block Trasher Advert) sheet = Block_Trasher.
+[21-10-24 11:50:29.374] LOG  : General     , 1729504229374> 0> MOVABLES: Object has too many faces defined for group: (Block Trasher Counter) sheet = Block_Trasher.
+[21-10-24 11:50:29.374] LOG  : General     , 1729504229374> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = Obs_03.
+[21-10-24 11:50:29.375] LOG  : General     , 1729504229375> 0> MOVABLES: Object has only one face defined for group: (Large Metal File Cabinets) sheet = Obs_03.
+[21-10-24 11:50:29.375] LOG  : General     , 1729504229375> 0> MOVABLES: Object has too many faces defined for group: (Large Metal Container) sheet = Obs_03.
+[21-10-24 11:50:29.375] LOG  : General     , 1729504229375> 0> MOVABLES: Object has too many faces defined for group: (Oakwood Shelves) sheet = Bookies_Store.
+[21-10-24 11:50:29.376] LOG  : General     , 1729504229376> 0> MOVABLES: Object has too many faces defined for group: (Large Metal Container) sheet = Obs_04.
+[21-10-24 11:50:29.376] LOG  : General     , 1729504229376> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = AuthenticZ_Store.
+[21-10-24 11:50:29.376] LOG  : General     , 1729504229376> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = AuthenticZ_Store.
+[21-10-24 11:50:29.376] LOG  : General     , 1729504229376> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = AuthenticZ_Store.
+[21-10-24 11:50:29.376] LOG  : General     , 1729504229376> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = AuthenticZ_Store.
+[21-10-24 11:50:29.376] LOG  : General     , 1729504229376> 0> MOVABLES: double SpriteGrid position (0,1) for multi sprite movable, group: (Large Metal Shelves) sheet = AuthenticZ_Store.
+[21-10-24 11:50:29.376] LOG  : General     , 1729504229376> 0> MOVABLES: SpriteGrid dimensions error for multi sprite movable, group: (Large Metal Shelves) sheet = AuthenticZ_Store.
+[21-10-24 11:50:29.376] LOG  : General     , 1729504229376> 0> MOVABLES: Error in multi sprite movable, group: (Large Metal Shelves) sheet = AuthenticZ_Store.
+[21-10-24 11:50:29.377] LOG  : General     , 1729504229377> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylansMusicStore.
+[21-10-24 11:50:29.377] LOG  : General     , 1729504229377> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylansMusicStore.
+[21-10-24 11:50:29.377] LOG  : General     , 1729504229377> 0> MOVABLES: double SpriteGrid position (0,1) for multi sprite movable, group: (Large Metal Shelves) sheet = DylansMusicStore.
+[21-10-24 11:50:29.377] LOG  : General     , 1729504229377> 0> MOVABLES: SpriteGrid dimensions error for multi sprite movable, group: (Large Metal Shelves) sheet = DylansMusicStore.
+[21-10-24 11:50:29.377] LOG  : General     , 1729504229377> 0> MOVABLES: Error in multi sprite movable, group: (Large Metal Shelves) sheet = DylansMusicStore.
+[21-10-24 11:50:29.377] LOG  : General     , 1729504229377> 0> MOVABLES: double SpriteGrid position (0,1) for multi sprite movable, group: (Large Metal Shelves) sheet = ZombieMapTiles.
+[21-10-24 11:50:29.377] LOG  : General     , 1729504229377> 0> MOVABLES: Error in multi sprite movable, group: (Large Metal Shelves) sheet = ZombieMapTiles.
+[21-10-24 11:50:29.379] LOG  : General     , 1729504229379> 0> MOVABLES: Object has only one face defined for group: (Sale Sign) sheet = DylanPitstopExpItems.
+[21-10-24 11:50:29.379] LOG  : General     , 1729504229379> 0> MOVABLES: Object has only one face defined for group: (Waterbeach Hills Painting) sheet = DylanPitstopExpItems.
+[21-10-24 11:50:29.380] LOG  : General     , 1729504229380> 0> MOVABLES: Object has only one face defined for group: (Sale Sign) sheet = Pitstop3.
+[21-10-24 11:50:29.380] LOG  : General     , 1729504229380> 0> MOVABLES: S face defined more than once for group: (Oakwood Shelves) sheet = DarthGunStore.
+[21-10-24 11:50:29.381] LOG  : General     , 1729504229381> 0> tiledef: loading C:\Program Files (x86)\Steam\steamapps\workshop\content\108600\2822286426\mods\RV_Interior\media\rvinterior.tiles.
+[21-10-24 11:50:29.383] LOG  : General     , 1729504229383> 0> MOVABLES: Object has only one face defined for group: (Leather Bar Seating) sheet = f_rvinterior2.
+[21-10-24 11:50:29.383] LOG  : General     , 1729504229383> 0> MOVABLES: Object has only one face defined for group: (Leather Bar Seating) sheet = rvinterior3.
+[21-10-24 11:50:29.383] LOG  : General     , 1729504229383> 0> tiledef: loading C:\Program Files (x86)\Steam\steamapps\workshop\content\108600\2807152393\mods\ResearchBase\media\secretbasetiles.tiles.
+[21-10-24 11:50:29.384] LOG  : General     , 1729504229384> 0> MOVABLES: Object only has 3 sprites, _might_ have a error in settings, group: (Office Whiteboard) sheet = secretbase_wall_decoration_01.
+[21-10-24 11:50:29.385] ERROR: Mod         , 1729504229385> 0> ZomboidFileSystem.loadModTileDefs> tiledef fileNumber 5001 used by more than one mod.
+[21-10-24 11:50:29.385] LOG  : General     , 1729504229385> 0> tiledef: loading C:\Program Files (x86)\Steam\steamapps\workshop\content\108600\2196102849\mods\RavenCreek\media\RC.tiles.
+[21-10-24 11:50:29.385] LOG  : General     , 1729504229385> 0> duplicate texture street_roadsigns_01_0 ignore ID=205260288, use ID=253000.
+[21-10-24 11:50:29.385] LOG  : General     , 1729504229385> 0> duplicate texture street_roadsigns_01_1 ignore ID=205260289, use ID=253001.
+[21-10-24 11:50:29.385] LOG  : General     , 1729504229385> 0> duplicate texture street_roadsigns_01_2 ignore ID=205260290, use ID=253002.
+[21-10-24 11:50:29.385] LOG  : General     , 1729504229385> 0> duplicate texture street_roadsigns_01_3 ignore ID=205260291, use ID=253003.
+[21-10-24 11:50:29.385] LOG  : General     , 1729504229385> 0> duplicate texture street_roadsigns_01_4 ignore ID=205260292, use ID=253004.
+[21-10-24 11:50:29.386] LOG  : General     , 1729504229386> 0> duplicate texture street_roadsigns_01_5 ignore ID=205260293, use ID=253005.
+[21-10-24 11:50:29.386] LOG  : General     , 1729504229386> 0> duplicate texture street_roadsigns_01_6 ignore ID=205260294, use ID=253006.
+[21-10-24 11:50:29.386] LOG  : General     , 1729504229386> 0> duplicate texture street_roadsigns_01_7 ignore ID=205260295, use ID=253007.
+[21-10-24 11:50:29.386] LOG  : General     , 1729504229386> 0> duplicate texture street_roadsigns_01_8 ignore ID=205260296, use ID=253008.
+[21-10-24 11:50:29.386] LOG  : General     , 1729504229386> 0> duplicate texture street_roadsigns_01_9 ignore ID=205260297, use ID=253009.
+[21-10-24 11:50:29.386] LOG  : General     , 1729504229386> 0> duplicate texture street_roadsigns_01_10 ignore ID=205260298, use ID=253010.
+[21-10-24 11:50:29.386] LOG  : General     , 1729504229386> 0> duplicate texture street_roadsigns_01_11 ignore ID=205260299, use ID=253011.
+[21-10-24 11:50:29.386] LOG  : General     , 1729504229386> 0> duplicate texture street_roadsigns_01_12 ignore ID=205260300, use ID=253012.
+[21-10-24 11:50:29.386] LOG  : General     , 1729504229386> 0> duplicate texture street_roadsigns_01_13 ignore ID=205260301, use ID=253013.
+[21-10-24 11:50:29.386] LOG  : General     , 1729504229386> 0> duplicate texture street_roadsigns_01_14 ignore ID=205260302, use ID=253014.
+[21-10-24 11:50:29.386] LOG  : General     , 1729504229386> 0> duplicate texture street_roadsigns_01_15 ignore ID=205260303, use ID=253015.
+[21-10-24 11:50:29.386] LOG  : General     , 1729504229386> 0> duplicate texture street_roadsigns_01_16 ignore ID=205260304, use ID=253016.
+[21-10-24 11:50:29.386] LOG  : General     , 1729504229386> 0> duplicate texture street_roadsigns_01_17 ignore ID=205260305, use ID=253017.
+[21-10-24 11:50:29.386] LOG  : General     , 1729504229386> 0> duplicate texture street_roadsigns_01_18 ignore ID=205260306, use ID=253018.
+[21-10-24 11:50:29.386] LOG  : General     , 1729504229386> 0> duplicate texture street_roadsigns_01_19 ignore ID=205260307, use ID=253019.
+[21-10-24 11:50:29.386] LOG  : General     , 1729504229386> 0> duplicate texture street_roadsigns_01_20 ignore ID=205260308, use ID=253020.
+[21-10-24 11:50:29.386] LOG  : General     , 1729504229386> 0> duplicate texture street_roadsigns_01_21 ignore ID=205260309, use ID=253021.
+[21-10-24 11:50:29.387] LOG  : General     , 1729504229387> 0> duplicate texture street_roadsigns_01_22 ignore ID=205260310, use ID=253022.
+[21-10-24 11:50:29.387] LOG  : General     , 1729504229387> 0> duplicate texture street_roadsigns_01_23 ignore ID=205260311, use ID=253023.
+[21-10-24 11:50:29.387] LOG  : General     , 1729504229387> 0> duplicate texture street_roadsigns_01_24 ignore ID=205260312, use ID=253024.
+[21-10-24 11:50:29.387] LOG  : General     , 1729504229387> 0> duplicate texture street_roadsigns_01_25 ignore ID=205260313, use ID=253025.
+[21-10-24 11:50:29.387] LOG  : General     , 1729504229387> 0> duplicate texture street_roadsigns_01_26 ignore ID=205260314, use ID=253026.
+[21-10-24 11:50:29.387] LOG  : General     , 1729504229387> 0> duplicate texture street_roadsigns_01_27 ignore ID=205260315, use ID=253027.
+[21-10-24 11:50:29.387] LOG  : General     , 1729504229387> 0> duplicate texture street_roadsigns_01_28 ignore ID=205260316, use ID=253028.
+[21-10-24 11:50:29.387] LOG  : General     , 1729504229387> 0> duplicate texture street_roadsigns_01_29 ignore ID=205260317, use ID=253029.
+[21-10-24 11:50:29.387] LOG  : General     , 1729504229387> 0> duplicate texture street_roadsigns_01_30 ignore ID=205260318, use ID=253030.
+[21-10-24 11:50:29.387] LOG  : General     , 1729504229387> 0> duplicate texture street_roadsigns_01_31 ignore ID=205260319, use ID=253031.
+[21-10-24 11:50:29.388] LOG  : General     , 1729504229388> 0> duplicate texture street_roadsigns_01_32 ignore ID=205260320, use ID=253032.
+[21-10-24 11:50:29.388] LOG  : General     , 1729504229388> 0> duplicate texture street_roadsigns_01_33 ignore ID=205260321, use ID=253033.
+[21-10-24 11:50:29.388] LOG  : General     , 1729504229388> 0> duplicate texture street_roadsigns_01_34 ignore ID=205260322, use ID=253034.
+[21-10-24 11:50:29.388] LOG  : General     , 1729504229388> 0> duplicate texture street_roadsigns_01_35 ignore ID=205260323, use ID=253035.
+[21-10-24 11:50:29.388] LOG  : General     , 1729504229388> 0> duplicate texture street_roadsigns_01_36 ignore ID=205260324, use ID=253036.
+[21-10-24 11:50:29.388] LOG  : General     , 1729504229388> 0> duplicate texture street_roadsigns_01_37 ignore ID=205260325, use ID=253037.
+[21-10-24 11:50:29.388] LOG  : General     , 1729504229388> 0> duplicate texture street_roadsigns_01_38 ignore ID=205260326, use ID=253038.
+[21-10-24 11:50:29.388] LOG  : General     , 1729504229388> 0> duplicate texture street_roadsigns_01_39 ignore ID=205260327, use ID=253039.
+[21-10-24 11:50:29.388] LOG  : General     , 1729504229388> 0> duplicate texture street_roadsigns_01_40 ignore ID=205260328, use ID=253040.
+[21-10-24 11:50:29.388] LOG  : General     , 1729504229388> 0> duplicate texture street_roadsigns_01_41 ignore ID=205260329, use ID=253041.
+[21-10-24 11:50:29.389] LOG  : General     , 1729504229389> 0> duplicate texture street_roadsigns_01_42 ignore ID=205260330, use ID=253042.
+[21-10-24 11:50:29.389] LOG  : General     , 1729504229389> 0> duplicate texture street_roadsigns_01_43 ignore ID=205260331, use ID=253043.
+[21-10-24 11:50:29.389] LOG  : General     , 1729504229389> 0> duplicate texture street_roadsigns_01_44 ignore ID=205260332, use ID=253044.
+[21-10-24 11:50:29.389] LOG  : General     , 1729504229389> 0> duplicate texture street_roadsigns_01_45 ignore ID=205260333, use ID=253045.
+[21-10-24 11:50:29.389] LOG  : General     , 1729504229389> 0> duplicate texture street_roadsigns_01_46 ignore ID=205260334, use ID=253046.
+[21-10-24 11:50:29.389] LOG  : General     , 1729504229389> 0> duplicate texture street_roadsigns_01_47 ignore ID=205260335, use ID=253047.
+[21-10-24 11:50:29.389] LOG  : General     , 1729504229389> 0> duplicate texture street_roadsigns_01_48 ignore ID=205260336, use ID=253048.
+[21-10-24 11:50:29.389] LOG  : General     , 1729504229389> 0> duplicate texture street_roadsigns_01_49 ignore ID=205260337, use ID=253049.
+[21-10-24 11:50:29.389] LOG  : General     , 1729504229389> 0> duplicate texture street_roadsigns_01_50 ignore ID=205260338, use ID=253050.
+[21-10-24 11:50:29.389] LOG  : General     , 1729504229389> 0> duplicate texture street_roadsigns_01_51 ignore ID=205260339, use ID=253051.
+[21-10-24 11:50:29.389] LOG  : General     , 1729504229389> 0> duplicate texture street_roadsigns_01_52 ignore ID=205260340, use ID=253052.
+[21-10-24 11:50:29.389] LOG  : General     , 1729504229389> 0> duplicate texture street_roadsigns_01_53 ignore ID=205260341, use ID=253053.
+[21-10-24 11:50:29.390] LOG  : General     , 1729504229390> 0> duplicate texture street_roadsigns_01_54 ignore ID=205260342, use ID=253054.
+[21-10-24 11:50:29.390] LOG  : General     , 1729504229390> 0> duplicate texture street_roadsigns_01_55 ignore ID=205260343, use ID=253055.
+[21-10-24 11:50:29.390] LOG  : General     , 1729504229390> 0> duplicate texture street_roadsigns_01_56 ignore ID=205260344, use ID=253056.
+[21-10-24 11:50:29.390] LOG  : General     , 1729504229390> 0> duplicate texture street_roadsigns_01_57 ignore ID=205260345, use ID=253057.
+[21-10-24 11:50:29.390] LOG  : General     , 1729504229390> 0> duplicate texture street_roadsigns_01_58 ignore ID=205260346, use ID=253058.
+[21-10-24 11:50:29.390] LOG  : General     , 1729504229390> 0> duplicate texture street_roadsigns_01_59 ignore ID=205260347, use ID=253059.
+[21-10-24 11:50:29.390] LOG  : General     , 1729504229390> 0> duplicate texture street_roadsigns_01_60 ignore ID=205260348, use ID=253060.
+[21-10-24 11:50:29.390] LOG  : General     , 1729504229390> 0> duplicate texture street_roadsigns_01_61 ignore ID=205260349, use ID=253061.
+[21-10-24 11:50:29.390] LOG  : General     , 1729504229390> 0> duplicate texture street_roadsigns_01_62 ignore ID=205260350, use ID=253062.
+[21-10-24 11:50:29.390] LOG  : General     , 1729504229390> 0> duplicate texture street_roadsigns_01_63 ignore ID=205260351, use ID=253063.
+[21-10-24 11:50:29.390] LOG  : General     , 1729504229390> 0> duplicate texture street_roadsigns_01_64 ignore ID=205260352, use ID=253064.
+[21-10-24 11:50:29.391] LOG  : General     , 1729504229391> 0> duplicate texture street_roadsigns_01_65 ignore ID=205260353, use ID=253065.
+[21-10-24 11:50:29.391] LOG  : General     , 1729504229391> 0> duplicate texture street_roadsigns_01_66 ignore ID=205260354, use ID=253066.
+[21-10-24 11:50:29.391] LOG  : General     , 1729504229391> 0> duplicate texture street_roadsigns_01_67 ignore ID=205260355, use ID=253067.
+[21-10-24 11:50:29.391] LOG  : General     , 1729504229391> 0> duplicate texture street_roadsigns_01_68 ignore ID=205260356, use ID=253068.
+[21-10-24 11:50:29.391] LOG  : General     , 1729504229391> 0> duplicate texture street_roadsigns_01_69 ignore ID=205260357, use ID=253069.
+[21-10-24 11:50:29.391] LOG  : General     , 1729504229391> 0> duplicate texture street_roadsigns_01_70 ignore ID=205260358, use ID=253070.
+[21-10-24 11:50:29.391] LOG  : General     , 1729504229391> 0> duplicate texture street_roadsigns_01_71 ignore ID=205260359, use ID=253071.
+[21-10-24 11:50:29.391] LOG  : General     , 1729504229391> 0> duplicate texture street_roadsigns_01_72 ignore ID=205260360, use ID=253072.
+[21-10-24 11:50:29.391] LOG  : General     , 1729504229391> 0> duplicate texture street_roadsigns_01_73 ignore ID=205260361, use ID=253073.
+[21-10-24 11:50:29.391] LOG  : General     , 1729504229391> 0> duplicate texture street_roadsigns_01_74 ignore ID=205260362, use ID=253074.
+[21-10-24 11:50:29.391] LOG  : General     , 1729504229391> 0> duplicate texture street_roadsigns_01_75 ignore ID=205260363, use ID=253075.
+[21-10-24 11:50:29.391] LOG  : General     , 1729504229391> 0> duplicate texture street_roadsigns_01_76 ignore ID=205260364, use ID=253076.
+[21-10-24 11:50:29.391] LOG  : General     , 1729504229391> 0> duplicate texture street_roadsigns_01_77 ignore ID=205260365, use ID=253077.
+[21-10-24 11:50:29.392] LOG  : General     , 1729504229392> 0> duplicate texture street_roadsigns_01_78 ignore ID=205260366, use ID=253078.
+[21-10-24 11:50:29.392] LOG  : General     , 1729504229392> 0> duplicate texture street_roadsigns_01_79 ignore ID=205260367, use ID=253079.
+[21-10-24 11:50:29.392] LOG  : General     , 1729504229392> 0> tiledef: loading C:\Program Files (x86)\Steam\steamapps\workshop\content\108600\2536865912\mods\Blackwood\media\Blackwood.tiles.
+[21-10-24 11:50:29.394] LOG  : General     , 1729504229394> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = blackwood2.
+[21-10-24 11:50:29.394] LOG  : General     , 1729504229394> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = blackwood2.
+[21-10-24 11:50:29.394] LOG  : General     , 1729504229394> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = blackwood2.
+[21-10-24 11:50:29.394] LOG  : General     , 1729504229394> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = blackwood2.
+[21-10-24 11:50:29.394] LOG  : General     , 1729504229394> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = blackwood2.
+[21-10-24 11:50:29.396] LOG  : General     , 1729504229396> 0> tiledef: loading C:\Program Files (x86)\Steam\steamapps\workshop\content\108600\1516836158\mods\FortRedstone\media\Redstonetiles.tiles.
+[21-10-24 11:50:29.398] LOG  : General     , 1729504229398> 0> duplicate texture industry_bunker_01_0 ignore ID=129766912, use ID=257000.
+[21-10-24 11:50:29.398] LOG  : General     , 1729504229398> 0> duplicate texture industry_bunker_01_1 ignore ID=129766913, use ID=257001.
+[21-10-24 11:50:29.399] LOG  : General     , 1729504229399> 0> duplicate texture industry_bunker_01_2 ignore ID=129766914, use ID=257002.
+[21-10-24 11:50:29.399] LOG  : General     , 1729504229399> 0> duplicate texture industry_bunker_01_3 ignore ID=129766915, use ID=257003.
+[21-10-24 11:50:29.399] LOG  : General     , 1729504229399> 0> duplicate texture industry_bunker_01_4 ignore ID=129766916, use ID=257004.
+[21-10-24 11:50:29.399] LOG  : General     , 1729504229399> 0> duplicate texture industry_bunker_01_5 ignore ID=129766917, use ID=257005.
+[21-10-24 11:50:29.399] LOG  : General     , 1729504229399> 0> duplicate texture industry_bunker_01_6 ignore ID=129766918, use ID=257006.
+[21-10-24 11:50:29.399] LOG  : General     , 1729504229399> 0> duplicate texture industry_bunker_01_7 ignore ID=129766919, use ID=257007.
+[21-10-24 11:50:29.400] LOG  : General     , 1729504229400> 0> duplicate texture industry_bunker_01_8 ignore ID=129766920, use ID=257008.
+[21-10-24 11:50:29.400] LOG  : General     , 1729504229400> 0> duplicate texture industry_bunker_01_9 ignore ID=129766921, use ID=257009.
+[21-10-24 11:50:29.400] LOG  : General     , 1729504229400> 0> duplicate texture industry_bunker_01_10 ignore ID=129766922, use ID=257010.
+[21-10-24 11:50:29.400] LOG  : General     , 1729504229400> 0> duplicate texture industry_bunker_01_11 ignore ID=129766923, use ID=257011.
+[21-10-24 11:50:29.400] LOG  : General     , 1729504229400> 0> duplicate texture industry_bunker_01_12 ignore ID=129766924, use ID=257012.
+[21-10-24 11:50:29.401] LOG  : General     , 1729504229401> 0> duplicate texture industry_bunker_01_13 ignore ID=129766925, use ID=257013.
+[21-10-24 11:50:29.401] LOG  : General     , 1729504229401> 0> duplicate texture industry_bunker_01_14 ignore ID=129766926, use ID=257014.
+[21-10-24 11:50:29.401] LOG  : General     , 1729504229401> 0> duplicate texture industry_bunker_01_15 ignore ID=129766927, use ID=257015.
+[21-10-24 11:50:29.401] LOG  : General     , 1729504229401> 0> duplicate texture industry_bunker_01_16 ignore ID=129766928, use ID=257016.
+[21-10-24 11:50:29.401] LOG  : General     , 1729504229401> 0> duplicate texture industry_bunker_01_17 ignore ID=129766929, use ID=257017.
+[21-10-24 11:50:29.402] LOG  : General     , 1729504229402> 0> duplicate texture industry_bunker_01_18 ignore ID=129766930, use ID=257018.
+[21-10-24 11:50:29.402] LOG  : General     , 1729504229402> 0> duplicate texture industry_bunker_01_19 ignore ID=129766931, use ID=257019.
+[21-10-24 11:50:29.402] LOG  : General     , 1729504229402> 0> duplicate texture industry_bunker_01_20 ignore ID=129766932, use ID=257020.
+[21-10-24 11:50:29.402] LOG  : General     , 1729504229402> 0> duplicate texture industry_bunker_01_21 ignore ID=129766933, use ID=257021.
+[21-10-24 11:50:29.402] LOG  : General     , 1729504229402> 0> duplicate texture industry_bunker_01_22 ignore ID=129766934, use ID=257022.
+[21-10-24 11:50:29.403] LOG  : General     , 1729504229403> 0> duplicate texture industry_bunker_01_23 ignore ID=129766935, use ID=257023.
+[21-10-24 11:50:29.403] LOG  : General     , 1729504229403> 0> duplicate texture industry_bunker_01_24 ignore ID=129766936, use ID=257024.
+[21-10-24 11:50:29.403] LOG  : General     , 1729504229403> 0> duplicate texture industry_bunker_01_25 ignore ID=129766937, use ID=257025.
+[21-10-24 11:50:29.403] LOG  : General     , 1729504229403> 0> duplicate texture industry_bunker_01_26 ignore ID=129766938, use ID=257026.
+[21-10-24 11:50:29.403] LOG  : General     , 1729504229403> 0> duplicate texture industry_bunker_01_27 ignore ID=129766939, use ID=257027.
+[21-10-24 11:50:29.403] LOG  : General     , 1729504229403> 0> duplicate texture industry_bunker_01_28 ignore ID=129766940, use ID=257028.
+[21-10-24 11:50:29.403] LOG  : General     , 1729504229403> 0> duplicate texture industry_bunker_01_29 ignore ID=129766941, use ID=257029.
+[21-10-24 11:50:29.403] LOG  : General     , 1729504229403> 0> duplicate texture industry_bunker_01_30 ignore ID=129766942, use ID=257030.
+[21-10-24 11:50:29.403] LOG  : General     , 1729504229403> 0> duplicate texture industry_bunker_01_31 ignore ID=129766943, use ID=257031.
+[21-10-24 11:50:29.403] LOG  : General     , 1729504229403> 0> duplicate texture industry_bunker_01_32 ignore ID=129766944, use ID=257032.
+[21-10-24 11:50:29.403] LOG  : General     , 1729504229403> 0> duplicate texture industry_bunker_01_33 ignore ID=129766945, use ID=257033.
+[21-10-24 11:50:29.403] LOG  : General     , 1729504229403> 0> duplicate texture industry_bunker_01_34 ignore ID=129766946, use ID=257034.
+[21-10-24 11:50:29.403] LOG  : General     , 1729504229403> 0> duplicate texture industry_bunker_01_35 ignore ID=129766947, use ID=257035.
+[21-10-24 11:50:29.404] LOG  : General     , 1729504229404> 0> duplicate texture industry_bunker_01_36 ignore ID=129766948, use ID=257036.
+[21-10-24 11:50:29.404] LOG  : General     , 1729504229404> 0> duplicate texture industry_bunker_01_37 ignore ID=129766949, use ID=257037.
+[21-10-24 11:50:29.404] LOG  : General     , 1729504229404> 0> duplicate texture industry_bunker_01_38 ignore ID=129766950, use ID=257038.
+[21-10-24 11:50:29.404] LOG  : General     , 1729504229404> 0> duplicate texture industry_bunker_01_39 ignore ID=129766951, use ID=257039.
+[21-10-24 11:50:29.404] LOG  : General     , 1729504229404> 0> duplicate texture industry_bunker_01_40 ignore ID=129766952, use ID=257040.
+[21-10-24 11:50:29.404] LOG  : General     , 1729504229404> 0> duplicate texture industry_bunker_01_41 ignore ID=129766953, use ID=257041.
+[21-10-24 11:50:29.404] LOG  : General     , 1729504229404> 0> duplicate texture industry_bunker_01_42 ignore ID=129766954, use ID=257042.
+[21-10-24 11:50:29.404] LOG  : General     , 1729504229404> 0> duplicate texture industry_bunker_01_43 ignore ID=129766955, use ID=257043.
+[21-10-24 11:50:29.404] LOG  : General     , 1729504229404> 0> duplicate texture industry_bunker_01_44 ignore ID=129766956, use ID=257044.
+[21-10-24 11:50:29.404] LOG  : General     , 1729504229404> 0> duplicate texture industry_bunker_01_45 ignore ID=129766957, use ID=257045.
+[21-10-24 11:50:29.404] LOG  : General     , 1729504229404> 0> duplicate texture industry_bunker_01_46 ignore ID=129766958, use ID=257046.
+[21-10-24 11:50:29.404] LOG  : General     , 1729504229404> 0> duplicate texture industry_bunker_01_47 ignore ID=129766959, use ID=257047.
+[21-10-24 11:50:29.404] LOG  : General     , 1729504229404> 0> duplicate texture industry_bunker_01_48 ignore ID=129766960, use ID=257048.
+[21-10-24 11:50:29.404] LOG  : General     , 1729504229404> 0> duplicate texture industry_bunker_01_49 ignore ID=129766961, use ID=257049.
+[21-10-24 11:50:29.404] LOG  : General     , 1729504229404> 0> duplicate texture industry_bunker_01_50 ignore ID=129766962, use ID=257050.
+[21-10-24 11:50:29.404] LOG  : General     , 1729504229404> 0> duplicate texture industry_bunker_01_51 ignore ID=129766963, use ID=257051.
+[21-10-24 11:50:29.404] LOG  : General     , 1729504229404> 0> duplicate texture industry_bunker_01_52 ignore ID=129766964, use ID=257052.
+[21-10-24 11:50:29.404] LOG  : General     , 1729504229404> 0> duplicate texture industry_bunker_01_53 ignore ID=129766965, use ID=257053.
+[21-10-24 11:50:29.405] LOG  : General     , 1729504229405> 0> duplicate texture industry_bunker_01_54 ignore ID=129766966, use ID=257054.
+[21-10-24 11:50:29.405] LOG  : General     , 1729504229405> 0> duplicate texture industry_bunker_01_55 ignore ID=129766967, use ID=257055.
+[21-10-24 11:50:29.405] LOG  : General     , 1729504229405> 0> duplicate texture industry_bunker_01_56 ignore ID=129766968, use ID=257056.
+[21-10-24 11:50:29.405] LOG  : General     , 1729504229405> 0> duplicate texture industry_bunker_01_57 ignore ID=129766969, use ID=257057.
+[21-10-24 11:50:29.405] LOG  : General     , 1729504229405> 0> duplicate texture industry_bunker_01_58 ignore ID=129766970, use ID=257058.
+[21-10-24 11:50:29.405] LOG  : General     , 1729504229405> 0> duplicate texture industry_bunker_01_59 ignore ID=129766971, use ID=257059.
+[21-10-24 11:50:29.405] LOG  : General     , 1729504229405> 0> duplicate texture industry_bunker_01_60 ignore ID=129766972, use ID=257060.
+[21-10-24 11:50:29.405] LOG  : General     , 1729504229405> 0> duplicate texture industry_bunker_01_61 ignore ID=129766973, use ID=257061.
+[21-10-24 11:50:29.405] LOG  : General     , 1729504229405> 0> duplicate texture industry_bunker_01_62 ignore ID=129766974, use ID=257062.
+[21-10-24 11:50:29.405] LOG  : General     , 1729504229405> 0> duplicate texture industry_bunker_01_63 ignore ID=129766975, use ID=257063.
+[21-10-24 11:50:29.405] LOG  : General     , 1729504229405> 0> duplicate texture industry_bunker_01_64 ignore ID=129766976, use ID=257064.
+[21-10-24 11:50:29.405] LOG  : General     , 1729504229405> 0> duplicate texture industry_bunker_01_65 ignore ID=129766977, use ID=257065.
+[21-10-24 11:50:29.405] LOG  : General     , 1729504229405> 0> duplicate texture industry_bunker_01_66 ignore ID=129766978, use ID=257066.
+[21-10-24 11:50:29.405] LOG  : General     , 1729504229405> 0> duplicate texture industry_bunker_01_67 ignore ID=129766979, use ID=257067.
+[21-10-24 11:50:29.405] LOG  : General     , 1729504229405> 0> duplicate texture industry_bunker_01_68 ignore ID=129766980, use ID=257068.
+[21-10-24 11:50:29.405] LOG  : General     , 1729504229405> 0> duplicate texture industry_bunker_01_69 ignore ID=129766981, use ID=257069.
+[21-10-24 11:50:29.405] LOG  : General     , 1729504229405> 0> duplicate texture industry_bunker_01_70 ignore ID=129766982, use ID=257070.
+[21-10-24 11:50:29.405] LOG  : General     , 1729504229405> 0> duplicate texture industry_bunker_01_71 ignore ID=129766983, use ID=257071.
+[21-10-24 11:50:29.406] LOG  : General     , 1729504229406> 0> duplicate texture industry_bunker_01_72 ignore ID=129766984, use ID=257072.
+[21-10-24 11:50:29.406] LOG  : General     , 1729504229406> 0> duplicate texture industry_bunker_01_73 ignore ID=129766985, use ID=257073.
+[21-10-24 11:50:29.406] LOG  : General     , 1729504229406> 0> duplicate texture industry_bunker_01_74 ignore ID=129766986, use ID=257074.
+[21-10-24 11:50:29.406] LOG  : General     , 1729504229406> 0> duplicate texture industry_bunker_01_75 ignore ID=129766987, use ID=257075.
+[21-10-24 11:50:29.406] LOG  : General     , 1729504229406> 0> duplicate texture industry_bunker_01_76 ignore ID=129766988, use ID=257076.
+[21-10-24 11:50:29.406] LOG  : General     , 1729504229406> 0> duplicate texture industry_bunker_01_77 ignore ID=129766989, use ID=257077.
+[21-10-24 11:50:29.406] LOG  : General     , 1729504229406> 0> duplicate texture industry_bunker_01_78 ignore ID=129766990, use ID=257078.
+[21-10-24 11:50:29.406] LOG  : General     , 1729504229406> 0> duplicate texture industry_bunker_01_79 ignore ID=129766991, use ID=257079.
+[21-10-24 11:50:29.406] LOG  : General     , 1729504229406> 0> MOVABLES: Object has only one face defined for group: (Gas Barrel) sheet = GasBarrels.
+[21-10-24 11:50:29.406] LOG  : General     , 1729504229406> 0> MOVABLES: Not all members have a valid face defined for group: (Gas Barrel) sheet = GasBarrels.
+[21-10-24 11:50:29.406] LOG  : General     , 1729504229406> 0> duplicate texture location_military_knox_01_0 ignore ID=129767936, use ID=301000.
+[21-10-24 11:50:29.407] LOG  : General     , 1729504229407> 0> duplicate texture location_military_knox_01_1 ignore ID=129767937, use ID=301001.
+[21-10-24 11:50:29.407] LOG  : General     , 1729504229407> 0> duplicate texture location_military_knox_01_2 ignore ID=129767938, use ID=301002.
+[21-10-24 11:50:29.407] LOG  : General     , 1729504229407> 0> duplicate texture location_military_knox_01_3 ignore ID=129767939, use ID=301003.
+[21-10-24 11:50:29.407] LOG  : General     , 1729504229407> 0> duplicate texture location_military_knox_01_4 ignore ID=129767940, use ID=301004.
+[21-10-24 11:50:29.407] LOG  : General     , 1729504229407> 0> duplicate texture location_military_knox_01_5 ignore ID=129767941, use ID=301005.
+[21-10-24 11:50:29.407] LOG  : General     , 1729504229407> 0> duplicate texture location_military_knox_01_6 ignore ID=129767942, use ID=301006.
+[21-10-24 11:50:29.407] LOG  : General     , 1729504229407> 0> duplicate texture location_military_knox_01_7 ignore ID=129767943, use ID=301007.
+[21-10-24 11:50:29.407] LOG  : General     , 1729504229407> 0> duplicate texture location_military_knox_01_8 ignore ID=129767944, use ID=301008.
+[21-10-24 11:50:29.407] LOG  : General     , 1729504229407> 0> duplicate texture location_military_knox_01_9 ignore ID=129767945, use ID=301009.
+[21-10-24 11:50:29.407] LOG  : General     , 1729504229407> 0> duplicate texture location_military_knox_01_10 ignore ID=129767946, use ID=301010.
+[21-10-24 11:50:29.407] LOG  : General     , 1729504229407> 0> duplicate texture location_military_knox_01_11 ignore ID=129767947, use ID=301011.
+[21-10-24 11:50:29.407] LOG  : General     , 1729504229407> 0> duplicate texture location_military_knox_01_12 ignore ID=129767948, use ID=301012.
+[21-10-24 11:50:29.407] LOG  : General     , 1729504229407> 0> duplicate texture location_military_knox_01_13 ignore ID=129767949, use ID=301013.
+[21-10-24 11:50:29.407] LOG  : General     , 1729504229407> 0> duplicate texture location_military_knox_01_14 ignore ID=129767950, use ID=301014.
+[21-10-24 11:50:29.407] LOG  : General     , 1729504229407> 0> duplicate texture location_military_knox_01_15 ignore ID=129767951, use ID=301015.
+[21-10-24 11:50:29.407] LOG  : General     , 1729504229407> 0> duplicate texture location_military_knox_01_16 ignore ID=129767952, use ID=301016.
+[21-10-24 11:50:29.407] LOG  : General     , 1729504229407> 0> duplicate texture location_military_knox_01_17 ignore ID=129767953, use ID=301017.
+[21-10-24 11:50:29.408] LOG  : General     , 1729504229408> 0> duplicate texture location_military_knox_01_18 ignore ID=129767954, use ID=301018.
+[21-10-24 11:50:29.408] LOG  : General     , 1729504229408> 0> duplicate texture location_military_knox_01_19 ignore ID=129767955, use ID=301019.
+[21-10-24 11:50:29.408] LOG  : General     , 1729504229408> 0> duplicate texture location_military_knox_01_20 ignore ID=129767956, use ID=301020.
+[21-10-24 11:50:29.408] LOG  : General     , 1729504229408> 0> duplicate texture location_military_knox_01_21 ignore ID=129767957, use ID=301021.
+[21-10-24 11:50:29.408] LOG  : General     , 1729504229408> 0> duplicate texture location_military_knox_01_22 ignore ID=129767958, use ID=301022.
+[21-10-24 11:50:29.408] LOG  : General     , 1729504229408> 0> duplicate texture location_military_knox_01_23 ignore ID=129767959, use ID=301023.
+[21-10-24 11:50:29.408] LOG  : General     , 1729504229408> 0> duplicate texture location_military_knox_01_24 ignore ID=129767960, use ID=301024.
+[21-10-24 11:50:29.408] LOG  : General     , 1729504229408> 0> duplicate texture location_military_knox_01_25 ignore ID=129767961, use ID=301025.
+[21-10-24 11:50:29.408] LOG  : General     , 1729504229408> 0> duplicate texture location_military_knox_01_26 ignore ID=129767962, use ID=301026.
+[21-10-24 11:50:29.408] LOG  : General     , 1729504229408> 0> duplicate texture location_military_knox_01_27 ignore ID=129767963, use ID=301027.
+[21-10-24 11:50:29.408] LOG  : General     , 1729504229408> 0> duplicate texture location_military_knox_01_28 ignore ID=129767964, use ID=301028.
+[21-10-24 11:50:29.408] LOG  : General     , 1729504229408> 0> duplicate texture location_military_knox_01_29 ignore ID=129767965, use ID=301029.
+[21-10-24 11:50:29.408] LOG  : General     , 1729504229408> 0> duplicate texture location_military_knox_01_30 ignore ID=129767966, use ID=301030.
+[21-10-24 11:50:29.408] LOG  : General     , 1729504229408> 0> duplicate texture location_military_knox_01_31 ignore ID=129767967, use ID=301031.
+[21-10-24 11:50:29.409] LOG  : General     , 1729504229409> 0> duplicate texture location_military_knox_01_32 ignore ID=129767968, use ID=301032.
+[21-10-24 11:50:29.409] LOG  : General     , 1729504229409> 0> duplicate texture location_military_knox_01_33 ignore ID=129767969, use ID=301033.
+[21-10-24 11:50:29.409] LOG  : General     , 1729504229409> 0> duplicate texture location_military_knox_01_34 ignore ID=129767970, use ID=301034.
+[21-10-24 11:50:29.409] LOG  : General     , 1729504229409> 0> duplicate texture location_military_knox_01_35 ignore ID=129767971, use ID=301035.
+[21-10-24 11:50:29.409] LOG  : General     , 1729504229409> 0> duplicate texture location_military_knox_01_36 ignore ID=129767972, use ID=301036.
+[21-10-24 11:50:29.409] LOG  : General     , 1729504229409> 0> duplicate texture location_military_knox_01_37 ignore ID=129767973, use ID=301037.
+[21-10-24 11:50:29.409] LOG  : General     , 1729504229409> 0> duplicate texture location_military_knox_01_38 ignore ID=129767974, use ID=301038.
+[21-10-24 11:50:29.409] LOG  : General     , 1729504229409> 0> duplicate texture location_military_knox_01_39 ignore ID=129767975, use ID=301039.
+[21-10-24 11:50:29.409] LOG  : General     , 1729504229409> 0> duplicate texture location_military_knox_01_40 ignore ID=129767976, use ID=301040.
+[21-10-24 11:50:29.409] LOG  : General     , 1729504229409> 0> duplicate texture location_military_knox_01_41 ignore ID=129767977, use ID=301041.
+[21-10-24 11:50:29.409] LOG  : General     , 1729504229409> 0> duplicate texture location_military_knox_01_42 ignore ID=129767978, use ID=301042.
+[21-10-24 11:50:29.409] LOG  : General     , 1729504229409> 0> duplicate texture location_military_knox_01_43 ignore ID=129767979, use ID=301043.
+[21-10-24 11:50:29.410] LOG  : General     , 1729504229410> 0> duplicate texture location_military_knox_01_44 ignore ID=129767980, use ID=301044.
+[21-10-24 11:50:29.410] LOG  : General     , 1729504229410> 0> duplicate texture location_military_knox_01_45 ignore ID=129767981, use ID=301045.
+[21-10-24 11:50:29.410] LOG  : General     , 1729504229410> 0> duplicate texture location_military_knox_01_46 ignore ID=129767982, use ID=301046.
+[21-10-24 11:50:29.410] LOG  : General     , 1729504229410> 0> duplicate texture location_military_knox_01_47 ignore ID=129767983, use ID=301047.
+[21-10-24 11:50:29.410] LOG  : General     , 1729504229410> 0> duplicate texture location_military_knox_01_48 ignore ID=129767984, use ID=301048.
+[21-10-24 11:50:29.410] LOG  : General     , 1729504229410> 0> duplicate texture location_military_knox_01_49 ignore ID=129767985, use ID=301049.
+[21-10-24 11:50:29.410] LOG  : General     , 1729504229410> 0> duplicate texture location_military_knox_01_50 ignore ID=129767986, use ID=301050.
+[21-10-24 11:50:29.410] LOG  : General     , 1729504229410> 0> duplicate texture location_military_knox_01_51 ignore ID=129767987, use ID=301051.
+[21-10-24 11:50:29.410] LOG  : General     , 1729504229410> 0> duplicate texture location_military_knox_01_52 ignore ID=129767988, use ID=301052.
+[21-10-24 11:50:29.410] LOG  : General     , 1729504229410> 0> duplicate texture location_military_knox_01_53 ignore ID=129767989, use ID=301053.
+[21-10-24 11:50:29.410] LOG  : General     , 1729504229410> 0> duplicate texture location_military_knox_01_54 ignore ID=129767990, use ID=301054.
+[21-10-24 11:50:29.410] LOG  : General     , 1729504229410> 0> duplicate texture location_military_knox_01_55 ignore ID=129767991, use ID=301055.
+[21-10-24 11:50:29.410] LOG  : General     , 1729504229410> 0> duplicate texture location_military_knox_01_56 ignore ID=129767992, use ID=301056.
+[21-10-24 11:50:29.410] LOG  : General     , 1729504229410> 0> duplicate texture location_military_knox_01_57 ignore ID=129767993, use ID=301057.
+[21-10-24 11:50:29.411] LOG  : General     , 1729504229411> 0> duplicate texture location_military_knox_01_58 ignore ID=129767994, use ID=301058.
+[21-10-24 11:50:29.411] LOG  : General     , 1729504229411> 0> duplicate texture location_military_knox_01_59 ignore ID=129767995, use ID=301059.
+[21-10-24 11:50:29.411] LOG  : General     , 1729504229411> 0> duplicate texture location_military_knox_01_60 ignore ID=129767996, use ID=301060.
+[21-10-24 11:50:29.411] LOG  : General     , 1729504229411> 0> duplicate texture location_military_knox_01_61 ignore ID=129767997, use ID=301061.
+[21-10-24 11:50:29.411] LOG  : General     , 1729504229411> 0> duplicate texture location_military_knox_01_62 ignore ID=129767998, use ID=301062.
+[21-10-24 11:50:29.411] LOG  : General     , 1729504229411> 0> duplicate texture location_military_knox_01_63 ignore ID=129767999, use ID=301063.
+[21-10-24 11:50:29.411] LOG  : General     , 1729504229411> 0> tiledef: loading C:\Program Files (x86)\Steam\steamapps\workshop\content\108600\2463499011\mods\Grapeseed\media\ttools.tiles.
+[21-10-24 11:50:29.412] LOG  : General     , 1729504229412> 0> MOVABLES: Object has only one face defined for group: (Steel Not A Fridge - Tristan's Tools) sheet = TTools.
+[21-10-24 11:50:29.412] LOG  : General     , 1729504229412> 0> MOVABLES: E face defined more than once for group: (Lage Metal Shelves) sheet = TTools.
+[21-10-24 11:50:29.412] LOG  : General     , 1729504229412> 0> MOVABLES: S face defined more than once for group: (Lage Metal Shelves) sheet = TTools.
+[21-10-24 11:50:29.412] LOG  : General     , 1729504229412> 0> MOVABLES: double SpriteGrid position (0,3) for multi sprite movable, group: (Diner Neon Sign) sheet = RosiesDiner.
+[21-10-24 11:50:29.413] LOG  : General     , 1729504229413> 0> MOVABLES: SpriteGrid dimensions error for multi sprite movable, group: (Diner Neon Sign) sheet = RosiesDiner.
+[21-10-24 11:50:29.413] LOG  : General     , 1729504229413> 0> MOVABLES: Error in multi sprite movable, group: (Diner Neon Sign) sheet = RosiesDiner.
+[21-10-24 11:50:29.413] LOG  : General     , 1729504229413> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = BMyers.
+[21-10-24 11:50:29.413] LOG  : General     , 1729504229413> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = BMyers.
+[21-10-24 11:50:29.413] LOG  : General     , 1729504229413> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = BMyers.
+[21-10-24 11:50:29.413] LOG  : General     , 1729504229413> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = BMyers.
+[21-10-24 11:50:29.414] LOG  : General     , 1729504229414> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylanRandomAssetPack1.
+[21-10-24 11:50:29.414] LOG  : General     , 1729504229414> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylanRandomAssetPack1.
+[21-10-24 11:50:29.414] LOG  : General     , 1729504229414> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylanRandomAssetPack1.
+[21-10-24 11:50:29.415] LOG  : General     , 1729504229415> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylanRandomAssetPack1.
+[21-10-24 11:50:29.415] LOG  : General     , 1729504229415> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylanRandomAssetPack1.
+[21-10-24 11:50:29.415] LOG  : General     , 1729504229415> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylanRandomAssetPack1.
+[21-10-24 11:50:29.415] LOG  : General     , 1729504229415> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylanRandomAssetPack1.
+[21-10-24 11:50:29.415] LOG  : General     , 1729504229415> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylanRandomAssetPack2.
+[21-10-24 11:50:29.415] LOG  : General     , 1729504229415> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylanRandomAssetPack2.
+[21-10-24 11:50:29.415] LOG  : General     , 1729504229415> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylanRandomAssetPack2.
+[21-10-24 11:50:29.415] LOG  : General     , 1729504229415> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylanRandomAssetPack2.
+[21-10-24 11:50:29.416] LOG  : General     , 1729504229416> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylanRandomAssetPack3.
+[21-10-24 11:50:29.416] LOG  : General     , 1729504229416> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylanRandomAssetPack4.
+[21-10-24 11:50:29.416] LOG  : General     , 1729504229416> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylanRandomAssetPack4.
+[21-10-24 11:50:29.416] LOG  : General     , 1729504229416> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylanRandomAssetPack4.
+[21-10-24 11:50:29.416] LOG  : General     , 1729504229416> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylanRandomAssetPack4.
+[21-10-24 11:50:29.416] LOG  : General     , 1729504229416> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylanRandomAssetPack4.
+[21-10-24 11:50:29.417] LOG  : General     , 1729504229417> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylanRandomAssetPack4.
+[21-10-24 11:50:29.417] LOG  : General     , 1729504229417> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylanRandomAssetPack4.
+[21-10-24 11:50:29.417] LOG  : General     , 1729504229417> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylanRandomAssetPack4.
+[21-10-24 11:50:29.417] LOG  : General     , 1729504229417> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylanRandomAssetPack6.
+[21-10-24 11:50:29.417] LOG  : General     , 1729504229417> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylanRandomAssetPack6.
+[21-10-24 11:50:29.417] LOG  : General     , 1729504229417> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylanRandomAssetPack6.
+[21-10-24 11:50:29.417] LOG  : General     , 1729504229417> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylanRandomAssetPack6.
+[21-10-24 11:50:29.417] LOG  : General     , 1729504229417> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylanRandomAssetPack6.
+[21-10-24 11:50:29.417] LOG  : General     , 1729504229417> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylanRandomAssetPack6.
+[21-10-24 11:50:29.418] LOG  : General     , 1729504229418> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylanRandomAssetPack7.
+[21-10-24 11:50:29.418] LOG  : General     , 1729504229418> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylanRandomAssetPack8.
+[21-10-24 11:50:29.418] LOG  : General     , 1729504229418> 0> [IMPORTANT] MOVABLES: Object has no custom name defined: sheet = DylanRandomAssetPack8.
+[21-10-24 11:50:29.419] LOG  : General     , 1729504229419> 0> tiledef: loading C:\Program Files (x86)\Steam\steamapps\workshop\content\108600\1827428289\mods\cherbourg\media\normandytiledef.tiles.
+[21-10-24 11:50:29.420] LOG  : General     , 1729504229420> 0> tiledef: loading C:\Program Files (x86)\Steam\steamapps\workshop\content\108600\1827428289\mods\cherbourg\media\roadtiledef.tiles.
+[21-10-24 11:50:29.421] LOG  : General     , 1729504229421> 0> tiledef: loading C:\Program Files (x86)\Steam\steamapps\workshop\content\108600\2297098490\mods\ARSENAL(26)GunFighter[MOD 2.0]\media\A26_Tiles.tiles.
+[21-10-24 11:50:29.421] LOG  : General     , 1729504229421> 0> tiledef: loading C:\Program Files (x86)\Steam\steamapps\workshop\content\108600\2927800433\mods\ChevalDeFrise\media\Defenses.tiles.
+[21-10-24 11:50:29.422] LOG  : General     , 1729504229422> 0> tiledef: loading C:\Program Files (x86)\Steam\steamapps\workshop\content\108600\2744974916\mods\CraftMetalDrumRainBarrel\media\tiledefinitions.tiles.
+[21-10-24 11:50:29.422] LOG  : General     , 1729504229422> 0> tiledef: loading C:\Program Files (x86)\Steam\steamapps\workshop\content\108600\2923979345\mods\Crafting-Enhanced-Core\media\core_crafting.tiles.
+[21-10-24 11:50:29.423] LOG  : General     , 1729504229423> 0> tiledef: loading C:\Program Files (x86)\Steam\steamapps\workshop\content\108600\2975848784\mods\PictureThis\media\spoon_visual_enhancements.tiles.
+[21-10-24 11:50:29.424] LOG  : General     , 1729504229424> 0> MOVABLES: E face defined more than once for group: (Fancy Oak SpoonUtility12) sheet = Spoon_PictureThisStuff.
+[21-10-24 11:50:29.426] LOG  : General     , 1729504229426> 0> tiledef: loading C:\Program Files (x86)\Steam\steamapps\workshop\content\108600\3042138819\mods\FunctionalAppliances2\media\FA.tiles.
+[21-10-24 11:50:29.426] LOG  : General     , 1729504229426> 0> tiledef: loading C:\Program Files (x86)\Steam\steamapps\workshop\content\108600\2613146550\mods\TrueMusic\media\tsarcraft_music.tiles.
+[21-10-24 11:50:29.427] LOG  : General     , 1729504229427> 0> MOVABLES: Not all members have a valid face defined for group: (Vinyl Player) sheet = tsarcraft_music_01.
+[21-10-24 11:50:29.427] LOG  : General     , 1729504229427> 0> tiledef: loading C:\Program Files (x86)\Steam\steamapps\workshop\content\108600\2714848168\mods\PaperWyverns_Sleepingbags\media\sleepingbags.tiles.
+[21-10-24 11:50:29.429] LOG  : General     , 1729504229429> 0> tiledef: loading C:\Program Files (x86)\Steam\steamapps\workshop\content\108600\2687798127\mods\WaterDispenser\media\water_dispenser.tiles.
+[21-10-24 11:50:29.558] LOG  : General     , 1729504229558> 0> Loading Recorded Media:C:\Users\mail\Zomboid\Saves\Multiplayer\195.179.227.216_29900_e1e33ca2a52ce1ec793d6e9a2f576e2e\recorded_media.bin.
+[21-10-24 11:50:29.578] LOG  : General     , 1729504229578> 0> Saving Recorded Media:C:\Users\mail\Zomboid\Saves\Multiplayer\195.179.227.216_29900_e1e33ca2a52ce1ec793d6e9a2f576e2e\recorded_media.bin.
+[21-10-24 11:50:29.592] LOG  : General     , 1729504229592> 0> Overwrote vanilla test method for: Insert Battery into Duck.
+[21-10-24 11:50:29.592] LOG  : General     , 1729504229592> 0> Overwrote vanilla test method for: Insert Battery into Flashlight.
+[21-10-24 11:50:29.592] LOG  : General     , 1729504229592> 0> Overwrote vanilla test method for: Insert Battery into Flashlight.
+[21-10-24 11:50:29.704] LOG  : General     , 1729504229704> 0> -------------------------------------------------------------
+attempted index: getTypeString of non-table: null.
+[21-10-24 11:50:29.705] LOG  : General     , 1729504229705> 0> -----------------------------------------
+STACK TRACE
+-----------------------------------------
+function: EditRecipes -- file: RecipeUpdates.Lua line # 85 | MOD: Better Batteries.
+[21-10-24 11:50:29.705] ERROR: General     , 1729504229705> 0> ExceptionLogger.logException> Exception thrown java.lang.RuntimeException: attempted index: getTypeString of non-table: null at KahluaThread.tableget line:1689..
+[21-10-24 11:50:29.705] ERROR: General     , 1729504229705> 0> DebugLogStream.printException> Stack trace:.
+[21-10-24 11:50:29.706] LOG  : General     , 1729504229706> 0> -----------------------------------------
+STACK TRACE
+-----------------------------------------
+function: EditRecipes -- file: RecipeUpdates.Lua line # 85 | MOD: Better Batteries.
+[21-10-24 11:50:29.716] LOG  : General     , 1729504229716> 0> Packing.10pkBattery	10.
+[21-10-24 11:50:29.716] LOG  : General     , 1729504229716> 0> Packing.5pkBattery	5.
+[21-10-24 11:50:29.716] LOG  : General     , 1729504229716> 0> Packing.10pkRopeDirtBag	10.
+[21-10-24 11:50:29.717] LOG  : General     , 1729504229717> 0> Packing.5pkRopeDirtBag	5.
+[21-10-24 11:50:29.717] LOG  : General     , 1729504229717> 0> Packing.10pkSheetRopeDirtBag	10.
+[21-10-24 11:50:29.717] LOG  : General     , 1729504229717> 0> Packing.5pkSheetRopeDirtBag	5.
+[21-10-24 11:50:29.717] LOG  : General     , 1729504229717> 0> Packing.10pkFishingLine	10.
+[21-10-24 11:50:29.717] LOG  : General     , 1729504229717> 0> Packing.5pkFishingLine	5.
+[21-10-24 11:50:29.717] LOG  : General     , 1729504229717> 0> Packing.10pkGlue	10.
+[21-10-24 11:50:29.717] LOG  : General     , 1729504229717> 0> Packing.5pkGlue	5.
+[21-10-24 11:50:29.717] LOG  : General     , 1729504229717> 0> Packing.10pkRopeGravelBag	10.
+[21-10-24 11:50:29.717] LOG  : General     , 1729504229717> 0> Packing.5pkRopeGravelBag	5.
+[21-10-24 11:50:29.717] LOG  : General     , 1729504229717> 0> Packing.10pkSheetRopeGravelBag	10.
+[21-10-24 11:50:29.717] LOG  : General     , 1729504229717> 0> Packing.5pkSheetRopeGravelBag	5.
+[21-10-24 11:50:29.717] LOG  : General     , 1729504229717> 0> Packing.10pkGunpowder	10.
+[21-10-24 11:50:29.718] LOG  : General     , 1729504229718> 0> Packing.5pkGunpowder	5.
+[21-10-24 11:50:29.718] LOG  : General     , 1729504229718> 0> Packing.10pkLighter	10.
+[21-10-24 11:50:29.718] LOG  : General     , 1729504229718> 0> Packing.5pkLighter	5.
+[21-10-24 11:50:29.718] LOG  : General     , 1729504229718> 0> Packing.10pkMatches	10.
+[21-10-24 11:50:29.718] LOG  : General     , 1729504229718> 0> Packing.5pkMatches	5.
+[21-10-24 11:50:29.719] LOG  : General     , 1729504229719> 0> Packing.10pkRopePetrolCan	10.
+[21-10-24 11:50:29.719] LOG  : General     , 1729504229719> 0> Packing.5pkRopePetrolCan	5.
+[21-10-24 11:50:29.719] LOG  : General     , 1729504229719> 0> Packing.10pkSheetRopePetrolCan	10.
+[21-10-24 11:50:29.719] LOG  : General     , 1729504229719> 0> Packing.5pkSheetRopePetrolCan	5.
+[21-10-24 11:50:29.719] LOG  : General     , 1729504229719> 0> Packing.10pkRopePropaneTank	10.
+[21-10-24 11:50:29.719] LOG  : General     , 1729504229719> 0> Packing.5pkRopePropaneTank	5.
+[21-10-24 11:50:29.719] LOG  : General     , 1729504229719> 0> Packing.10pkSheetRopePropaneTank	10.
+[21-10-24 11:50:29.719] LOG  : General     , 1729504229719> 0> Packing.5pkSheetRopePropaneTank	5.
+[21-10-24 11:50:29.719] LOG  : General     , 1729504229719> 0> Packing.10pkRopeSandBag	10.
+[21-10-24 11:50:29.720] LOG  : General     , 1729504229720> 0> Packing.5pkRopeSandBag	5.
+[21-10-24 11:50:29.720] LOG  : General     , 1729504229720> 0> Packing.10pkSheetRopeSandBag	10.
+[21-10-24 11:50:29.720] LOG  : General     , 1729504229720> 0> Packing.5pkSheetRopeSandBag	5.
+[21-10-24 11:50:29.720] LOG  : General     , 1729504229720> 0> Packing.10pkSoap	10.
+[21-10-24 11:50:29.720] LOG  : General     , 1729504229720> 0> Packing.5pkSoap	5.
+[21-10-24 11:50:29.720] LOG  : General     , 1729504229720> 0> Packing.10pkThread	10.
+[21-10-24 11:50:29.720] LOG  : General     , 1729504229720> 0> Packing.5pkThread	5.
+[21-10-24 11:50:29.720] LOG  : General     , 1729504229720> 0> Packing.10pkTissue	10.
+[21-10-24 11:50:29.720] LOG  : General     , 1729504229720> 0> Packing.5pkTissue	5.
+[21-10-24 11:50:29.720] LOG  : General     , 1729504229720> 0> Packing.4pkToiletPaper	4.
+[21-10-24 11:50:29.720] LOG  : General     , 1729504229720> 0> Packing.10pkTwine	10.
+[21-10-24 11:50:29.721] LOG  : General     , 1729504229721> 0> Packing.5pkTwine	5.
+[21-10-24 11:50:29.721] LOG  : General     , 1729504229721> 0> Packing.10pkWeldingRods	10.
+[21-10-24 11:50:29.721] LOG  : General     , 1729504229721> 0> Packing.5pkWeldingRods	5.
+[21-10-24 11:50:29.721] LOG  : General     , 1729504229721> 0> Packing.10pkWire	10.
+[21-10-24 11:50:29.721] LOG  : General     , 1729504229721> 0> Packing.5pkWire	5.
+[21-10-24 11:50:29.721] LOG  : General     , 1729504229721> 0> Packing.10pkWoodGlue	10.
+[21-10-24 11:50:29.721] LOG  : General     , 1729504229721> 0> Packing.5pkWoodGlue	5.
+[21-10-24 11:50:29.721] LOG  : General     , 1729504229721> 0> GidOrganized.OS30pkAlcoholWipes	6.
+[21-10-24 11:50:29.722] LOG  : General     , 1729504229722> 0> GidOrganized.OS50pkAntidepressants	5.
+[21-10-24 11:50:29.722] LOG  : General     , 1729504229722> 0> GidOrganized.OS50pkBetaBlockers	5.
+[21-10-24 11:50:29.722] LOG  : General     , 1729504229722> 0> GidOrganized.OS4pkDisinfectant	4.
+[21-10-24 11:50:29.722] LOG  : General     , 1729504229722> 0> GidOrganized.OS50pkPainkillers	5.
+[21-10-24 11:50:29.722] LOG  : General     , 1729504229722> 0> GidOrganized.OS50pkSleepingPills	5.
+[21-10-24 11:50:29.722] LOG  : General     , 1729504229722> 0> GidOrganized.OS50pkVitamins	5.
+[21-10-24 11:50:29.722] LOG  : General     , 1729504229722> 0> GidOrganizedFood.OS4pkDuctTape	4.
+[21-10-24 11:50:29.726] LOG  : General     , 1729504229726> 0> ERROR: SuburbsDistributions["laboratory"] is broken.
+[21-10-24 11:50:29.727] LOG  : General     , 1729504229727> 0> ERROR: SuburbsDistributions["laboratory"] is broken.
+[21-10-24 11:50:29.727] LOG  : General     , 1729504229727> 0> ERROR: SuburbsDistributions["laboratory"] is broken.
+[21-10-24 11:50:30.223] LOG  : General     , 1729504230223> 0> WorldDictionary: Checking dictionary....
+[21-10-24 11:50:30.376] LOG  : General     , 1729504230376> 0> IsoMetaGrid.Create: finished loading in 2.221 seconds.
+[21-10-24 11:50:30.393] LOG  : General     , 1729504230393> 0> Calculate weather front strength = 0.5741705.
+[21-10-24 11:50:30.396] LOG  : General     , 1729504230396> 0> Calculate weather front strength = 0.2114518.
+[21-10-24 11:50:30.399] LOG  : General     , 1729504230399> 0> Calculate weather front strength = 0.78451306.
+[21-10-24 11:50:30.400] LOG  : General     , 1729504230400> 0> Calculate weather front strength = 0.30553824.
+[21-10-24 11:50:30.401] LOG  : General     , 1729504230401> 0> Calculate weather front strength = 0.56666875.
+[21-10-24 11:50:30.402] LOG  : General     , 1729504230402> 0> Calculate weather front strength = 0.9171822.
+[21-10-24 11:50:30.403] LOG  : General     , 1729504230403> 0> Calculate weather front strength = 0.08549499.
+[21-10-24 11:50:30.405] LOG  : Lua         , 1729504230405> 0> Loading: media/maps/Muldraugh, KY/objects.lua.
+[21-10-24 11:50:30.535] LOG  : General     , 1729504230535> 0> ERROR: Mannequin zone missing properties in media/maps/Muldraugh, KY/objects.lua at 13583,1299,0.
+[21-10-24 11:50:30.811] LOG  : General     , 1729504230811> 0> can't find map objects file: media/maps/West/objects.lua.
+[21-10-24 11:50:30.846] LOG  : General     , 1729504230846> 0> can't find map objects file: media/maps/South/objects.lua.
+[21-10-24 11:50:30.855] LOG  : General     , 1729504230855> 0> can't find map objects file: media/maps/North/objects.lua.
+[21-10-24 11:50:30.865] LOG  : Lua         , 1729504230865> 0> Loading: C:\Program Files (x86)\Steam\steamapps\workshop\content\108600\2335368829\mods\Authentic Z - Current\media\maps\AZSpawn\objects.lua.
+[21-10-24 11:50:30.885] LOG  : Lua         , 1729504230885> 0> Loading: C:\Program Files (x86)\Steam\steamapps\workshop\content\108600\2922087098\mods\RosewoodVHSGunStores\media\maps\Rosewood VHS Store\objects.lua.
+[21-10-24 11:50:30.905] LOG  : General     , 1729504230905> 0> checkVehiclesZones: ERROR! Zone '':'ParkingStall' (8281, 12229) duplicate with Zone '':'ParkingStall' (8281, 12229).
+[21-10-24 11:50:30.907] LOG  : Lua         , 1729504230907> 0> Loading: C:\Program Files (x86)\Steam\steamapps\workshop\content\108600\3018062764\mods\Hunter's Base\media\maps\Hunter'sBase_map\objects.lua.
+[21-10-24 11:50:30.939] LOG  : Lua         , 1729504230939> 0> Loading: C:\Program Files (x86)\Steam\steamapps\workshop\content\108600\2794721857\mods\McCoysBunker\media\maps\McCoysBunker\objects.lua.
+[21-10-24 11:50:30.971] LOG  : Lua         , 1729504230971> 0> Loading: C:\Program Files (x86)\Steam\steamapps\workshop\content\108600\2463499011\mods\Grapeseed\media\maps\Grapeseed\objects.lua.
+[21-10-24 11:50:31.006] LOG  : Lua         , 1729504231006> 0> Loading: C:\Program Files (x86)\Steam\steamapps\workshop\content\108600\1516836158\mods\FortRedstone\media\maps\FortRedstone\objects.lua.
+[21-10-24 11:50:31.039] LOG  : Lua         , 1729504231039> 0> Loading: C:\Program Files (x86)\Steam\steamapps\workshop\content\108600\2536865912\mods\Blackwood\media\maps\Blackwood\objects.lua.
+[21-10-24 11:50:31.083] LOG  : Lua         , 1729504231082> 0> Loading: C:\Program Files (x86)\Steam\steamapps\workshop\content\108600\522891356\mods\Bedford Falls\media\maps\BedfordFalls\objects.lua.
+[21-10-24 11:50:31.118] LOG  : Lua         , 1729504231118> 0> Loading: C:\Program Files (x86)\Steam\steamapps\workshop\content\108600\2196102849\mods\RavenCreek\media\maps\RavenCreek\objects.lua.
+[21-10-24 11:50:31.174] LOG  : Lua         , 1729504231174> 0> Loading: C:\Program Files (x86)\Steam\steamapps\workshop\content\108600\2807152393\mods\ResearchBaseAccessRoad\media\maps\researchbaseroad\objects.lua.
+[21-10-24 11:50:31.204] LOG  : Lua         , 1729504231204> 0> Loading: C:\Program Files (x86)\Steam\steamapps\workshop\content\108600\2807152393\mods\ResearchBase\media\maps\researchbase\objects.lua.
+[21-10-24 11:50:31.240] LOG  : Lua         , 1729504231240> 0> Loading: C:\Program Files (x86)\Steam\steamapps\workshop\content\108600\2873362550\mods\TeraMartEast\media\maps\TeraMart\objects.lua.
+[21-10-24 11:50:31.271] LOG  : Lua         , 1729504231271> 0> Loading: C:\Program Files (x86)\Steam\steamapps\workshop\content\108600\2838577147\mods\Cryo Compound\media\maps\Cryo Compound\objects.lua.
+[21-10-24 11:50:31.302] LOG  : General     , 1729504231302> 0> can't find map objects file: media/maps/vehicle_interior/objects.lua.
+[21-10-24 11:50:31.337] LOG  : Lua         , 1729504231337> 0> Loading: C:\Program Files (x86)\Steam\steamapps\workshop\content\108600\2392709985\mods\tsarslib\media\mapszones\Muldraugh, KY\tsarzones.lua.
+[21-10-24 11:50:31.368] LOG  : Lua         , 1729504231368> 0> Loading: C:\Program Files (x86)\Steam\steamapps\workshop\content\108600\2728257015\mods\agrotsar\media\mapszones\Muldraugh, KY\agrozones.lua.
+[21-10-24 11:50:31.400] LOG  : Lua         , 1729504231400> 0> Loading: C:\Program Files (x86)\Steam\steamapps\workshop\content\108600\2392987599\mods\AquatsarYachtClub\media\mapszones\Muldraugh, KY\aquazones.lua.
+[21-10-24 11:50:31.492] LOG  : General     , 1729504231492> 0> loading 21689 zones from map_zone.bin.
+[21-10-24 11:50:31.592] LOG  : General     , 1729504231592> 0> Max #ZONES on one chunk is 11.
+[21-10-24 11:50:31.593] LOG  : General     , 1729504231593> 0> [forageSystem][populateZoneDefs] Adding zoneDef: DeepForest.
+[21-10-24 11:50:31.593] LOG  : General     , 1729504231593> 0> [forageSystem][populateZoneDefs] Adding zoneDef: FarmLand.
+[21-10-24 11:50:31.593] LOG  : General     , 1729504231593> 0> [forageSystem][populateZoneDefs] Adding zoneDef: Farm.
+[21-10-24 11:50:31.593] LOG  : General     , 1729504231593> 0> [forageSystem][populateZoneDefs] Adding zoneDef: Forest.
+[21-10-24 11:50:31.593] LOG  : General     , 1729504231593> 0> [forageSystem][populateZoneDefs] Adding zoneDef: Nav.
+[21-10-24 11:50:31.593] LOG  : General     , 1729504231593> 0> [forageSystem][populateZoneDefs] Adding zoneDef: TownZone.
+[21-10-24 11:50:31.593] LOG  : General     , 1729504231593> 0> [forageSystem][populateZoneDefs] Adding zoneDef: TrailerPark.
+[21-10-24 11:50:31.593] LOG  : General     , 1729504231593> 0> [forageSystem][populateZoneDefs] Adding zoneDef: Vegitation.
+[21-10-24 11:50:31.616] LOG  : General     , 1729504231616> 0> [forageSystem][generateLootTable] Begin generating loot tables.
+[21-10-24 11:50:31.617] LOG  : General     , 1729504231617> 0> [forageSystem][generateLootTable] Finished generating loot table structure.
+[21-10-24 11:50:31.617] LOG  : General     , 1729504231617> 0> [forageSystem][generateLootTable] Begin populating loot table.
+[21-10-24 11:50:32.127] LOG  : General     , 1729504232127> 0> [forageSystem][generateLootTable] Finished populating loot table.
+[21-10-24 11:50:32.127] LOG  : General     , 1729504232127> 0> [forageSystem][generateLootTable] Begin populating loot table categories.
+[21-10-24 11:50:32.149] LOG  : General     , 1729504232149> 0> [forageSystem][generateLootTable] Finished populating loot table categories.
+[21-10-24 11:50:32.150] LOG  : General     , 1729504232150> 0> [forageSystem][generateLootTable] Finished generating loot tables.
+[21-10-24 11:50:32.150] LOG  : General     , 1729504232150> 0> [forageSystem][integrityCheck] checking all zoneData..
+[21-10-24 11:50:32.150] LOG  : General     , 1729504232150> 0> [forageSystem][integrityCheck] checked integrity of 0 zones..
+[21-10-24 11:50:32.150] LOG  : General     , 1729504232150> 0> [forageSystem][integrityCheck] all zones passed testing..
+[21-10-24 11:50:32.150] LOG  : General     , 1729504232150> 0> [forageSystem][integrityCheck] checked integrity of 0 icons..
+[21-10-24 11:50:32.150] LOG  : General     , 1729504232150> 0> [forageSystem][integrityCheck] all icons passed testing..
+[21-10-24 11:50:32.355] WARN : General     , 1729504232354> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 3471,11153,4.
+[21-10-24 11:50:32.355] WARN : General     , 1729504232355> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 3586,11300,5.
+[21-10-24 11:50:32.355] WARN : General     , 1729504232355> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 3364,11139,5.
+[21-10-24 11:50:32.355] WARN : General     , 1729504232355> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 3488,11391,6.
+[21-10-24 11:50:32.355] WARN : General     , 1729504232355> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 3422,11386,5.
+[21-10-24 11:50:32.355] WARN : General     , 1729504232355> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 3569,11351,5.
+[21-10-24 11:50:32.355] WARN : General     , 1729504232355> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 3463,11475,5.
+[21-10-24 11:50:32.355] WARN : General     , 1729504232355> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 3451,11510,5.
+[21-10-24 11:50:32.355] WARN : General     , 1729504232355> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 3493,11617,5.
+[21-10-24 11:50:32.355] WARN : General     , 1729504232355> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 3504,11678,3.
+[21-10-24 11:50:32.355] WARN : General     , 1729504232355> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 3204,11210,6.
+[21-10-24 11:50:32.355] WARN : General     , 1729504232355> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 3141,11227,7.
+[21-10-24 11:50:32.355] WARN : General     , 1729504232355> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 3112,11154,4.
+[21-10-24 11:50:32.355] WARN : General     , 1729504232355> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 3200,11138,3.
+[21-10-24 11:50:32.355] WARN : General     , 1729504232355> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 3249,11282,3.
+[21-10-24 11:50:32.356] WARN : General     , 1729504232356> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 3615,11133,5.
+[21-10-24 11:50:32.356] WARN : General     , 1729504232356> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 3768,11341,3.
+[21-10-24 11:50:32.356] WARN : General     , 1729504232356> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 3867,11309,3.
+[21-10-24 11:50:32.356] WARN : General     , 1729504232356> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 3825,11158,3.
+[21-10-24 11:50:32.356] WARN : General     , 1729504232356> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 3826,11226,4.
+[21-10-24 11:50:32.356] WARN : General     , 1729504232356> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 3844,11691,3.
+[21-10-24 11:50:32.356] WARN : General     , 1729504232356> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 3891,11687,3.
+[21-10-24 11:50:32.356] WARN : General     , 1729504232356> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 3850,11625,4.
+[21-10-24 11:50:32.356] WARN : General     , 1729504232356> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 3629,11762,0.
+[21-10-24 11:50:32.356] WARN : General     , 1729504232356> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 3953,11342,3.
+[21-10-24 11:50:32.356] WARN : General     , 1729504232356> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 3914,11316,2.
+[21-10-24 11:50:32.356] WARN : General     , 1729504232356> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 3966,11382,3.
+[21-10-24 11:50:32.356] WARN : General     , 1729504232356> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 4037,11558,3.
+[21-10-24 11:50:32.356] WARN : General     , 1729504232356> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 3980,11630,2.
+[21-10-24 11:50:32.356] WARN : General     , 1729504232356> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 3911,11500,5.
+[21-10-24 11:50:32.357] WARN : General     , 1729504232357> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 4424,11583,0.
+[21-10-24 11:50:32.357] WARN : General     , 1729504232357> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 4282,11623,0.
+[21-10-24 11:50:32.357] WARN : General     , 1729504232357> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 4739,12139,0.
+[21-10-24 11:50:32.357] WARN : General     , 1729504232357> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 4107,12449,0.
+[21-10-24 11:50:32.357] WARN : General     , 1729504232357> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 4190,12797,0.
+[21-10-24 11:50:32.357] WARN : General     , 1729504232357> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 5341,11124,0.
+[21-10-24 11:50:32.357] WARN : General     , 1729504232357> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 4168,13350,3.
+[21-10-24 11:50:32.357] WARN : General     , 1729504232357> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 4069,13454,1.
+[21-10-24 11:50:32.357] WARN : General     , 1729504232357> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 4115,13395,2.
+[21-10-24 11:50:32.357] WARN : General     , 1729504232357> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 4222,13169,0.
+[21-10-24 11:50:32.357] WARN : General     , 1729504232357> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 4473,13314,3.
+[21-10-24 11:50:32.357] WARN : General     , 1729504232357> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 8044,10725,0.
+[21-10-24 11:50:32.357] WARN : General     , 1729504232357> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 7816,10616,0.
+[21-10-24 11:50:32.357] WARN : General     , 1729504232357> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 6117,5771,0.
+[21-10-24 11:50:32.357] WARN : General     , 1729504232357> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 10837,11370,0.
+[21-10-24 11:50:32.357] WARN : General     , 1729504232357> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 5807,12581,0.
+[21-10-24 11:50:32.357] WARN : General     , 1729504232357> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 5830,12567,0.
+[21-10-24 11:50:32.357] WARN : General     , 1729504232357> 0> SpawnPoints.initSpawnBuildings> initSpawnBuildings: no room or building at 5545,12653,0.
+[21-10-24 11:50:32.381] LOG  : General     , 1729504232381> 0> Requested 529 chunks from the server.
+[21-10-24 11:50:33.389] LOG  : General     , 1729504233389> 0> Received 100 / 529 chunks.
+[21-10-24 11:50:34.394] LOG  : General     , 1729504234394> 0> Received 120 / 529 chunks.
+[21-10-24 11:50:35.413] LOG  : General     , 1729504235413> 0> Received 320 / 529 chunks.
+[21-10-24 11:50:36.419] LOG  : General     , 1729504236419> 0> Received 520 / 529 chunks.
+[21-10-24 11:50:36.521] LOG  : General     , 1729504236521> 0> Received 529 / 529 chunks.
+[21-10-24 11:50:37.581] LOG  : General     , 1729504237581> 0> Warning, root node parent is always null..
+[21-10-24 11:50:49.004] LOG  : General     , 1729504249004> 0> LuaNet: Loading....
+[21-10-24 11:50:49.004] LOG  : General     , 1729504249004> 0> LuaNet: Registering client listener....
+[21-10-24 11:50:49.004] LOG  : General     , 1729504249004> 0> LuaNet: Initialization [DONE], triggering events for 'LuaNet.onInitAdd'..
+[21-10-24 11:50:49.037] LOG  : General     , 1729504249037> 0> Saving GlobalModData.
+[21-10-24 11:50:49.060] LOG  : General     , 1729504249060> 0> Adding carseat, value = media/ui/Container_Carseat.png.
+[21-10-24 11:50:49.060] LOG  : General     , 1729504249060> 0> Adding hotdogmachine, value = media/ui/Container_HotdogMachine.png.
+[21-10-24 11:50:49.060] LOG  : General     , 1729504249060> 0> Adding poolcuestand, value = media/ui/Container_PoolCueStand.png.
+[21-10-24 11:50:49.060] LOG  : General     , 1729504249060> 0> Adding floor, value = media/ui/Container_Floor.png.
+[21-10-24 11:50:49.060] LOG  : General     , 1729504249060> 0> Adding deadperson_male, value = media/ui/Container_DeadPerson_Male.png.
+[21-10-24 11:50:49.060] LOG  : General     , 1729504249060> 0> Adding toolcabinet, value = media/ui/Container_ToolCabinet.png.
+[21-10-24 11:50:49.061] LOG  : General     , 1729504249061> 0> Adding deadperson_female, value = media/ui/Container_DeadPerson_Female.png.
+[21-10-24 11:50:49.061] LOG  : General     , 1729504249061> 0> Adding clothingwasher, value = media/ui/Container_ClothingWasher.png.
+[21-10-24 11:50:49.061] LOG  : General     , 1729504249061> 0> Adding garbage, value = media/ui/Container_Garbage.png.
+[21-10-24 11:50:49.061] LOG  : General     , 1729504249061> 0> Adding clothingdryer, value = media/ui/Container_ClothingDryer.png.
+[21-10-24 11:50:49.061] LOG  : General     , 1729504249061> 0> Adding glovecompartment, value = media/ui/Container_GloveCompartment.png.
+[21-10-24 11:50:49.062] LOG  : General     , 1729504249062> 0> Adding vendingt, value = media/ui/Container_Vendingt.png.
+[21-10-24 11:50:49.062] LOG  : General     , 1729504249062> 0> Adding crate, value = media/ui/Container_Crate.png.
+[21-10-24 11:50:49.062] LOG  : General     , 1729504249062> 0> Adding pegboard, value = media/ui/Container_PegBoard.png.
+[21-10-24 11:50:49.063] LOG  : General     , 1729504249063> 0> Adding bulletinboard, value = media/ui/Container_BulletinBoard.png.
+[21-10-24 11:50:49.063] LOG  : General     , 1729504249063> 0> Adding deadperson_femalezombie, value = media/ui/Container_DeadPerson_FemaleZombie.png.
+[21-10-24 11:50:49.063] LOG  : General     , 1729504249063> 0> Adding sack, value = media/ui/Container_Sack.png.
+[21-10-24 11:50:49.063] LOG  : General     , 1729504249063> 0> Adding deadperson_malezombie, value = media/ui/Container_DeadPerson_MaleZombie.png.
+[21-10-24 11:50:49.064] LOG  : General     , 1729504249064> 0> Adding popcornmachine, value = media/ui/Container_PopcornMachine.png.
+[21-10-24 11:50:49.064] LOG  : General     , 1729504249064> 0> Adding composter, value = media/ui/Container_Composter.png.
+[21-10-24 11:50:49.064] LOG  : General     , 1729504249064> 0> Adding drawer, value = media/ui/Container_Drawer.png.
+[21-10-24 11:50:49.064] LOG  : General     , 1729504249064> 0> Adding freezer, value = media/ui/Container_Freezer.png.
+[21-10-24 11:50:49.065] LOG  : General     , 1729504249065> 0> Adding oven, value = media/ui/Container_Oven.png.
+[21-10-24 11:50:49.065] LOG  : General     , 1729504249065> 0> Adding plant, value = media/ui/Container_Plant.png.
+[21-10-24 11:50:49.065] LOG  : General     , 1729504249065> 0> Adding medicine, value = media/ui/Container_Medicine.png.
+[21-10-24 11:50:49.065] LOG  : General     , 1729504249065> 0> Adding fridge, value = media/ui/Container_Fridge.png.
+[21-10-24 11:50:49.065] LOG  : General     , 1729504249065> 0> Adding papertoweldispenser, value = media/ui/Container_PaperTowelDispenser.png.
+[21-10-24 11:50:49.065] LOG  : General     , 1729504249065> 0> Adding largebulletinboard, value = media/ui/Container_LargeBulletinBoard.png.
+[21-10-24 11:50:49.066] LOG  : General     , 1729504249066> 0> Adding napkindispenser, value = media/ui/Container_NapkinDispenser.png.
+[21-10-24 11:50:49.066] LOG  : General     , 1729504249066> 0> Adding cabinet, value = media/ui/Container_Cabinet.png.
+[21-10-24 11:50:49.066] LOG  : General     , 1729504249066> 0> Adding campfire, value = media/ui/Container_Campfire.png.
+[21-10-24 11:50:49.066] LOG  : General     , 1729504249066> 0> Adding shelf, value = media/ui/Container_Shelf.png.
+[21-10-24 11:50:49.067] LOG  : General     , 1729504249067> 0> Adding mannequin, value = media/ui/Container_Mannequin.png.
+[21-10-24 11:50:49.067] LOG  : General     , 1729504249067> 0> Adding mailbox, value = media/ui/Container_MailBox.png.
+[21-10-24 11:50:49.067] LOG  : General     , 1729504249067> 0> Adding truckbed, value = media/ui/Container_TruckBed.png.
+[21-10-24 11:50:49.067] LOG  : General     , 1729504249067> 0> Adding counter, value = media/ui/Container_Counter.png.
+[21-10-24 11:50:49.067] LOG  : General     , 1729504249067> 0> Adding microwave, value = media/ui/Container_Microwave.png.
+[21-10-24 11:50:49.067] LOG  : General     , 1729504249067> 0> Adding slurpnburp, value = media/ui/Container_SlurpNBurp.png.
+[21-10-24 11:50:49.067] LOG  : General     , 1729504249067> 0> Adding musictape, value = media/ui/Container_Musictape.png.
+[21-10-24 11:50:49.161] LOG  : General     , 1729504249161> 0> game loading took 26 seconds.
+[21-10-24 11:50:49.161] LOG  : Network     , 1729504249161> 0> [21-10-24 11:50:49.161] > ConnectionManager: [send-packet] "login-queue-done" connection: guid=1729504051590734 ip=195.179.227.216 steam-id=76561197983853879 access="admin" username="Shuffmayn" connection-type="UDPRakNet".
+[21-10-24 11:50:49.211] LOG  : Network     , 1729504249211> 0> [21-10-24 11:50:49.211] > ConnectionManager: [receive-packet] "checksum-packet-1" connection: guid=1729504051590734 ip=195.179.227.216 steam-id=76561197983853879 access="admin" username="Shuffmayn" connection-type="UDPRakNet".
+[21-10-24 11:50:49.222] LOG  : Network     , 1729504249222> 0> [21-10-24 11:50:49.222] > ConnectionManager: [send-packet] "checksum-packet-1" connection: guid=1729504051590734 ip=195.179.227.216 steam-id=76561197983853879 access="admin" username="Shuffmayn" connection-type="UDPRakNet".
+[21-10-24 11:50:49.271] LOG  : Network     , 1729504249271> 0> [21-10-24 11:50:49.271] > ConnectionManager: [receive-packet] "checksum-packet-2" connection: guid=1729504051590734 ip=195.179.227.216 steam-id=76561197983853879 access="admin" username="Shuffmayn" connection-type="UDPRakNet".
+[21-10-24 11:50:49.277] LOG  : Network     , 1729504249277> 0> [21-10-24 11:50:49.277] > ConnectionManager: [send-packet] "checksum-packet-2" connection: guid=1729504051590734 ip=195.179.227.216 steam-id=76561197983853879 access="admin" username="Shuffmayn" connection-type="UDPRakNet".
+[21-10-24 11:51:15.972] LOG  : General     , 1729504275972> 0> STATE: exit zombie.gameStates.GameLoadingState.
+[21-10-24 11:51:15.993] LOG  : Multiplayer , 1729504275993> 0> [MPStatistics] mem usage notification threshold=3.060.164.096.
+[21-10-24 11:51:16.000] LOG  : General     , 1729504276000> 0> [ISSearchManager] created UI for player 0.
+[21-10-24 11:51:16.003] LOG  : General     , 1729504276003> 0> [ISSearchWindow] created UI for player 0.
+[21-10-24 11:51:16.003] LOG  : General     , 1729504276003> 0> 1 players found.
+[21-10-24 11:51:16.003] LOG  : General     , 1729504276003> 0> player 0 is mouse.
+[21-10-24 11:51:16.004] LOG  : General     , 1729504276004> 0> PLAYER DATA OFFSET 0.
+[21-10-24 11:51:16.004] LOG  : General     , 1729504276004> 0> 320.
+[21-10-24 11:51:16.004] LOG  : General     , 1729504276004> 0> 0.
+[21-10-24 11:51:16.004] LOG  : General     , 1729504276004> 0> 640.
+[21-10-24 11:51:16.004] LOG  : General     , 1729504276004> 0> 360.
+[21-10-24 11:51:16.481] ERROR: General     , 1729504276481> 0> LuaManager.getFunctionObject> no such function "Install_PB_Can_Test".
+[21-10-24 11:51:16.482] ERROR: General     , 1729504276482> 0> LuaManager.getFunctionObject> no such function "Remove_PB_Can_Test".
+[21-10-24 11:51:16.482] ERROR: General     , 1729504276482> 0> LuaManager.getFunctionObject> no such function "Install_PB_Can_Test".
+[21-10-24 11:51:16.482] ERROR: General     , 1729504276482> 0> LuaManager.getFunctionObject> no such function "Remove_PB_Can_Test".
+[21-10-24 11:51:16.505] ERROR: General     , 1729504276505> 0> LuaManager.getFunctionObject> no such function "Test_Remove_TriggerGroup".
+[21-10-24 11:51:16.507] ERROR: General     , 1729504276507> 0> LuaManager.getFunctionObject> no such function "Test_Remove_TriggerGroup".
+[21-10-24 11:51:16.508] ERROR: General     , 1729504276508> 0> LuaManager.getFunctionObject> no such function "Test_Remove_TriggerGroup".
+[21-10-24 11:51:16.509] ERROR: General     , 1729504276509> 0> LuaManager.getFunctionObject> no such function "Test_Remove_TriggerGroup".
+[21-10-24 11:51:16.509] ERROR: General     , 1729504276509> 0> LuaManager.getFunctionObject> no such function "Test_Install_TriggerGroup".
+[21-10-24 11:51:16.510] ERROR: General     , 1729504276510> 0> LuaManager.getFunctionObject> no such function "Test_Install_TriggerGroup".
+[21-10-24 11:51:16.511] ERROR: General     , 1729504276511> 0> LuaManager.getFunctionObject> no such function "Test_Install_TriggerGroup".
+[21-10-24 11:51:16.512] ERROR: General     , 1729504276512> 0> LuaManager.getFunctionObject> no such function "Test_Install_TriggerGroup".
+[21-10-24 11:51:16.523] LOG  : General     , 1729504276523> 0> Warning: Moveable not valid.
+[21-10-24 11:51:16.523] LOG  : General     , 1729504276523> 0> Warning: Moveable not valid.
+[21-10-24 11:51:17.248] LOG  : General     , 1729504277248> 0> ISCraftingUI: no such result item CakeRaw_Chocolate.
+[21-10-24 11:51:17.249] LOG  : General     , 1729504277249> 0> ISCraftingUI: no such result item CakeRaw_Carrot.
+[21-10-24 11:51:17.249] LOG  : General     , 1729504277249> 0> ISCraftingUI: no such result item CakeRaw_BlackForestCake.
+[21-10-24 11:51:17.250] LOG  : General     , 1729504277250> 0> ISCraftingUI: no such result item CakeRaw_RedVelvet.
+[21-10-24 11:51:17.250] LOG  : General     , 1729504277250> 0> ISCraftingUI: no such result item CakeRaw_Strawberry.
+[21-10-24 11:51:17.251] LOG  : General     , 1729504277251> 0> ISCraftingUI: no such result item Macaron_Pink.
+[21-10-24 11:51:17.636] ERROR: General     , 1729504277636> 0> LuaManager.getFunctionObject> no such function "Install_PB_Can_Test".
+[21-10-24 11:51:17.637] ERROR: General     , 1729504277637> 0> LuaManager.getFunctionObject> no such function "Remove_PB_Can_Test".
+[21-10-24 11:51:17.637] ERROR: General     , 1729504277637> 0> LuaManager.getFunctionObject> no such function "Install_PB_Can_Test".
+[21-10-24 11:51:17.637] ERROR: General     , 1729504277637> 0> LuaManager.getFunctionObject> no such function "Remove_PB_Can_Test".
+[21-10-24 11:51:17.657] ERROR: General     , 1729504277657> 0> LuaManager.getFunctionObject> no such function "Test_Remove_TriggerGroup".
+[21-10-24 11:51:17.658] ERROR: General     , 1729504277658> 0> LuaManager.getFunctionObject> no such function "Test_Remove_TriggerGroup".
+[21-10-24 11:51:17.659] ERROR: General     , 1729504277659> 0> LuaManager.getFunctionObject> no such function "Test_Remove_TriggerGroup".
+[21-10-24 11:51:17.659] ERROR: General     , 1729504277659> 0> LuaManager.getFunctionObject> no such function "Test_Remove_TriggerGroup".
+[21-10-24 11:51:17.660] ERROR: General     , 1729504277660> 0> LuaManager.getFunctionObject> no such function "Test_Install_TriggerGroup".
+[21-10-24 11:51:17.661] ERROR: General     , 1729504277661> 0> LuaManager.getFunctionObject> no such function "Test_Install_TriggerGroup".
+[21-10-24 11:51:17.661] ERROR: General     , 1729504277661> 0> LuaManager.getFunctionObject> no such function "Test_Install_TriggerGroup".
+[21-10-24 11:51:17.662] ERROR: General     , 1729504277662> 0> LuaManager.getFunctionObject> no such function "Test_Install_TriggerGroup".
+[21-10-24 11:51:18.264] LOG  : General     , 1729504278264> 0> ISCraftingUI: no such result item CakeRaw_Chocolate.
+[21-10-24 11:51:18.265] LOG  : General     , 1729504278265> 0> ISCraftingUI: no such result item CakeRaw_Carrot.
+[21-10-24 11:51:18.265] LOG  : General     , 1729504278265> 0> ISCraftingUI: no such result item CakeRaw_BlackForestCake.
+[21-10-24 11:51:18.266] LOG  : General     , 1729504278266> 0> ISCraftingUI: no such result item CakeRaw_RedVelvet.
+[21-10-24 11:51:18.266] LOG  : General     , 1729504278266> 0> ISCraftingUI: no such result item CakeRaw_Strawberry.
+[21-10-24 11:51:18.266] LOG  : General     , 1729504278266> 0> ISCraftingUI: no such result item Macaron_Pink.
+[21-10-24 11:51:20.461] LOG  : General     , 1729504280461> 0> More Traits - Mod Version On Which Player Was Created: 5.
+[21-10-24 11:51:20.461] LOG  : General     , 1729504280461> 0> More Traits - Mod Version On Which Save Was Created: 5.
+[21-10-24 11:51:20.461] LOG  : General     , 1729504280461> 0> More Traits - Current Mod Version: 5.
+[21-10-24 11:51:20.462] LOG  : General     , 1729504280462> 0> STATE: enter zombie.gameStates.IngameState.
+[21-10-24 11:51:20.566] LOG  : General     , 1729504280566> 0> GroundItemSpawnerItems found total of 1 to spawn!.
+[21-10-24 11:51:21.530] LOG  : General     , 1729504281530> 0> Init ISContextManager.
+[21-10-24 11:51:22.009] LOG  : General     , 1729504282009> 0> TRUE CRAWL : IsTrueCrawlEnabled? 	[	true	].
+[21-10-24 11:51:22.010] LOG  : General     , 1729504282010> 0> CreateType.
+[21-10-24 11:51:22.010] LOG  : General     , 1729504282010> 0> TRUE CRAWL : isSurvivorNpcModEnabled? 	[	false	].
+[21-10-24 11:51:22.010] LOG  : General     , 1729504282010> 0> TRUE CRAWL : isTrueCrouchingEnabled? 	[	true	].
+[21-10-24 11:51:22.010] LOG  : General     , 1729504282010> 0> Mod Loaded: Crafting Enhanced Core by TheHunterJP (v1.0.0).
+[21-10-24 11:51:22.011] LOG  : General     , 1729504282011> 0> Adding MRE Box to NecroForge.
+[21-10-24 11:51:22.014] LOG  : General     , 1729504282014> 0> [CraftHelperContinued] Loading items....
+[21-10-24 11:51:22.126] LOG  : General     , 1729504282126> 0> Warning: Moveable not valid.
+[21-10-24 11:51:22.180] LOG  : General     , 1729504282180> 0> Warning: Moveable not valid.
+[21-10-24 11:51:22.180] LOG  : General     , 1729504282180> 0> Warning: Moveable not valid.
+[21-10-24 11:51:22.326] LOG  : General     , 1729504282326> 0> [CraftHelperContinued] Loaded All Items in 0.312 seconds.
+[21-10-24 11:51:22.326] LOG  : General     , 1729504282326> 0> [CraftHelperContinued] 9007 items loaded..
+[21-10-24 11:51:22.326] LOG  : General     , 1729504282326> 0> [CraftHelperContinued] 154 obsolete items skipped..
+[21-10-24 11:51:22.327] LOG  : General     , 1729504282327> 0> [CraftHelperContinued] Loaded CraftingEnhancedCore Items in 0.001 seconds.
+[21-10-24 11:51:22.328] LOG  : General     , 1729504282328> 0> [CraftHelperContinued] 5 CEC items loaded..
+[21-10-24 11:51:22.348] LOG  : General     , 1729504282348> 0> [CraftHelperContinued] Loaded Traits in 0.02 seconds.
+[21-10-24 11:51:22.348] LOG  : General     , 1729504282348> 0> [CraftHelperContinued] 289 traits loaded..
+[21-10-24 11:51:22.350] LOG  : General     , 1729504282350> 0> [CraftHelperContinued] Loaded Professions in 0.001 seconds.
+[21-10-24 11:51:22.350] LOG  : General     , 1729504282350> 0> [CraftHelperContinued] 22 professions loaded..
+[21-10-24 11:51:22.354] LOG  : General     , 1729504282354> 0> [CraftHelperContinued] Loaded Skills in 0.004 seconds.
+[21-10-24 11:51:22.354] LOG  : General     , 1729504282354> 0> [CraftHelperContinued] 38 skills loaded..
+[21-10-24 11:51:22.354] LOG  : General     , 1729504282354> 0> [CraftHelperContinued] Loading recipes....
+[21-10-24 11:51:22.948] LOG  : General     , 1729504282948> 0> [CraftHelperContinued] Loaded All Recipes in 0.594 seconds.
+[21-10-24 11:51:22.949] LOG  : General     , 1729504282949> 0> [CraftHelperContinued] 4203 recipes loaded..
+[21-10-24 11:51:22.949] LOG  : General     , 1729504282949> 0> [CraftHelperContinued] Loading evolved recipes....
+[21-10-24 11:51:23.076] LOG  : General     , 1729504283076> 0> [CraftHelperContinued] Loaded All Evolved Recipes in 0.127 seconds.
+[21-10-24 11:51:23.076] LOG  : General     , 1729504283076> 0> [CraftHelperContinued] 104 evolved recipes loaded..
+[21-10-24 11:51:23.076] LOG  : General     , 1729504283076> 0> [CraftHelperContinued] 49 hidden evolved recipes skipped..
+[21-10-24 11:51:23.076] LOG  : General     , 1729504283076> 0> [CraftHelperContinued] Loading CraftingEnhancedCore recipes....
+[21-10-24 11:51:23.076] LOG  : General     , 1729504283076> 0> [CraftHelperContinued] Loaded CraftingEnhancedCore Recipes in 0 seconds.
+[21-10-24 11:51:23.076] LOG  : General     , 1729504283076> 0> [CraftHelperContinued] 5 CEC recipes loaded..
+[21-10-24 11:51:23.077] LOG  : General     , 1729504283077> 0> [CraftHelperContinued] Loaded Traits Recipes in 0.001 seconds.
+[21-10-24 11:51:23.077] LOG  : General     , 1729504283077> 0> [CraftHelperContinued] 95 trait recipes loaded..
+[21-10-24 11:51:23.077] LOG  : General     , 1729504283077> 0> [CraftHelperContinued] Loaded Profession free recipes and traits in 0 seconds.
+[21-10-24 11:51:23.077] LOG  : General     , 1729504283077> 0> [CraftHelperContinued] 54 profession free recipes loaded..
+[21-10-24 11:51:23.077] LOG  : General     , 1729504283077> 0> [CraftHelperContinued] 21 profession traits loaded..
+[21-10-24 11:51:23.083] LOG  : General     , 1729504283082> 0> [CraftHelperContinued] Loaded Skill Traits in 0.005 seconds.
+[21-10-24 11:51:23.083] LOG  : General     , 1729504283083> 0> [CraftHelperContinued] 289 skill traits loaded..
+[21-10-24 11:51:23.085] LOG  : General     , 1729504283085> 0> [CraftHelperContinued] Loaded Skill Professions in 0.002 seconds.
+[21-10-24 11:51:23.085] LOG  : General     , 1729504283085> 0> [CraftHelperContinued] 22 skill professions loaded..
+[21-10-24 11:51:23.085] LOG  : General     , 1729504283085> 0> [CraftHelperContinued] Loaded all in 1.071 seconds.
+[21-10-24 11:51:23.110] LOG  : General     , 1729504283110> 0> [CraftHelperContinued] Removed 302 hidden items.
+[21-10-24 11:51:23.643] LOG  : General     , 1729504283643> 0> [CraftHelperContinued] Removed 158 hidden recipes in CHC_window.
+[21-10-24 11:51:23.985] ERROR: General     , 1729504283985> 0> LuaManager.getFunctionObject> no such function "Install_PB_Can_Test".
+[21-10-24 11:51:23.986] ERROR: General     , 1729504283986> 0> LuaManager.getFunctionObject> no such function "Install_PB_Can_Test".
+[21-10-24 11:51:23.986] ERROR: General     , 1729504283986> 0> LuaManager.getFunctionObject> no such function "Test_Install_TriggerGroup".
+[21-10-24 11:51:23.986] ERROR: General     , 1729504283986> 0> LuaManager.getFunctionObject> no such function "Test_Install_TriggerGroup".
+[21-10-24 11:51:23.986] ERROR: General     , 1729504283986> 0> LuaManager.getFunctionObject> no such function "Test_Install_TriggerGroup".
+[21-10-24 11:51:23.987] ERROR: General     , 1729504283987> 0> LuaManager.getFunctionObject> no such function "Test_Install_TriggerGroup".
+[21-10-24 11:51:24.135] ERROR: General     , 1729504284135> 0> LuaManager.getFunctionObject> no such function "Remove_PB_Can_Test".
+[21-10-24 11:51:24.135] ERROR: General     , 1729504284135> 0> LuaManager.getFunctionObject> no such function "Remove_PB_Can_Test".
+[21-10-24 11:51:24.136] ERROR: General     , 1729504284136> 0> LuaManager.getFunctionObject> no such function "Test_Remove_TriggerGroup".
+[21-10-24 11:51:24.136] ERROR: General     , 1729504284136> 0> LuaManager.getFunctionObject> no such function "Test_Remove_TriggerGroup".
+[21-10-24 11:51:24.136] ERROR: General     , 1729504284136> 0> LuaManager.getFunctionObject> no such function "Test_Remove_TriggerGroup".
+[21-10-24 11:51:24.136] ERROR: General     , 1729504284136> 0> LuaManager.getFunctionObject> no such function "Test_Remove_TriggerGroup".
+[21-10-24 11:51:24.530] LOG  : General     , 1729504284530> 0> [CraftHelperContinued] Removed 158 hidden recipes in CHC_window.
+[21-10-24 11:51:24.537] LOG  : General     , 1729504284537> 0> [CraftHelperContinued] No recipes to update state.
+[21-10-24 11:51:24.539] LOG  : General     , 1729504284539> 0> [CraftHelperContinued] Initialised. Mod version: 1.9.
+[21-10-24 11:51:24.540] LOG  : Network     , 1729504284540> 0> [21-10-24 11:51:24.540] > ConnectionManager: [send-packet] "player-connect" connection: guid=1729504051590734 ip=195.179.227.216 steam-id=76561197983853879 access="admin" username="Shuffmayn" connection-type="UDPRakNet".
+[21-10-24 11:51:24.540] LOG  : General     , 1729504284540> 0> Waiting for player-connect response from server.
+[21-10-24 11:51:24.551] LOG  : Network     , 1729504284551> 0> Processing delayed packets....
+[21-10-24 11:51:24.727] LOG  : General     , 1729504284727> 0> LuaNet: Loading....
+[21-10-24 11:51:24.738] WARN : General     , 1729504284738> 0> GameClient.receivePlayerConnect> ReceivePlayerConnect: guid=1729504051590734 mtu=1492 connection-type=UDPRakNet.
+[21-10-24 11:51:24.744] LOG  : Network     , 1729504284744> 0> [21-10-24 11:51:24.744] > ZNet: UpdateRichPresenceConnectionInfo: status=In game, connect=+connect 195.179.227.216:29900.
+[21-10-24 11:51:25.443] LOG  : General     , 1729504285443> 0> FirstNAME:Shuffmayn.
+[21-10-24 11:51:25.819] DEBUG: Vehicle     , 1729504285819> 0> CarController.<init>                > Vehicle vid=255 type=Base.71chevyc10sb has been added at (13308,490234;4362,500000;0,282865) auth=vid:Base.71chevyc10sb(255) pid:(-1) auth=Server static=false active=false.
+[21-10-24 11:51:26.035] DEBUG: Vehicle     , 1729504286035> 0> CarController.<init>                > Vehicle vid=254 type=Base.ATAJeepClassic has been added at (13319,995117;4359,500000;0,273000) auth=vid:Base.ATAJeepClassic(254) pid:(-1) auth=Server static=false active=false.
+[21-10-24 11:51:33.541] LOG  : General     , 1729504293541> 2.792.557.656> Player has Lucky.
+[21-10-24 11:52:49.340] LOG  : General     , 1729504369340> 2.792.633.455> Nothing found that needs Verkabelung.
+[21-10-24 11:52:49.340] LOG  : General     , 1729504369340> 2.792.633.455> Thumpable.
+[21-10-24 11:52:49.340] LOG  : General     , 1729504369340> 2.792.633.455> Nothing found that needs Verkabelung.
+[21-10-24 11:52:49.340] LOG  : General     , 1729504369340> 2.792.633.455> Thumpable.
+[21-10-24 11:52:49.340] LOG  : General     , 1729504369340> 2.792.633.455> Nothing found that needs Verkabelung.
+[21-10-24 11:52:49.340] LOG  : General     , 1729504369340> 2.792.633.455> IsoObject.
+[21-10-24 11:52:49.340] LOG  : General     , 1729504369340> 2.792.633.455> Nothing found that needs Verkabelung.
+[21-10-24 11:52:49.341] LOG  : General     , 1729504369341> 2.792.633.455> Thumpable.
+[21-10-24 11:52:51.272] LOG  : General     , 1729504371271> 2.792.635.386> Warning: Moveable not valid.
+[21-10-24 11:52:51.272] LOG  : General     , 1729504371272> 2.792.635.386> Warning: Moveable not valid.
+[21-10-24 11:53:25.185] LOG  : General     , 1729504405185> 2.792.669.299> Nothing found that needs Verkabelung.
+[21-10-24 11:53:25.185] LOG  : General     , 1729504405185> 2.792.669.300> Thumpable.
+[21-10-24 11:53:25.185] LOG  : General     , 1729504405185> 2.792.669.300> Nothing found that needs Verkabelung.
+[21-10-24 11:53:25.185] LOG  : General     , 1729504405185> 2.792.669.300> Thumpable.
+[21-10-24 11:53:25.185] LOG  : General     , 1729504405185> 2.792.669.300> Nothing found that needs Verkabelung.
+[21-10-24 11:53:25.185] LOG  : General     , 1729504405185> 2.792.669.300> IsoObject.
+[21-10-24 11:53:25.185] LOG  : General     , 1729504405185> 2.792.669.300> Nothing found that needs Verkabelung.
+[21-10-24 11:53:25.185] LOG  : General     , 1729504405185> 2.792.669.300> Thumpable.
+[21-10-24 11:53:31.047] LOG  : General     , 1729504411047> 2.792.675.162> Nothing found that needs Verkabelung.
+[21-10-24 11:53:31.047] LOG  : General     , 1729504411047> 2.792.675.162> IsoObject.
+[21-10-24 11:53:31.047] LOG  : General     , 1729504411047> 2.792.675.162> Nothing found that needs Verkabelung.
+[21-10-24 11:53:31.047] LOG  : General     , 1729504411047> 2.792.675.163> IsoObject.
+[21-10-24 11:53:31.047] LOG  : General     , 1729504411047> 2.792.675.163> Nothing found that needs Verkabelung.
+[21-10-24 11:53:31.047] LOG  : General     , 1729504411047> 2.792.675.163> IsoObject.
+[21-10-24 11:53:31.047] LOG  : General     , 1729504411047> 2.792.675.163> Nothing found that needs Verkabelung.
+[21-10-24 11:53:31.048] LOG  : General     , 1729504411048> 2.792.675.163> IsoObject.
+[21-10-24 11:53:37.114] LOG  : General     , 1729504417114> 2.792.681.229> Nothing found that needs Verkabelung.
+[21-10-24 11:53:37.114] LOG  : General     , 1729504417114> 2.792.681.229> IsoObject.
+[21-10-24 11:53:37.115] LOG  : General     , 1729504417115> 2.792.681.229> Nothing found that needs Verkabelung.
+[21-10-24 11:53:37.115] LOG  : General     , 1729504417115> 2.792.681.229> IsoObject.
+[21-10-24 11:53:37.115] LOG  : General     , 1729504417115> 2.792.681.229> Nothing found that needs Verkabelung.
+[21-10-24 11:53:37.115] LOG  : General     , 1729504417115> 2.792.681.229> IsoObject.
+[21-10-24 11:53:37.115] LOG  : General     , 1729504417115> 2.792.681.229> Nothing found that needs Verkabelung.
+[21-10-24 11:53:37.115] LOG  : General     , 1729504417115> 2.792.681.229> IsoObject.
+[21-10-24 11:53:41.228] LOG  : General     , 1729504421227> 2.792.685.342> Trying to load Moddata: 	table 0x1738346572.
+[21-10-24 11:53:41.228] LOG  : General     , 1729504421228> 2.792.685.343> RemoteLinkTable loaded: 	nil.
+[21-10-24 11:53:41.228] LOG  : General     , 1729504421228> 2.792.685.343> No Remote Linktable could be found in the  ModData.
+[21-10-24 11:53:41.228] LOG  : General     , 1729504421228> 2.792.685.343> [forageSystem][generateLootTable] Begin generating loot tables.
+[21-10-24 11:53:41.229] LOG  : General     , 1729504421229> 2.792.685.344> [forageSystem][generateLootTable] Finished generating loot table structure.
+[21-10-24 11:53:41.229] LOG  : General     , 1729504421229> 2.792.685.344> [forageSystem][generateLootTable] Begin populating loot table.
+[21-10-24 11:53:41.690] LOG  : General     , 1729504421690> 2.792.685.805> [forageSystem][generateLootTable] Finished populating loot table.
+[21-10-24 11:53:41.690] LOG  : General     , 1729504421690> 2.792.685.806> [forageSystem][generateLootTable] Begin populating loot table categories.
+[21-10-24 11:53:41.710] LOG  : General     , 1729504421710> 2.792.685.825> [forageSystem][generateLootTable] Finished populating loot table categories.
+[21-10-24 11:53:41.710] LOG  : General     , 1729504421710> 2.792.685.825> [forageSystem][generateLootTable] Finished generating loot tables.
+[21-10-24 11:53:44.732] LOG  : General     , 1729504424732> 2.792.688.847> Nothing found that needs Verkabelung.
+[21-10-24 11:53:44.732] LOG  : General     , 1729504424732> 2.792.688.847> IsoObject.
+[21-10-24 11:53:44.733] LOG  : General     , 1729504424732> 2.792.688.847> Nothing found that needs Verkabelung.
+[21-10-24 11:53:44.733] LOG  : General     , 1729504424733> 2.792.688.847> IsoObject.
+[21-10-24 11:53:44.733] LOG  : General     , 1729504424733> 2.792.688.848> Nothing found that needs Verkabelung.
+[21-10-24 11:53:44.733] LOG  : General     , 1729504424733> 2.792.688.848> IsoObject.
+[21-10-24 11:53:44.733] LOG  : General     , 1729504424733> 2.792.688.848> Nothing found that needs Verkabelung.
+[21-10-24 11:53:44.733] LOG  : General     , 1729504424733> 2.792.688.848> IsoObject.
+[21-10-24 11:53:55.934] LOG  : General     , 1729504435934> 2.792.700.049> Nothing found that needs Verkabelung.
+[21-10-24 11:53:55.934] LOG  : General     , 1729504435934> 2.792.700.049> Thumpable.
+[21-10-24 11:53:55.934] LOG  : General     , 1729504435934> 2.792.700.049> Nothing found that needs Verkabelung.
+[21-10-24 11:53:55.934] LOG  : General     , 1729504435934> 2.792.700.049> Thumpable.
+[21-10-24 11:53:55.934] LOG  : General     , 1729504435934> 2.792.700.049> Nothing found that needs Verkabelung.
+[21-10-24 11:53:55.934] LOG  : General     , 1729504435934> 2.792.700.049> IsoObject.
+[21-10-24 11:53:55.934] LOG  : General     , 1729504435934> 2.792.700.049> Nothing found that needs Verkabelung.
+[21-10-24 11:53:55.934] LOG  : General     , 1729504435934> 2.792.700.049> Thumpable.
+[21-10-24 11:54:01.702] LOG  : General     , 1729504441702> 2.792.705.817> Nothing found that needs Verkabelung.
+[21-10-24 11:54:01.702] LOG  : General     , 1729504441702> 2.792.705.817> Thumpable.
+[21-10-24 11:54:01.702] LOG  : General     , 1729504441702> 2.792.705.817> Nothing found that needs Verkabelung.
+[21-10-24 11:54:01.702] LOG  : General     , 1729504441702> 2.792.705.817> Thumpable.
+[21-10-24 11:54:01.702] LOG  : General     , 1729504441702> 2.792.705.817> Nothing found that needs Verkabelung.
+[21-10-24 11:54:01.702] LOG  : General     , 1729504441702> 2.792.705.817> IsoObject.
+[21-10-24 11:54:01.702] LOG  : General     , 1729504441702> 2.792.705.818> Nothing found that needs Verkabelung.
+[21-10-24 11:54:01.702] LOG  : General     , 1729504441702> 2.792.705.818> Thumpable.
+[21-10-24 11:54:07.033] LOG  : General     , 1729504447032> 2.792.711.147> Nothing found that needs Verkabelung.
+[21-10-24 11:54:07.033] LOG  : General     , 1729504447033> 2.792.711.148> Thumpable.
+[21-10-24 11:54:07.033] LOG  : General     , 1729504447033> 2.792.711.148> Nothing found that needs Verkabelung.
+[21-10-24 11:54:07.033] LOG  : General     , 1729504447033> 2.792.711.148> Thumpable.
+[21-10-24 11:54:07.033] LOG  : General     , 1729504447033> 2.792.711.148> Nothing found that needs Verkabelung.
+[21-10-24 11:54:07.033] LOG  : General     , 1729504447033> 2.792.711.148> IsoObject.
+[21-10-24 11:54:07.034] LOG  : General     , 1729504447034> 2.792.711.149> Nothing found that needs Verkabelung.
+[21-10-24 11:54:07.034] LOG  : General     , 1729504447034> 2.792.711.149> Thumpable.
+[21-10-24 11:54:08.183] LOG  : General     , 1729504448183> 2.792.712.298> Nothing found that needs Verkabelung.
+[21-10-24 11:54:08.183] LOG  : General     , 1729504448183> 2.792.712.299> Thumpable.
+[21-10-24 11:54:08.183] LOG  : General     , 1729504448183> 2.792.712.299> Nothing found that needs Verkabelung.
+[21-10-24 11:54:08.183] LOG  : General     , 1729504448183> 2.792.712.299> Thumpable.
+[21-10-24 11:54:08.183] LOG  : General     , 1729504448183> 2.792.712.299> Nothing found that needs Verkabelung.
+[21-10-24 11:54:08.183] LOG  : General     , 1729504448183> 2.792.712.299> IsoObject.
+[21-10-24 11:54:08.183] LOG  : General     , 1729504448183> 2.792.712.299> Nothing found that needs Verkabelung.
+[21-10-24 11:54:08.184] LOG  : General     , 1729504448184> 2.792.712.299> Thumpable.
+[21-10-24 11:54:12.599] LOG  : General     , 1729504452599> 2.792.716.714> Nothing found that needs Verkabelung.
+[21-10-24 11:54:12.599] LOG  : General     , 1729504452599> 2.792.716.714> Thumpable.
+[21-10-24 11:54:12.599] LOG  : General     , 1729504452599> 2.792.716.714> Nothing found that needs Verkabelung.
+[21-10-24 11:54:12.599] LOG  : General     , 1729504452599> 2.792.716.714> Thumpable.
+[21-10-24 11:54:12.599] LOG  : General     , 1729504452599> 2.792.716.714> Nothing found that needs Verkabelung.
+[21-10-24 11:54:12.599] LOG  : General     , 1729504452599> 2.792.716.714> IsoObject.
+[21-10-24 11:54:12.599] LOG  : General     , 1729504452599> 2.792.716.714> Nothing found that needs Verkabelung.
+[21-10-24 11:54:12.599] LOG  : General     , 1729504452599> 2.792.716.715> Thumpable.
+[21-10-24 11:54:20.231] LOG  : General     , 1729504460231> 2.792.724.346> Nothing found that needs Verkabelung.
+[21-10-24 11:54:20.231] LOG  : General     , 1729504460231> 2.792.724.346> IsoObject.
+[21-10-24 11:54:20.231] LOG  : General     , 1729504460231> 2.792.724.347> Nothing found that needs Verkabelung.
+[21-10-24 11:54:20.231] LOG  : General     , 1729504460231> 2.792.724.347> IsoObject.
+[21-10-24 11:54:20.231] LOG  : General     , 1729504460231> 2.792.724.347> Nothing found that needs Verkabelung.
+[21-10-24 11:54:20.231] LOG  : General     , 1729504460231> 2.792.724.347> IsoObject.
+[21-10-24 11:54:20.231] LOG  : General     , 1729504460231> 2.792.724.347> Nothing found that needs Verkabelung.
+[21-10-24 11:54:20.231] LOG  : General     , 1729504460231> 2.792.724.347> IsoObject.
+[21-10-24 11:55:06.223] LOG  : General     , 1729504506223> 2.792.770.339> Player has Lucky.
+[21-10-24 11:56:11.277] LOG  : General     , 1729504571277> 2.792.835.393> Trying to load Moddata: 	table 0x1738346572.
+[21-10-24 11:56:11.277] LOG  : General     , 1729504571277> 2.792.835.393> RemoteLinkTable loaded: 	nil.
+[21-10-24 11:56:11.277] LOG  : General     , 1729504571277> 2.792.835.393> No Remote Linktable could be found in the  ModData.
+[21-10-24 11:56:11.289] LOG  : General     , 1729504571289> 2.792.835.405> Updated MoonPhase = Waning gibbous, float = 0.75, int = 5.
+[21-10-24 11:57:03.806] LOG  : General     , 1729504623806> 2.792.887.923> Player has Lucky.
+[21-10-24 11:57:23.806] LOG  : General     , 1729504643806> 2.792.907.923> Player has Lucky.
+[21-10-24 11:57:46.974] LOG  : General     , 1729504666974> 2.792.931.090> Nothing found that needs Verkabelung.
+[21-10-24 11:57:46.974] LOG  : General     , 1729504666974> 2.792.931.090> IsoObject.
+[21-10-24 11:57:46.974] LOG  : General     , 1729504666974> 2.792.931.091> Nothing found that needs Verkabelung.
+[21-10-24 11:57:46.974] LOG  : General     , 1729504666974> 2.792.931.091> IsoObject.
+[21-10-24 11:57:46.974] LOG  : General     , 1729504666974> 2.792.931.091> Nothing found that needs Verkabelung.
+[21-10-24 11:57:46.974] LOG  : General     , 1729504666974> 2.792.931.091> IsoObject.
+[21-10-24 11:57:53.073] LOG  : General     , 1729504673073> 2.792.937.190> Nothing found that needs Verkabelung.
+[21-10-24 11:57:53.073] LOG  : General     , 1729504673073> 2.792.937.190> IsoObject.
+[21-10-24 11:57:53.073] LOG  : General     , 1729504673073> 2.792.937.190> Nothing found that needs Verkabelung.
+[21-10-24 11:57:53.074] LOG  : General     , 1729504673074> 2.792.937.190> IsoObject.
+[21-10-24 11:57:53.074] LOG  : General     , 1729504673074> 2.792.937.190> Nothing found that needs Verkabelung.
+[21-10-24 11:57:53.074] LOG  : General     , 1729504673074> 2.792.937.190> IsoObject.
+[21-10-24 11:57:53.824] LOG  : General     , 1729504673824> 2.792.937.941> Player has Lucky.
+[21-10-24 11:57:59.424] LOG  : General     , 1729504679424> 2.792.943.541> Nothing found that needs Verkabelung.
+[21-10-24 11:57:59.424] LOG  : General     , 1729504679424> 2.792.943.541> IsoObject.
+[21-10-24 11:57:59.424] LOG  : General     , 1729504679424> 2.792.943.541> Nothing found that needs Verkabelung.
+[21-10-24 11:57:59.424] LOG  : General     , 1729504679424> 2.792.943.541> IsoObject.
+[21-10-24 11:57:59.424] LOG  : General     , 1729504679424> 2.792.943.541> Nothing found that needs Verkabelung.
+[21-10-24 11:57:59.424] LOG  : General     , 1729504679424> 2.792.943.541> IsoObject.
+[21-10-24 11:58:02.790] LOG  : General     , 1729504682790> 2.792.946.908> Nothing found that needs Verkabelung.
+[21-10-24 11:58:02.791] LOG  : General     , 1729504682791> 2.792.946.908> IsoObject.
+[21-10-24 11:58:02.791] LOG  : General     , 1729504682791> 2.792.946.908> Nothing found that needs Verkabelung.
+[21-10-24 11:58:02.791] LOG  : General     , 1729504682791> 2.792.946.908> IsoObject.
+[21-10-24 11:58:02.791] LOG  : General     , 1729504682791> 2.792.946.908> Nothing found that needs Verkabelung.
+[21-10-24 11:58:02.791] LOG  : General     , 1729504682791> 2.792.946.908> IsoObject.
+[21-10-24 11:58:09.611] LOG  : General     , 1729504689611> 2.792.953.729> Nothing found that needs Verkabelung.
+[21-10-24 11:58:09.611] LOG  : General     , 1729504689611> 2.792.953.729> IsoObject.
+[21-10-24 11:58:09.611] LOG  : General     , 1729504689611> 2.792.953.729> Nothing found that needs Verkabelung.
+[21-10-24 11:58:09.612] LOG  : General     , 1729504689612> 2.792.953.729> IsoObject.
+[21-10-24 11:58:09.612] LOG  : General     , 1729504689612> 2.792.953.729> Nothing found that needs Verkabelung.
+[21-10-24 11:58:09.612] LOG  : General     , 1729504689612> 2.792.953.729> IsoObject.
+[21-10-24 11:58:09.612] LOG  : General     , 1729504689612> 2.792.953.729> Nothing found that needs Verkabelung.
+[21-10-24 11:58:09.612] LOG  : General     , 1729504689612> 2.792.953.729> IsoObject.
+[21-10-24 11:58:12.957] LOG  : General     , 1729504692957> 2.792.957.074> Nothing found that needs Verkabelung.
+[21-10-24 11:58:12.957] LOG  : General     , 1729504692957> 2.792.957.074> IsoObject.
+[21-10-24 11:58:12.958] LOG  : General     , 1729504692958> 2.792.957.074> Nothing found that needs Verkabelung.
+[21-10-24 11:58:12.958] LOG  : General     , 1729504692958> 2.792.957.074> IsoObject.
+[21-10-24 11:58:12.958] LOG  : General     , 1729504692958> 2.792.957.075> Nothing found that needs Verkabelung.
+[21-10-24 11:58:12.958] LOG  : General     , 1729504692958> 2.792.957.075> IsoObject.
+[21-10-24 11:58:15.411] LOG  : General     , 1729504695411> 2.792.959.528> Nothing found that needs Verkabelung.
+[21-10-24 11:58:15.411] LOG  : General     , 1729504695411> 2.792.959.528> IsoObject.
+[21-10-24 11:58:15.412] LOG  : General     , 1729504695412> 2.792.959.528> Nothing found that needs Verkabelung.
+[21-10-24 11:58:15.412] LOG  : General     , 1729504695412> 2.792.959.528> IsoObject.
+[21-10-24 11:58:15.412] LOG  : General     , 1729504695412> 2.792.959.528> Nothing found that needs Verkabelung.
+[21-10-24 11:58:15.412] LOG  : General     , 1729504695412> 2.792.959.528> IsoObject.
+[21-10-24 11:58:15.412] LOG  : General     , 1729504695412> 2.792.959.528> Nothing found that needs Verkabelung.
+[21-10-24 11:58:15.412] LOG  : General     , 1729504695412> 2.792.959.528> IsoObject.
+[21-10-24 11:58:42.057] LOG  : General     , 1729504722057> 2.792.986.174> Trying to load Moddata: 	table 0x1738346572.
+[21-10-24 11:58:42.057] LOG  : General     , 1729504722057> 2.792.986.174> RemoteLinkTable loaded: 	nil.
+[21-10-24 11:58:42.057] LOG  : General     , 1729504722057> 2.792.986.174> No Remote Linktable could be found in the  ModData.
+[21-10-24 11:58:54.556] LOG  : General     , 1729504734556> 2.792.998.674> Player has Lucky.
+[21-10-24 11:59:17.056] LOG  : General     , 1729504757056> 2.793.021.174> Player has Lucky.
+[21-10-24 11:59:19.590] LOG  : General     , 1729504759590> 2.793.023.708> Player has Lucky.
+[21-10-24 11:59:22.073] LOG  : General     , 1729504762073> 2.793.026.191> Player has Lucky.
+[21-10-24 11:59:54.590] LOG  : General     , 1729504794590> 2.793.058.708> Player has Lucky.
+[21-10-24 12:01:12.140] LOG  : General     , 1729504872140> 2.793.136.259> Trying to load Moddata: 	table 0x1738346572.
+[21-10-24 12:01:12.140] LOG  : General     , 1729504872140> 2.793.136.259> RemoteLinkTable loaded: 	nil.
+[21-10-24 12:01:12.141] LOG  : General     , 1729504872141> 2.793.136.259> No Remote Linktable could be found in the  ModData.
+[21-10-24 12:01:14.639] LOG  : General     , 1729504874639> 2.793.138.759> Player has Lucky.
+[21-10-24 12:01:35.005] LOG  : General     , 1729504895005> 2.793.159.123> received player syncWeight  id=0.
+[21-10-24 12:01:40.054] LOG  : General     , 1729504900054> 2.793.164.174> received player syncWeight  id=0.
+[21-10-24 12:01:45.104] LOG  : General     , 1729504905104> 2.793.169.224> received player syncWeight  id=0.
+[21-10-24 12:01:50.154] LOG  : General     , 1729504910154> 2.793.174.274> received player syncWeight  id=0.
+[21-10-24 12:01:55.204] LOG  : General     , 1729504915204> 2.793.179.324> received player syncWeight  id=0.
+[21-10-24 12:02:00.025] LOG  : General     , 1729504920025> 2.793.184.144> Player has Lucky.
+[21-10-24 12:02:00.271] LOG  : General     , 1729504920271> 2.793.184.390> received player syncWeight  id=0.
+[21-10-24 12:02:05.305] LOG  : General     , 1729504925305> 2.793.189.424> received player syncWeight  id=0.
+[21-10-24 12:03:30.640] WARN : General     , 1729505010640> 2.793.274.760> AnimationPlayer.play> Anim Clip not found: InvalidOnPurpose.
+[21-10-24 12:03:30.723] LOG  : General     , 1729505010723> 2.793.274.844> Player has Lucky.
+[21-10-24 12:03:43.258] LOG  : General     , 1729505023258> 2.793.287.378> Trying to load Moddata: 	table 0x1738346572.
+[21-10-24 12:03:43.258] LOG  : General     , 1729505023258> 2.793.287.378> RemoteLinkTable loaded: 	nil.
+[21-10-24 12:03:43.258] LOG  : General     , 1729505023258> 2.793.287.379> No Remote Linktable could be found in the  ModData.
+[21-10-24 12:04:45.990] LOG  : General     , 1729505085990> 2.793.350.111> Player has Lucky.
+[21-10-24 12:05:03.049] LOG  : General     , 1729505103049> 2.793.367.170> Nothing found that needs Verkabelung.
+[21-10-24 12:05:03.049] LOG  : General     , 1729505103049> 2.793.367.170> IsoObject.
+[21-10-24 12:05:03.049] LOG  : General     , 1729505103049> 2.793.367.170> Nothing found that needs Verkabelung.
+[21-10-24 12:05:03.049] LOG  : General     , 1729505103049> 2.793.367.170> IsoObject.
+[21-10-24 12:05:51.497] LOG  : General     , 1729505151497> 2.793.415.619> Nothing found that needs Verkabelung.
+[21-10-24 12:05:51.497] LOG  : General     , 1729505151497> 2.793.415.619> IsoObject.
+[21-10-24 12:05:51.497] LOG  : General     , 1729505151497> 2.793.415.619> Nothing found that needs Verkabelung.
+[21-10-24 12:05:51.497] LOG  : General     , 1729505151497> 2.793.415.619> IsoObject.
+[21-10-24 12:06:01.622] DEBUG: Vehicle     , 1729505161622> 2.793.425.744> CarController.<init>                > Vehicle vid=253 type=Base.ATAJeepArcher has been added at (13311,000977;4353,899902;0,273000) auth=vid:Base.ATAJeepArcher(253) pid:(-1) auth=Server static=false active=false.
+[21-10-24 12:06:15.095] LOG  : General     , 1729505175095> 2.793.439.217> Trying to load Moddata: 	table 0x1738346572.
+[21-10-24 12:06:15.096] LOG  : General     , 1729505175096> 2.793.439.217> RemoteLinkTable loaded: 	nil.
+[21-10-24 12:06:15.096] LOG  : General     , 1729505175096> 2.793.439.217> No Remote Linktable could be found in the  ModData.
+[21-10-24 12:06:29.024] LOG  : General     , 1729505189024> 2.793.453.146> Player has Lucky.
+[21-10-24 12:06:36.508] LOG  : General     , 1729505196508> 2.793.460.630> Player has Lucky.
+[21-10-24 12:06:37.817] LOG  : General     , 1729505197817> 2.793.461.940> Nothing found that needs Verkabelung.
+[21-10-24 12:06:37.817] LOG  : General     , 1729505197817> 2.793.461.940> IsoObject.
+[21-10-24 12:06:37.818] LOG  : General     , 1729505197818> 2.793.461.940> Nothing found that needs Verkabelung.
+[21-10-24 12:06:37.818] LOG  : General     , 1729505197818> 2.793.461.940> IsoObject.
+[21-10-24 12:07:02.193] LOG  : General     , 1729505222193> 2.793.486.316> Nothing found that needs Verkabelung.
+[21-10-24 12:07:02.193] LOG  : General     , 1729505222193> 2.793.486.316> IsoObject.
+[21-10-24 12:07:02.193] LOG  : General     , 1729505222193> 2.793.486.316> Nothing found that needs Verkabelung.
+[21-10-24 12:07:02.194] LOG  : General     , 1729505222194> 2.793.486.316> IsoObject.
+[21-10-24 12:07:10.821] LOG  : General     , 1729505230821> 2.793.494.944> EXITDEBUG: ToggleEscapeMenu 1.
+[21-10-24 12:07:10.822] LOG  : General     , 1729505230822> 2.793.494.944> EXITDEBUG: ToggleEscapeMenu 3.
+[21-10-24 12:07:10.822] LOG  : General     , 1729505230822> 2.793.494.944> EXITDEBUG: ToggleEscapeMenu 4.
+[21-10-24 12:07:10.822] LOG  : General     , 1729505230822> 2.793.494.944> EXITDEBUG: ToggleEscapeMenu 5.
+[21-10-24 12:07:10.822] LOG  : General     , 1729505230822> 2.793.494.944> EXITDEBUG: setGameSpeed 1.
+[21-10-24 12:07:10.822] LOG  : General     , 1729505230822> 2.793.494.944> EXITDEBUG: setGameSpeed 3.
+[21-10-24 12:07:10.822] LOG  : General     , 1729505230822> 2.793.494.945> EXITDEBUG: setShowPausedMessage 1.
+[21-10-24 12:07:10.822] LOG  : General     , 1729505230822> 2.793.494.945> EXITDEBUG: setShowPausedMessage 2.
+[21-10-24 12:07:11.805] LOG  : General     , 1729505231805> 2.793.495.927> EXITDEBUG: ToggleEscapeMenu 1.
+[21-10-24 12:07:11.805] LOG  : General     , 1729505231805> 2.793.495.927> EXITDEBUG: ToggleEscapeMenu 3.
+[21-10-24 12:07:11.805] LOG  : General     , 1729505231805> 2.793.495.927> EXITDEBUG: ToggleEscapeMenu 4.
+[21-10-24 12:07:11.806] LOG  : General     , 1729505231806> 2.793.495.928> EXITDEBUG: setGameSpeed 1.
+[21-10-24 12:07:11.806] LOG  : General     , 1729505231806> 2.793.495.928> EXITDEBUG: setGameSpeed 3.
+[21-10-24 12:07:11.806] LOG  : General     , 1729505231806> 2.793.495.928> EXITDEBUG: setShowPausedMessage 1.
+[21-10-24 12:07:11.806] LOG  : General     , 1729505231806> 2.793.495.928> EXITDEBUG: setShowPausedMessage 2.
+[21-10-24 12:07:19.040] LOG  : General     , 1729505239040> 2.793.503.163> Player has Lucky.
+[21-10-24 12:07:19.458] WARN : General     , 1729505239458> 2.793.503.580> GameSounds.getOrCreateSound> no GameSound called "VehicleSkid", adding a new one.
+[21-10-24 12:07:19.458] WARN : General     , 1729505239458> 2.793.503.580> GameSounds.getOrCreateSound> couldn't find an FMOD event or .ogg or .wav file for sound "VehicleSkid".
+[21-10-24 12:07:44.441] LOG  : General     , 1729505264441> 2.793.528.564> Player has Lucky.
+[21-10-24 12:08:06.541] LOG  : General     , 1729505286541> 2.793.550.665> Nothing found that needs Verkabelung.
+[21-10-24 12:08:06.542] LOG  : General     , 1729505286542> 2.793.550.665> IsoObject.
+[21-10-24 12:08:06.542] LOG  : General     , 1729505286542> 2.793.550.665> Nothing found that needs Verkabelung.
+[21-10-24 12:08:06.542] LOG  : General     , 1729505286542> 2.793.550.665> IsoObject.
+[21-10-24 12:08:45.907] LOG  : General     , 1729505325907> 2.793.590.031> Trying to load Moddata: 	table 0x1738346572.
+[21-10-24 12:08:45.907] LOG  : General     , 1729505325907> 2.793.590.031> RemoteLinkTable loaded: 	nil.
+[21-10-24 12:08:45.907] LOG  : General     , 1729505325907> 2.793.590.031> No Remote Linktable could be found in the  ModData.
+[21-10-24 12:10:19.215] LOG  : General     , 1729505419215> 2.793.683.340> Nothing found that needs Verkabelung.
+[21-10-24 12:10:19.215] LOG  : General     , 1729505419215> 2.793.683.340> IsoObject.
+[21-10-24 12:10:19.215] LOG  : General     , 1729505419215> 2.793.683.340> Nothing found that needs Verkabelung.
+[21-10-24 12:10:19.215] LOG  : General     , 1729505419215> 2.793.683.340> IsoObject.
+[21-10-24 12:10:21.390] LOG  : General     , 1729505421390> 2.793.685.515> Player has Lucky.
+[21-10-24 12:10:27.788] LOG  : General     , 1729505427788> 2.793.691.913> EXITDEBUG: ToggleEscapeMenu 1.
+[21-10-24 12:10:27.788] LOG  : General     , 1729505427788> 2.793.691.913> EXITDEBUG: ToggleEscapeMenu 2 (getCell.getDrag(table 0x94225868)).
+[21-10-24 12:10:50.537] LOG  : General     , 1729505450537> 2.793.714.663> EXITDEBUG: ToggleEscapeMenu 1.
+[21-10-24 12:10:50.537] LOG  : General     , 1729505450537> 2.793.714.663> EXITDEBUG: ToggleEscapeMenu 2 (getCell.getDrag(table 0x15537983)).
+[21-10-24 12:11:04.254] LOG  : General     , 1729505464254> 2.793.728.380> EXITDEBUG: ToggleEscapeMenu 1.
+[21-10-24 12:11:04.255] LOG  : General     , 1729505464255> 2.793.728.380> EXITDEBUG: ToggleEscapeMenu 2 (getCell.getDrag(table 0x381055709)).
+[21-10-24 12:11:04.684] LOG  : General     , 1729505464684> 2.793.728.810> Nothing found that needs Verkabelung.
+[21-10-24 12:11:04.685] LOG  : General     , 1729505464685> 2.793.728.810> IsoObject.
+[21-10-24 12:11:04.685] LOG  : General     , 1729505464685> 2.793.728.811> Nothing found that needs Verkabelung.
+[21-10-24 12:11:04.685] LOG  : General     , 1729505464685> 2.793.728.811> IsoObject.
+[21-10-24 12:11:16.390] LOG  : General     , 1729505476390> 2.793.740.516> Trying to load Moddata: 	table 0x1738346572.
+[21-10-24 12:11:16.390] LOG  : General     , 1729505476390> 2.793.740.516> RemoteLinkTable loaded: 	nil.
+[21-10-24 12:11:16.390] LOG  : General     , 1729505476390> 2.793.740.516> No Remote Linktable could be found in the  ModData.
+[21-10-24 12:11:16.391] LOG  : General     , 1729505476391> 2.793.740.517> Player has Lucky.
+[21-10-24 12:11:48.907] LOG  : General     , 1729505508907> 2.793.773.033> Player has Lucky.
+[21-10-24 12:12:52.021] LOG  : General     , 1729505572021> 2.793.836.148> EXITDEBUG: ToggleEscapeMenu 1.
+[21-10-24 12:12:52.022] LOG  : General     , 1729505572022> 2.793.836.148> EXITDEBUG: ToggleEscapeMenu 2 (getCell.getDrag(table 0x2066625850)).
+[21-10-24 12:13:47.492] LOG  : General     , 1729505627492> 2.793.891.620> Trying to load Moddata: 	table 0x1738346572.
+[21-10-24 12:13:47.492] LOG  : General     , 1729505627492> 2.793.891.620> RemoteLinkTable loaded: 	nil.
+[21-10-24 12:13:47.492] LOG  : General     , 1729505627492> 2.793.891.620> No Remote Linktable could be found in the  ModData.
+[21-10-24 12:14:01.602] LOG  : General     , 1729505641602> 2.793.905.730> Nothing found that needs Verkabelung.
+[21-10-24 12:14:01.602] LOG  : General     , 1729505641602> 2.793.905.730> Grass.
+[21-10-24 12:14:01.602] LOG  : General     , 1729505641602> 2.793.905.730> Nothing found that needs Verkabelung.
+[21-10-24 12:14:01.602] LOG  : General     , 1729505641602> 2.793.905.730> IsoObject.
+[21-10-24 12:14:01.602] LOG  : General     , 1729505641602> 2.793.905.730> Nothing found that needs Verkabelung.
+[21-10-24 12:14:01.602] LOG  : General     , 1729505641602> 2.793.905.731> Grass.
+[21-10-24 12:14:11.243] LOG  : General     , 1729505651243> 2.793.915.372> Nothing found that needs Verkabelung.
+[21-10-24 12:14:11.244] LOG  : General     , 1729505651243> 2.793.915.372> Grass.
+[21-10-24 12:14:11.244] LOG  : General     , 1729505651244> 2.793.915.372> Nothing found that needs Verkabelung.
+[21-10-24 12:14:11.244] LOG  : General     , 1729505651244> 2.793.915.372> IsoObject.
+[21-10-24 12:14:11.244] LOG  : General     , 1729505651244> 2.793.915.372> Nothing found that needs Verkabelung.
+[21-10-24 12:14:11.244] LOG  : General     , 1729505651244> 2.793.915.372> Grass.
+[21-10-24 12:14:20.285] LOG  : General     , 1729505660285> 2.793.924.413> Nothing found that needs Verkabelung.
+[21-10-24 12:14:20.285] LOG  : General     , 1729505660285> 2.793.924.413> Grass.
+[21-10-24 12:14:20.285] LOG  : General     , 1729505660285> 2.793.924.413> Nothing found that needs Verkabelung.
+[21-10-24 12:14:20.285] LOG  : General     , 1729505660285> 2.793.924.413> IsoObject.
+[21-10-24 12:14:20.285] LOG  : General     , 1729505660285> 2.793.924.413> Nothing found that needs Verkabelung.
+[21-10-24 12:14:20.285] LOG  : General     , 1729505660285> 2.793.924.413> Grass.
+[21-10-24 12:14:25.497] LOG  : General     , 1729505665497> 2.793.929.625> Nothing found that needs Verkabelung.
+[21-10-24 12:14:25.497] LOG  : General     , 1729505665497> 2.793.929.626> Grass.
+[21-10-24 12:14:25.497] LOG  : General     , 1729505665497> 2.793.929.626> Nothing found that needs Verkabelung.
+[21-10-24 12:14:25.497] LOG  : General     , 1729505665497> 2.793.929.626> IsoObject.
+[21-10-24 12:14:25.497] LOG  : General     , 1729505665497> 2.793.929.626> Nothing found that needs Verkabelung.
+[21-10-24 12:14:25.497] LOG  : General     , 1729505665497> 2.793.929.626> IsoObject.
+[21-10-24 12:14:25.497] LOG  : General     , 1729505665497> 2.793.929.626> Nothing found that needs Verkabelung.
+[21-10-24 12:14:25.497] LOG  : General     , 1729505665497> 2.793.929.626> Grass.
+[21-10-24 12:14:29.168] LOG  : General     , 1729505669168> 2.793.933.296> Nothing found that needs Verkabelung.
+[21-10-24 12:14:29.168] LOG  : General     , 1729505669168> 2.793.933.297> White Beard-tongue.
+[21-10-24 12:14:29.168] LOG  : General     , 1729505669168> 2.793.933.297> Nothing found that needs Verkabelung.
+[21-10-24 12:14:29.168] LOG  : General     , 1729505669168> 2.793.933.297> IsoObject.
+[21-10-24 12:14:29.168] LOG  : General     , 1729505669168> 2.793.933.297> Nothing found that needs Verkabelung.
+[21-10-24 12:14:29.168] LOG  : General     , 1729505669168> 2.793.933.297> White Beard-tongue.
+[21-10-24 12:14:38.323] LOG  : General     , 1729505678323> 2.793.942.451> Nothing found that needs Verkabelung.
+[21-10-24 12:14:38.324] LOG  : General     , 1729505678324> 2.793.942.452> IsoObject.
+[21-10-24 12:14:38.324] LOG  : General     , 1729505678324> 2.793.942.452> Nothing found that needs Verkabelung.
+[21-10-24 12:14:38.324] LOG  : General     , 1729505678324> 2.793.942.452> IsoObject.
+[21-10-24 12:16:17.557] LOG  : General     , 1729505777557> 2.794.041.686> Player has Lucky.
+[21-10-24 12:16:17.557] LOG  : General     , 1729505777557> 2.794.041.687> Trying to load Moddata: 	table 0x1738346572.
+[21-10-24 12:16:17.557] LOG  : General     , 1729505777557> 2.794.041.687> RemoteLinkTable loaded: 	nil.
+[21-10-24 12:16:17.557] LOG  : General     , 1729505777557> 2.794.041.687> No Remote Linktable could be found in the  ModData.
+[21-10-24 12:16:47.574] LOG  : General     , 1729505807574> 2.794.071.704> Player has Lucky.
+[21-10-24 12:17:09.973] LOG  : General     , 1729505829973> 2.794.094.104> Nothing found that needs Verkabelung.
+[21-10-24 12:17:09.973] LOG  : General     , 1729505829973> 2.794.094.104> IsoObject.
+[21-10-24 12:17:09.973] LOG  : General     , 1729505829973> 2.794.094.104> Nothing found that needs Verkabelung.
+[21-10-24 12:17:09.973] LOG  : General     , 1729505829973> 2.794.094.104> IsoObject.
+[21-10-24 12:17:13.218] LOG  : General     , 1729505833218> 2.794.097.348> Nothing found that needs Verkabelung.
+[21-10-24 12:17:13.218] LOG  : General     , 1729505833218> 2.794.097.348> Grass.
+[21-10-24 12:17:13.218] LOG  : General     , 1729505833218> 2.794.097.348> Nothing found that needs Verkabelung.
+[21-10-24 12:17:13.218] LOG  : General     , 1729505833218> 2.794.097.348> IsoObject.
+[21-10-24 12:17:13.218] LOG  : General     , 1729505833218> 2.794.097.349> Nothing found that needs Verkabelung.
+[21-10-24 12:17:13.218] LOG  : General     , 1729505833218> 2.794.097.349> Grass.
+[21-10-24 12:17:18.284] LOG  : General     , 1729505838284> 2.794.102.415> Nothing found that needs Verkabelung.
+[21-10-24 12:17:18.284] LOG  : General     , 1729505838284> 2.794.102.416> IsoObject.
+[21-10-24 12:17:18.284] LOG  : General     , 1729505838284> 2.794.102.416> Nothing found that needs Verkabelung.
+[21-10-24 12:17:18.284] LOG  : General     , 1729505838284> 2.794.102.416> IsoObject.
+[21-10-24 12:17:18.285] LOG  : General     , 1729505838285> 2.794.102.416> Nothing found that needs Verkabelung.
+[21-10-24 12:17:18.285] LOG  : General     , 1729505838285> 2.794.102.416> Grass.
+[21-10-24 12:17:22.304] LOG  : General     , 1729505842304> 2.794.106.435> Nothing found that needs Verkabelung.
+[21-10-24 12:17:22.305] LOG  : General     , 1729505842304> 2.794.106.435> Grass.
+[21-10-24 12:17:22.305] LOG  : General     , 1729505842305> 2.794.106.435> Nothing found that needs Verkabelung.
+[21-10-24 12:17:22.305] LOG  : General     , 1729505842305> 2.794.106.436> IsoObject.
+[21-10-24 12:17:22.305] LOG  : General     , 1729505842305> 2.794.106.436> Nothing found that needs Verkabelung.
+[21-10-24 12:17:22.305] LOG  : General     , 1729505842305> 2.794.106.436> Grass.
+[21-10-24 12:17:29.734] LOG  : General     , 1729505849734> 2.794.113.865> Nothing found that needs Verkabelung.
+[21-10-24 12:17:29.734] LOG  : General     , 1729505849734> 2.794.113.865> IsoObject.
+[21-10-24 12:17:29.734] LOG  : General     , 1729505849734> 2.794.113.865> Nothing found that needs Verkabelung.
+[21-10-24 12:17:29.734] LOG  : General     , 1729505849734> 2.794.113.866> IsoObject.
+[21-10-24 12:17:29.734] LOG  : General     , 1729505849734> 2.794.113.866> Nothing found that needs Verkabelung.
+[21-10-24 12:17:29.734] LOG  : General     , 1729505849734> 2.794.113.866> Grass.
+[21-10-24 12:18:48.340] LOG  : General     , 1729505928340> 2.794.192.472> Trying to load Moddata: 	table 0x1738346572.
+[21-10-24 12:18:48.341] LOG  : General     , 1729505928341> 2.794.192.472> RemoteLinkTable loaded: 	nil.
+[21-10-24 12:18:48.341] LOG  : General     , 1729505928341> 2.794.192.473> No Remote Linktable could be found in the  ModData.
+[21-10-24 12:19:13.287] LOG  : General     , 1729505953287> 2.794.217.420> EXITDEBUG: ToggleEscapeMenu 1.
+[21-10-24 12:19:13.287] LOG  : General     , 1729505953287> 2.794.217.420> EXITDEBUG: ToggleEscapeMenu 2 (getCell.getDrag(table 0x1571783752)).
+[21-10-24 12:19:13.623] LOG  : General     , 1729505953623> 2.794.217.756> Player has Lucky.
+[21-10-24 12:19:14.263] LOG  : General     , 1729505954263> 2.794.218.396> Nothing found that needs Verkabelung.
+[21-10-24 12:19:14.264] LOG  : General     , 1729505954264> 2.794.218.396> Fern.
+[21-10-24 12:19:14.264] LOG  : General     , 1729505954264> 2.794.218.396> Nothing found that needs Verkabelung.
+[21-10-24 12:19:14.264] LOG  : General     , 1729505954264> 2.794.218.396> IsoObject.
+[21-10-24 12:19:14.264] LOG  : General     , 1729505954264> 2.794.218.396> Nothing found that needs Verkabelung.
+[21-10-24 12:19:14.264] LOG  : General     , 1729505954264> 2.794.218.397> Fern.
+[21-10-24 12:19:14.264] LOG  : General     , 1729505954264> 2.794.218.397> Nothing found that needs Verkabelung.
+[21-10-24 12:19:14.264] LOG  : General     , 1729505954264> 2.794.218.397> IsoObject.
+[21-10-24 12:19:17.585] LOG  : General     , 1729505957585> 2.794.221.717> Nothing found that needs Verkabelung.
+[21-10-24 12:19:17.585] LOG  : General     , 1729505957585> 2.794.221.717> IsoObject.
+[21-10-24 12:19:17.585] LOG  : General     , 1729505957585> 2.794.221.717> Nothing found that needs Verkabelung.
+[21-10-24 12:19:17.585] LOG  : General     , 1729505957585> 2.794.221.717> IsoObject.
+[21-10-24 12:19:17.585] LOG  : General     , 1729505957585> 2.794.221.717> Nothing found that needs Verkabelung.
+[21-10-24 12:19:17.585] LOG  : General     , 1729505957585> 2.794.221.717> Fern.
+[21-10-24 12:19:21.207] LOG  : General     , 1729505961207> 2.794.225.339> Nothing found that needs Verkabelung.
+[21-10-24 12:19:21.208] LOG  : General     , 1729505961208> 2.794.225.340> IsoObject.
+[21-10-24 12:19:21.208] LOG  : General     , 1729505961208> 2.794.225.340> Nothing found that needs Verkabelung.
+[21-10-24 12:19:21.208] LOG  : General     , 1729505961208> 2.794.225.340> IsoObject.
+[21-10-24 12:19:27.022] LOG  : General     , 1729505967022> 2.794.231.155> Nothing found that needs Verkabelung.
+[21-10-24 12:19:27.022] LOG  : General     , 1729505967022> 2.794.231.155> IsoObject.
+[21-10-24 12:19:27.022] LOG  : General     , 1729505967022> 2.794.231.155> Nothing found that needs Verkabelung.
+[21-10-24 12:19:27.023] LOG  : General     , 1729505967023> 2.794.231.155> IsoObject.
+[21-10-24 12:19:31.722] LOG  : General     , 1729505971722> 2.794.235.855> Nothing found that needs Verkabelung.
+[21-10-24 12:19:31.723] LOG  : General     , 1729505971723> 2.794.235.856> IsoObject.
+[21-10-24 12:19:31.723] LOG  : General     , 1729505971723> 2.794.235.856> Nothing found that needs Verkabelung.
+[21-10-24 12:19:31.723] LOG  : General     , 1729505971723> 2.794.235.856> IsoObject.
+[21-10-24 12:19:35.640] LOG  : General     , 1729505975640> 2.794.239.772> Nothing found that needs Verkabelung.
+[21-10-24 12:19:35.640] LOG  : General     , 1729505975640> 2.794.239.773> IsoObject.
+[21-10-24 12:19:35.640] LOG  : General     , 1729505975640> 2.794.239.773> Nothing found that needs Verkabelung.
+[21-10-24 12:19:35.640] LOG  : General     , 1729505975640> 2.794.239.773> IsoObject.
+[21-10-24 12:19:38.691] LOG  : General     , 1729505978691> 2.794.242.823> Player has Lucky.
+[21-10-24 12:19:48.113] LOG  : General     , 1729505988113> 2.794.252.247> Nothing found that needs Verkabelung.
+[21-10-24 12:19:48.113] LOG  : General     , 1729505988113> 2.794.252.247> IsoObject.
+[21-10-24 12:19:48.113] LOG  : General     , 1729505988113> 2.794.252.247> Nothing found that needs Verkabelung.
+[21-10-24 12:19:48.114] LOG  : General     , 1729505988114> 2.794.252.247> IsoObject.
+[21-10-24 12:19:48.114] LOG  : General     , 1729505988114> 2.794.252.247> Nothing found that needs Verkabelung.
+[21-10-24 12:19:48.114] LOG  : General     , 1729505988114> 2.794.252.247> Grass.
+[21-10-24 12:19:48.114] LOG  : General     , 1729505988114> 2.794.252.247> Nothing found that needs Verkabelung.
+[21-10-24 12:19:48.114] LOG  : General     , 1729505988114> 2.794.252.247> IsoObject.
+[21-10-24 12:20:06.224] LOG  : General     , 1729506006224> 2.794.270.357> Player has Lucky.
+[21-10-24 12:20:21.237] LOG  : General     , 1729506021237> 2.794.285.371> EXITDEBUG: ToggleEscapeMenu 1.
+[21-10-24 12:20:21.237] LOG  : General     , 1729506021237> 2.794.285.371> EXITDEBUG: ToggleEscapeMenu 2 (getCell.getDrag(table 0x627715364)).
+[21-10-24 12:20:21.906] LOG  : General     , 1729506021906> 2.794.286.039> Nothing found that needs Verkabelung.
+[21-10-24 12:20:21.906] LOG  : General     , 1729506021906> 2.794.286.040> IsoObject.
+[21-10-24 12:20:21.906] LOG  : General     , 1729506021906> 2.794.286.040> Nothing found that needs Verkabelung.
+[21-10-24 12:20:21.907] LOG  : General     , 1729506021907> 2.794.286.040> IsoObject.
+[21-10-24 12:20:25.623] LOG  : General     , 1729506025623> 2.794.289.756> Nothing found that needs Verkabelung.
+[21-10-24 12:20:25.623] LOG  : General     , 1729506025623> 2.794.289.756> IsoObject.
+[21-10-24 12:20:25.623] LOG  : General     , 1729506025623> 2.794.289.756> Nothing found that needs Verkabelung.
+[21-10-24 12:20:25.623] LOG  : General     , 1729506025623> 2.794.289.756> IsoObject.
+[21-10-24 12:20:28.538] LOG  : General     , 1729506028538> 2.794.292.671> EXITDEBUG: ToggleEscapeMenu 1.
+[21-10-24 12:20:28.538] LOG  : General     , 1729506028538> 2.794.292.671> EXITDEBUG: ToggleEscapeMenu 3.
+[21-10-24 12:20:28.539] LOG  : General     , 1729506028538> 2.794.292.672> EXITDEBUG: ToggleEscapeMenu 4.
+[21-10-24 12:20:28.539] LOG  : General     , 1729506028539> 2.794.292.672> EXITDEBUG: ToggleEscapeMenu 5.
+[21-10-24 12:20:28.539] LOG  : General     , 1729506028539> 2.794.292.672> EXITDEBUG: setGameSpeed 1.
+[21-10-24 12:20:28.540] LOG  : General     , 1729506028540> 2.794.292.673> EXITDEBUG: setGameSpeed 3.
+[21-10-24 12:20:28.540] LOG  : General     , 1729506028540> 2.794.292.673> EXITDEBUG: setShowPausedMessage 1.
+[21-10-24 12:20:28.540] LOG  : General     , 1729506028540> 2.794.292.673> EXITDEBUG: setShowPausedMessage 2.
+[21-10-24 12:20:29.438] LOG  : General     , 1729506029438> 2.794.293.571> EXITDEBUG: ToggleEscapeMenu 1.
+[21-10-24 12:20:29.438] LOG  : General     , 1729506029438> 2.794.293.571> EXITDEBUG: ToggleEscapeMenu 3.
+[21-10-24 12:20:29.438] LOG  : General     , 1729506029438> 2.794.293.571> EXITDEBUG: ToggleEscapeMenu 4.
+[21-10-24 12:20:29.439] LOG  : General     , 1729506029439> 2.794.293.572> EXITDEBUG: setGameSpeed 1.
+[21-10-24 12:20:29.439] LOG  : General     , 1729506029439> 2.794.293.572> EXITDEBUG: setGameSpeed 3.
+[21-10-24 12:20:29.439] LOG  : General     , 1729506029439> 2.794.293.572> EXITDEBUG: setShowPausedMessage 1.
+[21-10-24 12:20:29.439] LOG  : General     , 1729506029439> 2.794.293.572> EXITDEBUG: setShowPausedMessage 2.
+[21-10-24 12:20:29.922] LOG  : General     , 1729506029922> 2.794.294.056> Nothing found that needs Verkabelung.
+[21-10-24 12:20:29.922] LOG  : General     , 1729506029922> 2.794.294.056> IsoObject.
+[21-10-24 12:20:29.922] LOG  : General     , 1729506029922> 2.794.294.056> Nothing found that needs Verkabelung.
+[21-10-24 12:20:29.922] LOG  : General     , 1729506029922> 2.794.294.056> IsoObject.
+[21-10-24 12:21:02.021] LOG  : General     , 1729506062021> 2.794.326.155> EXITDEBUG: ToggleEscapeMenu 1.
+[21-10-24 12:21:02.021] LOG  : General     , 1729506062021> 2.794.326.155> EXITDEBUG: ToggleEscapeMenu 2 (getCell.getDrag(table 0x4243793)).
+[21-10-24 12:21:02.726] LOG  : General     , 1729506062726> 2.794.326.860> Nothing found that needs Verkabelung.
+[21-10-24 12:21:02.726] LOG  : General     , 1729506062726> 2.794.326.860> IsoObject.
+[21-10-24 12:21:02.726] LOG  : General     , 1729506062726> 2.794.326.861> Nothing found that needs Verkabelung.
+[21-10-24 12:21:02.726] LOG  : General     , 1729506062726> 2.794.326.861> IsoObject.
+[21-10-24 12:21:06.257] LOG  : General     , 1729506066257> 2.794.330.390> Player has Lucky.
+[21-10-24 12:21:08.707] LOG  : General     , 1729506068707> 2.794.332.840> Player has Lucky.
+[21-10-24 12:21:16.639] LOG  : General     , 1729506076639> 2.794.340.773> Zombie: removing stale zombie 5000 id=3809.
+[21-10-24 12:21:18.725] LOG  : General     , 1729506078725> 2.794.342.859> Trying to load Moddata: 	table 0x1738346572.
+[21-10-24 12:21:18.725] LOG  : General     , 1729506078725> 2.794.342.859> RemoteLinkTable loaded: 	nil.
+[21-10-24 12:21:18.725] LOG  : General     , 1729506078725> 2.794.342.859> No Remote Linktable could be found in the  ModData.
+[21-10-24 12:21:41.240] LOG  : General     , 1729506101240> 2.794.365.374> Player has Lucky.
+[21-10-24 12:22:11.241] LOG  : General     , 1729506131241> 2.794.395.377> Nothing found that needs Verkabelung.
+[21-10-24 12:22:11.242] LOG  : General     , 1729506131242> 2.794.395.377> IsoObject.
+[21-10-24 12:22:11.242] LOG  : General     , 1729506131242> 2.794.395.377> Nothing found that needs Verkabelung.
+[21-10-24 12:22:11.242] LOG  : General     , 1729506131242> 2.794.395.377> IsoObject.
+[21-10-24 12:22:35.287] LOG  : General     , 1729506155287> 2.794.419.423> EXITDEBUG: ToggleEscapeMenu 1.
+[21-10-24 12:22:35.288] LOG  : General     , 1729506155288> 2.794.419.423> EXITDEBUG: ToggleEscapeMenu 2 (getCell.getDrag(table 0x469541913)).
+[21-10-24 12:23:01.607] LOG  : General     , 1729506181607> 2.794.445.742> Player has Lucky.
+[21-10-24 12:23:50.924] LOG  : General     , 1729506230924> 2.794.495.060> Trying to load Moddata: 	table 0x1738346572.
+[21-10-24 12:23:50.924] LOG  : General     , 1729506230924> 2.794.495.061> RemoteLinkTable loaded: 	nil.
+[21-10-24 12:23:50.925] LOG  : General     , 1729506230925> 2.794.495.061> No Remote Linktable could be found in the  ModData.
+[21-10-24 12:24:59.192] LOG  : General     , 1729506299192> 2.794.563.329> Nothing found that needs Verkabelung.
+[21-10-24 12:24:59.193] LOG  : General     , 1729506299193> 2.794.563.330> CombinationWasherDryer.
+[21-10-24 12:24:59.193] LOG  : General     , 1729506299193> 2.794.563.330> Nothing found that needs Verkabelung.
+[21-10-24 12:24:59.193] LOG  : General     , 1729506299193> 2.794.563.330> IsoObject.
+[21-10-24 12:24:59.193] LOG  : General     , 1729506299193> 2.794.563.330> Nothing found that needs Verkabelung.
+[21-10-24 12:24:59.193] LOG  : General     , 1729506299193> 2.794.563.330> IsoObject.
+[21-10-24 12:24:59.193] LOG  : General     , 1729506299193> 2.794.563.330> Nothing found that needs Verkabelung.
+[21-10-24 12:24:59.193] LOG  : General     , 1729506299193> 2.794.563.330> CombinationWasherDryer.
+[21-10-24 12:25:03.466] LOG  : General     , 1729506303466> 2.794.567.604> Nothing found that needs Verkabelung.
+[21-10-24 12:25:03.467] LOG  : General     , 1729506303467> 2.794.567.604> ClothingWasher.
+[21-10-24 12:25:03.467] LOG  : General     , 1729506303467> 2.794.567.604> Nothing found that needs Verkabelung.
+[21-10-24 12:25:03.467] LOG  : General     , 1729506303467> 2.794.567.604> IsoObject.
+[21-10-24 12:25:03.467] LOG  : General     , 1729506303467> 2.794.567.604> Nothing found that needs Verkabelung.
+[21-10-24 12:25:03.467] LOG  : General     , 1729506303467> 2.794.567.604> IsoObject.
+[21-10-24 12:25:03.467] LOG  : General     , 1729506303467> 2.794.567.604> Nothing found that needs Verkabelung.
+[21-10-24 12:25:03.467] LOG  : General     , 1729506303467> 2.794.567.604> IsoObject.
+[21-10-24 12:25:03.467] LOG  : General     , 1729506303467> 2.794.567.604> LIGHTSWITCH FOUDN!.
+[21-10-24 12:25:03.467] LOG  : General     , 1729506303467> 2.794.567.604> true.
+[21-10-24 12:25:03.467] LOG  : General     , 1729506303467> 2.794.567.604> nil.
+[21-10-24 12:25:03.467] LOG  : General     , 1729506303467> 2.794.567.605> zombie.iso.IsoGridSquare@1ab6c1db.
+[21-10-24 12:25:03.468] LOG  : General     , 1729506303468> 2.794.567.605> 10.
+[21-10-24 12:25:03.468] LOG  : General     , 1729506303468> 2.794.567.605> Nothing found that needs Verkabelung.
+[21-10-24 12:25:03.468] LOG  : General     , 1729506303468> 2.794.567.605> ClothingWasher.
+[21-10-24 12:25:36.489] LOG  : General     , 1729506336489> 2.794.600.627> Player has Lucky.
+[21-10-24 12:25:38.980] LOG  : General     , 1729506338980> 2.794.603.118> Nothing found that needs Verkabelung.
+[21-10-24 12:25:38.980] LOG  : General     , 1729506338980> 2.794.603.118> CombinationWasherDryer.
+[21-10-24 12:25:38.981] LOG  : General     , 1729506338981> 2.794.603.118> Nothing found that needs Verkabelung.
+[21-10-24 12:25:38.981] LOG  : General     , 1729506338981> 2.794.603.118> IsoObject.
+[21-10-24 12:25:38.981] LOG  : General     , 1729506338981> 2.794.603.119> Nothing found that needs Verkabelung.
+[21-10-24 12:25:38.981] LOG  : General     , 1729506338981> 2.794.603.119> IsoObject.
+[21-10-24 12:25:38.981] LOG  : General     , 1729506338981> 2.794.603.119> Nothing found that needs Verkabelung.
+[21-10-24 12:25:38.981] LOG  : General     , 1729506338981> 2.794.603.119> CombinationWasherDryer.
+[21-10-24 12:25:46.490] LOG  : General     , 1729506346490> 2.794.610.628> Player has Lucky.
+[21-10-24 12:25:48.582] LOG  : General     , 1729506348582> 2.794.612.720> Nothing found that needs Verkabelung.
+[21-10-24 12:25:48.583] LOG  : General     , 1729506348583> 2.794.612.721> ClothingWasher.
+[21-10-24 12:25:48.583] LOG  : General     , 1729506348583> 2.794.612.721> Nothing found that needs Verkabelung.
+[21-10-24 12:25:48.583] LOG  : General     , 1729506348583> 2.794.612.721> IsoObject.
+[21-10-24 12:25:48.583] LOG  : General     , 1729506348583> 2.794.612.721> Nothing found that needs Verkabelung.
+[21-10-24 12:25:48.583] LOG  : General     , 1729506348583> 2.794.612.721> IsoObject.
+[21-10-24 12:25:48.583] LOG  : General     , 1729506348583> 2.794.612.721> Nothing found that needs Verkabelung.
+[21-10-24 12:25:48.583] LOG  : General     , 1729506348583> 2.794.612.721> IsoObject.
+[21-10-24 12:25:48.583] LOG  : General     , 1729506348583> 2.794.612.721> LIGHTSWITCH FOUDN!.
+[21-10-24 12:25:48.583] LOG  : General     , 1729506348583> 2.794.612.721> true.
+[21-10-24 12:25:48.583] LOG  : General     , 1729506348583> 2.794.612.721> nil.
+[21-10-24 12:25:48.583] LOG  : General     , 1729506348583> 2.794.612.721> zombie.iso.IsoGridSquare@1ab6c1db.
+[21-10-24 12:25:48.583] LOG  : General     , 1729506348583> 2.794.612.721> 10.
+[21-10-24 12:25:48.583] LOG  : General     , 1729506348583> 2.794.612.722> Nothing found that needs Verkabelung.
+[21-10-24 12:25:48.583] LOG  : General     , 1729506348583> 2.794.612.722> ClothingWasher.
+[21-10-24 12:26:20.889] WARN : General     , 1729506380889> 2.794.645.028> AnimationPlayer.play> Anim Clip not found: InvalidOnPurpose.
+[21-10-24 12:26:21.490] LOG  : General     , 1729506381490> 2.794.645.629> Trying to load Moddata: 	table 0x1738346572.
+[21-10-24 12:26:21.490] LOG  : General     , 1729506381490> 2.794.645.629> RemoteLinkTable loaded: 	nil.
+[21-10-24 12:26:21.490] LOG  : General     , 1729506381490> 2.794.645.629> No Remote Linktable could be found in the  ModData.
+[21-10-24 12:26:56.507] LOG  : General     , 1729506416507> 2.794.680.646> Player has Lucky.
+[21-10-24 12:28:32.291] LOG  : General     , 1729506512291> 2.794.776.431> Player has Lucky.
+[21-10-24 12:28:52.292] LOG  : General     , 1729506532292> 2.794.796.432> Trying to load Moddata: 	table 0x1738346572.
+[21-10-24 12:28:52.292] LOG  : General     , 1729506532292> 2.794.796.432> RemoteLinkTable loaded: 	nil.
+[21-10-24 12:28:52.292] LOG  : General     , 1729506532292> 2.794.796.432> No Remote Linktable could be found in the  ModData.
+[21-10-24 12:29:02.340] LOG  : General     , 1729506542340> 2.794.806.481> Player has Lucky.
+[21-10-24 12:29:55.320] LOG  : General     , 1729506595320> 2.794.859.461> Player has Lucky.
+[21-10-24 12:31:03.759] LOG  : General     , 1729506663759> 2.794.927.901> bugged action, cleared queue 	ISInventoryTransferAction.
+[21-10-24 12:31:16.258] LOG  : General     , 1729506676258> 2.794.940.400> bugged action, cleared queue 	ISInventoryTransferAction.
+[21-10-24 12:31:22.359] LOG  : General     , 1729506682359> 2.794.946.501> Trying to load Moddata: 	table 0x1738346572.
+[21-10-24 12:31:22.359] LOG  : General     , 1729506682359> 2.794.946.501> RemoteLinkTable loaded: 	nil.
+[21-10-24 12:31:22.359] LOG  : General     , 1729506682359> 2.794.946.501> No Remote Linktable could be found in the  ModData.
+[21-10-24 12:31:28.492] LOG  : General     , 1729506688492> 2.794.952.634> bugged action, cleared queue 	ISInventoryTransferAction.
+[21-10-24 12:32:19.026] LOG  : General     , 1729506739026> 2.795.003.169> bugged action, cleared queue 	ISInventoryTransferAction.
+[21-10-24 12:32:38.359] LOG  : General     , 1729506758359> 2.795.022.503> bugged action, cleared queue 	ISInventoryTransferAction.
+[21-10-24 12:33:52.958] LOG  : General     , 1729506832958> 2.795.097.103> Trying to load Moddata: 	table 0x1738346572.
+[21-10-24 12:33:52.958] LOG  : General     , 1729506832958> 2.795.097.103> RemoteLinkTable loaded: 	nil.
+[21-10-24 12:33:52.958] LOG  : General     , 1729506832958> 2.795.097.103> No Remote Linktable could be found in the  ModData.
+[21-10-24 12:33:55.457] LOG  : General     , 1729506835457> 2.795.099.602> Player has Lucky.
+[21-10-24 12:34:23.124] LOG  : General     , 1729506863124> 2.795.127.269> Player has Lucky.
+[21-10-24 12:34:40.641] LOG  : General     , 1729506880641> 2.795.144.786> Player has Lucky.
+[21-10-24 12:35:17.657] WARN : General     , 1729506917657> 2.795.181.803> AnimationPlayer.play> Anim Clip not found: InvalidOnPurpose.
+[21-10-24 12:35:28.158] LOG  : General     , 1729506928158> 2.795.192.304> Player has Lucky.
+[21-10-24 12:35:40.658] LOG  : General     , 1729506940658> 2.795.204.805> Player has Lucky.
+[21-10-24 12:35:48.174] LOG  : General     , 1729506948174> 2.795.212.321> Player has Lucky.
+[21-10-24 12:35:58.973] WARN : General     , 1729506958973> 2.795.223.120> AnimationPlayer.play> Anim Clip not found: InvalidOnPurpose.
+[21-10-24 12:36:01.587] LOG  : General     , 1729506961587> 2.795.225.734> EXITDEBUG: ToggleEscapeMenu 1.
+[21-10-24 12:36:01.588] LOG  : General     , 1729506961588> 2.795.225.735> EXITDEBUG: ToggleEscapeMenu 3.
+[21-10-24 12:36:01.588] LOG  : General     , 1729506961588> 2.795.225.735> EXITDEBUG: ToggleEscapeMenu 4.
+[21-10-24 12:36:01.588] LOG  : General     , 1729506961588> 2.795.225.735> EXITDEBUG: ToggleEscapeMenu 5.
+[21-10-24 12:36:01.588] LOG  : General     , 1729506961588> 2.795.225.735> EXITDEBUG: setGameSpeed 1.
+[21-10-24 12:36:01.588] LOG  : General     , 1729506961588> 2.795.225.735> EXITDEBUG: setGameSpeed 3.
+[21-10-24 12:36:01.588] LOG  : General     , 1729506961588> 2.795.225.735> EXITDEBUG: setShowPausedMessage 1.
+[21-10-24 12:36:01.588] LOG  : General     , 1729506961588> 2.795.225.735> EXITDEBUG: setShowPausedMessage 2.
+[21-10-24 12:36:03.471] LOG  : General     , 1729506963471> 2.795.227.618> EXITDEBUG: onMenuItemMouseDownMainMenu 1 (item=QUIT_TO_DESKTOP).
+[21-10-24 12:36:03.471] LOG  : General     , 1729506963471> 2.795.227.618> EXITDEBUG: onMenuItemMouseDownMainMenu 4.
+[21-10-24 12:36:04.538] LOG  : General     , 1729506964538> 2.795.228.685> EXITDEBUG: setGameSpeed 1.
+[21-10-24 12:36:04.538] LOG  : General     , 1729506964538> 2.795.228.685> EXITDEBUG: setGameSpeed 3.
+[21-10-24 12:36:04.538] LOG  : General     , 1729506964538> 2.795.228.685> EXITDEBUG: pauseSoundAndMusic 1.
+[21-10-24 12:36:04.538] LOG  : General     , 1729506964538> 2.795.228.685> EXITDEBUG: pauseSoundAndMusic 2.
+[21-10-24 12:36:04.538] LOG  : General     , 1729506964538> 2.795.228.685> EXITDEBUG: setShowPausedMessage 1.
+[21-10-24 12:36:04.538] LOG  : General     , 1729506964538> 2.795.228.685> EXITDEBUG: setShowPausedMessage 2.
+[21-10-24 12:36:04.538] LOG  : General     , 1729506964538> 2.795.228.685> EXITDEBUG: Core.quitToDesktop.
+[21-10-24 12:36:04.542] LOG  : General     , 1729506964542> 2.795.228.689> EXITDEBUG: GameWindow.exit 1.
+[21-10-24 12:36:04.542] LOG  : General     , 1729506964542> 2.795.228.689> EXITDEBUG: WorldStreamer.stop 1.
+[21-10-24 12:36:04.543] LOG  : General     , 1729506964543> 2.795.228.689> EXITDEBUG: WorldStreamer.stop 2.
+[21-10-24 12:36:04.674] LOG  : General     , 1729506964674> 2.795.228.820> EXITDEBUG: WorldStreamer.stop 3.
+[21-10-24 12:36:04.674] LOG  : General     , 1729506964674> 2.795.228.820> EXITDEBUG: WorldStreamer.stop 4.
+[21-10-24 12:36:04.674] LOG  : General     , 1729506964674> 2.795.228.820> EXITDEBUG: ChunkSaveWorker.SaveNow 1.
+[21-10-24 12:36:04.674] LOG  : General     , 1729506964674> 2.795.228.820> EXITDEBUG: ChunkSaveWorker.SaveNow 3.
+[21-10-24 12:36:04.674] LOG  : General     , 1729506964674> 2.795.228.821> EXITDEBUG: WorldStreamer.stop 5.
+[21-10-24 12:36:04.674] LOG  : Network     , 1729506964674> 2.795.228.821> [21-10-24 12:36:04.674] > ZNet: [-> CZombienet: RakNetPeerInterface_disconnect.
+[21-10-24 12:36:04.674] LOG  : Network     , 1729506964674> 2.795.228.821> [21-10-24 12:36:04.674] > ZNet: CZombienet -> CZombienet: Disconnect.
+[21-10-24 12:36:04.674] LOG  : Network     , 1729506964674> 2.795.228.821> [21-10-24 12:36:04.674] > ZNet: CZombienet -> CRakNet : CloseConnection.
+[21-10-24 12:36:04.674] LOG  : Network     , 1729506964674> 2.795.228.821> [21-10-24 12:36:04.674] > ZNet: CZombienet -> CZombienet : UpdateConnectionState.
+[21-10-24 12:36:04.675] LOG  : Network     , 1729506964675> 2.795.228.821> [21-10-24 12:36:04.675] > ZNet: CZombienet -> CZombienet: CloseConnection.
+[21-10-24 12:36:04.675] LOG  : Network     , 1729506964675> 2.795.228.821> [21-10-24 12:36:04.675] > ZNet: CloseConnection: exit (1201).
+[21-10-24 12:36:04.675] LOG  : Network     , 1729506964675> 2.795.228.821> [21-10-24 12:36:04.675] > ZNet: CZombienet -> CZombienet: CancelAuth.
+[21-10-24 12:36:04.675] LOG  : Network     , 1729506964675> 2.795.228.821> [21-10-24 12:36:04.675] > ZNet: CancelAuth.
+[21-10-24 12:36:04.690] LOG  : Network     , 1729506964690> 2.795.228.837> [21-10-24 12:36:04.690] > ConnectionManager: [force-disconnect] "exit" connection: guid=1729504051590734 ip=195.179.227.216 steam-id=76561197983853879 access="admin" username="Shuffmayn" connection-type="Disconnected".
+[21-10-24 12:36:04.713] LOG  : General     , 1729506964713> 0> EXITDEBUG: WorldStreamer.stop 1.
+[21-10-24 12:36:04.716] LOG  : Network     , 1729506964716> 0> [21-10-24 12:36:04.716] > ZNet: CRakNet -> CZombienet: OnClosedConnection.
+[21-10-24 12:36:04.716] LOG  : Network     , 1729506964716> 0> [21-10-24 12:36:04.716] > ZNet: OnClosedConnection: m_connectionState=7.
+[21-10-24 12:36:04.716] LOG  : Network     , 1729506964716> 0> [21-10-24 12:36:04.716] > ZNet: OnClosedConnection: reason=DisconnectionNotification port=29903.
+[21-10-24 12:36:04.716] LOG  : Network     , 1729506964716> 0> [21-10-24 12:36:04.716] > ZNet: CZombienet -> CZombienet: CloseConnection.
+[21-10-24 12:36:04.716] LOG  : Network     , 1729506964716> 0> [21-10-24 12:36:04.716] > ZNet: CloseConnection: DisconnectionNotification (1208).
+[21-10-24 12:36:04.716] LOG  : Network     , 1729506964716> 0> [21-10-24 12:36:04.716] > ZNet: CZombienet -> CZombienet: CancelAuth.
+[21-10-24 12:36:04.716] LOG  : Network     , 1729506964716> 0> [21-10-24 12:36:04.716] > ZNet: CZombienet -> CZombienet : UpdateConnectionState.
+[21-10-24 12:36:04.717] LOG  : Network     , 1729506964717> 0> [21-10-24 12:36:04.717] > ConnectionManager: [RakNet] "disconnection-notification" connection: null.
+[21-10-24 12:36:04.982] LOG  : General     , 1729506964982> 0> reanimate: saved 0 zombies.
+[21-10-24 12:36:04.982] LOG  : General     , 1729506964982> 0> Saving GlobalModData.
+[21-10-24 12:36:04.989] LOG  : General     , 1729506964989> 0> removing all player data.
+[21-10-24 12:36:04.989] LOG  : General     , 1729506964989> 0> - player: 0.
+[21-10-24 12:36:04.989] LOG  : General     , 1729506964989> 0> removing player inventory.
+[21-10-24 12:36:04.989] LOG  : General     , 1729506964989> 0> removing buttonprompts.
+[21-10-24 12:36:04.989] LOG  : General     , 1729506964989> 0> removing loot inventory.
+[21-10-24 12:36:04.989] LOG  : General     , 1729506964989> 0> removing equipped icons.
+[21-10-24 12:36:04.990] LOG  : General     , 1729506964990> 0> removing characterInfo.
+[21-10-24 12:36:04.990] LOG  : General     , 1729506964990> 0> removing backButtonWheel.
+[21-10-24 12:36:04.990] LOG  : General     , 1729506964990> 0> removing safetyUI.
+[21-10-24 12:36:04.990] LOG  : General     , 1729506964990> 0> removing craftingUI.
+[21-10-24 12:36:04.990] LOG  : General     , 1729506964990> 0> removing mechanicsUI.
+[21-10-24 12:36:04.990] LOG  : General     , 1729506964990> 0> removing cursor + panel.
+[21-10-24 12:36:04.990] LOG  : General     , 1729506964990> 0> writing C:\Users\mail\Zomboid\Saves\Multiplayer\195.179.227.216_29900_e1e33ca2a52ce1ec793d6e9a2f576e2e\InGameMap.ini.
+[21-10-24 12:36:04.991] LOG  : General     , 1729506964991> 0> removing tuningUI.
+[21-10-24 12:36:04.994] LOG  : General     , 1729506964994> 0> removing all player data.
+[21-10-24 12:36:04.994] LOG  : General     , 1729506964994> 0> - player: 0.
+[21-10-24 12:36:04.995] LOG  : General     , 1729506964995> 0> removing cursor + panel.
+[21-10-24 12:36:05.024] LOG  : General     , 1729506965024> 0> EXITDEBUG: GameWindow.exit 2.
+[21-10-24 12:36:05.024] LOG  : General     , 1729506965024> 0> EXITDEBUG: GameWindow.exit 3.
+[21-10-24 12:36:05.024] LOG  : General     , 1729506965024> 0> EXITDEBUG: GameWindow.exit 4.
+[21-10-24 12:36:05.024] LOG  : General     , 1729506965024> 0> waiting for UdpEngine thread termination.
+[21-10-24 12:36:05.035] LOG  : Network     , 1729506965035> 0> [21-10-24 12:36:05.035] > ZNet: [-> CZombienet: RakNetPeerInterface_Shutdown.
+[21-10-24 12:36:05.035] LOG  : Network     , 1729506965035> 0> [21-10-24 12:36:05.035] > ZNet: CZombienet -> CZombienet: shutdown.
+[21-10-24 12:36:05.035] LOG  : Network     , 1729506965035> 0> [21-10-24 12:36:05.035] > ZNet: CZombienet -> CZombienet: CancelAuth.
+[21-10-24 12:36:05.035] LOG  : Network     , 1729506965035> 0> [21-10-24 12:36:05.035] > ZNet: Shutdown: CloseP2PSessionWithServer.
+[21-10-24 12:36:05.035] LOG  : Network     , 1729506965035> 0> [21-10-24 12:36:05.035] > ZNet: CZombienet -> CZombienet: CloseConnection.
+[21-10-24 12:36:05.035] LOG  : Network     , 1729506965035> 0> [21-10-24 12:36:05.035] > ZNet: CloseConnection: Shutdown (1204).
+[21-10-24 12:36:05.035] LOG  : Network     , 1729506965035> 0> [21-10-24 12:36:05.035] > ZNet: CZombienet -> CZombienet: CancelAuth.
+[21-10-24 12:36:05.443] LOG  : General     , 1729506965443> 0> GameThread exited..
+[21-10-24 12:36:05.443] LOG  : General     , 1729506965443> 0> EXITDEBUG: GameWindow.exit 5.

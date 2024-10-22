@@ -1,0 +1,8 @@
+[20-10-24 20:49:04.823] [76561197983853879][ISEnterVehicle][Shuffmayn][6409,5545,0][moveurself].
+[20-10-24 20:49:42.178] [76561197983853879][ISExitVehicle][Shuffmayn][6408,5545,0][moveurself].
+[20-10-24 20:58:28.043] [76561198101076415][ISEnterVehicle][sumiii3][6409,5545,0][moveurself].
+[20-10-24 21:00:08.961] [76561198101076415][ISExitVehicle][sumiii3][6130,5775,0][moveurself].
+[20-10-24 21:00:12.157] [76561198101076415][ISEnterVehicle][sumiii3][6130,5774,0][moveurself].
+[20-10-24 21:00:44.210] [76561198101076415][ISExitVehicle][sumiii3][6118,5773,0][moveurself].
+[20-10-24 21:01:57.753] [76561197983853879][ISEnterVehicle][Shuffmayn][6118,5773,0][moveurself].
+[20-10-24 21:02:01.187] [76561197983853879][ISExitVehicle][Shuffmayn][6118,5773,0][moveurself].

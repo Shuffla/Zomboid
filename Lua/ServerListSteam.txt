@@ -1,9 +1,9 @@
-name=Janniks Server
-ip=176.57.174.110
+name=Shuffies Bar
+ip=195.179.227.216
 localip=
-port=29000
+port=29900
 serverpassword=
-description=Janniks server
+description=14. gang er lykkens gang?
 user=Shuffmayn
 password=5u7p1k10
 usesteamrelay=false

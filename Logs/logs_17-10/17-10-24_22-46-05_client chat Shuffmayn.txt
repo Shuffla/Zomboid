@@ -1,0 +1,3 @@
+[17-10-24 22:46:05.086][info] Init chat system....
+[17-10-24 22:46:05.086][info] Mode: multiplayer.
+[17-10-24 22:46:05.086][info] Chat owner: Shuffmayn.

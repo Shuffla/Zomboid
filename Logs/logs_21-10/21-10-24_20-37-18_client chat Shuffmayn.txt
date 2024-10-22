@@ -1,0 +1,8 @@
+[21-10-24 20:37:18.927][info] Init chat system....
+[21-10-24 20:37:18.927][info] Mode: multiplayer.
+[21-10-24 20:37:18.927][info] Chat owner: Shuffmayn.
+[21-10-24 20:39:23.147][info] Got message from server: ChatMessage{chat=Server, author='Server', text='Vehicle spawned'}.
+[21-10-24 20:40:26.963][info] Got message from server: ChatMessage{chat=Server, author='Server', text='Vehicle spawned'}.
+[21-10-24 20:40:57.413][info] Got message from server: ChatMessage{chat=Server, author='Server', text='Vehicle spawned'}.
+[21-10-24 20:41:37.014][info] Got message from server: ChatMessage{chat=Server, author='Server', text='Vehicle spawned'}.
+[22-10-24 01:47:16.980][info] Got message from server: ChatMessage{chat=Server, author='Server', text='World saved'}.

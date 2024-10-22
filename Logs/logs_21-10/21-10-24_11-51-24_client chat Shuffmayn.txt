@@ -1,0 +1,5 @@
+[21-10-24 11:51:24.721][info] Init chat system....
+[21-10-24 11:51:24.721][info] Mode: multiplayer.
+[21-10-24 11:51:24.721][info] Chat owner: Shuffmayn.
+[21-10-24 12:05:17.522][info] Got message from server: ChatMessage{chat=Server, author='Server', text='ERROR: I can not spawn the vehicle. Invalid position. Try to change position.'}.
+[21-10-24 12:06:01.539][info] Got message from server: ChatMessage{chat=Server, author='Server', text='Vehicle spawned'}.

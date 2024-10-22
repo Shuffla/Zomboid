@@ -187,7 +187,7 @@ SandboxVars = {
     -- Modifies the base XP gain from actions by this number. Minimum=0,00 Maximum=1000,00 Default=1,00
     XpMultiplier = 1.0,
     -- Determines if the XP multiplier affects passively levelled skills eg. Fitness and Strength.
-    XpMultiplierAffectsPassive = false,
+    XpMultiplierAffectsPassive = true,
     -- Use this to multiply or reduce engine general loudness. Minimum=0,00 Maximum=100,00 Default=1,00
     ZombieAttractionMultiplier = 1.0,
     -- Governs whether cars are locked, need keys to start etc.
@@ -234,9 +234,9 @@ SandboxVars = {
     -- 5 = Often
     LockedHouses = 6,
     -- Spawn with chips, water bottle, school bag, baseball bat and a hammer.
-    StarterKit = false,
+    StarterKit = true,
     -- Nutritional value of food affects the player's condition.
-    Nutrition = true,
+    Nutrition = false,
     -- Define how fast the food will spoil inside or outside fridge. Default=Normal
     -- 1 = Very Fast
     -- 2 = Fast
@@ -258,7 +258,7 @@ SandboxVars = {
     -- When > 0, loot will not respawn in zones that have been visited within this number of in-game hours. Minimum=0 Maximum=2147483647 Default=0
     SeenHoursPreventLootRespawn = 0,
     -- A comma-separated list of item types that will be removed after HoursForWorldItemRemoval hours.
-    WorldItemRemovalList = "Base.Hat,Base.Glasses,Base.Maggots",
+    WorldItemRemovalList = "Base.Hat,Base.Glasses",
     -- Number of hours since an item was dropped on the ground before it is removed.  Items are removed the next time that part of the map is loaded.  Zero means items are not removed. Minimum=0,00 Maximum=2147483647,00 Default=24,00
     HoursForWorldItemRemoval = 24.0,
     -- If true, any items *not* in WorldItemRemovalList will be removed.
@@ -299,7 +299,7 @@ SandboxVars = {
     -- 1 = Never
     -- 2 = Once
     -- 3 = Sometimes
-    Helicopter = 2,
+    Helicopter = 3,
     -- How often zombie attracting metagame events like distant gunshots will occur. Default=Sometimes
     -- 1 = Never
     -- 2 = Sometimes
@@ -351,7 +351,7 @@ SandboxVars = {
     -- 2 = Low
     -- 3 = Normal
     -- 4 = High
-    ConstructionBonusPoints = 3,
+    ConstructionBonusPoints = 5,
     -- Governs the ambient lighting at night. Default=Normal
     -- 1 = Pitch Black
     -- 2 = Dark
@@ -381,13 +381,13 @@ SandboxVars = {
     -- 2 = Low
     -- 3 = Normal
     -- 4 = High
-    BloodLevel = 3,
+    BloodLevel = 4,
     -- Governs how quickly clothing degrades, becomes dirty, and bloodied. Default=Normal
     -- 1 = Disabled
     -- 2 = Slow
     -- 3 = Normal
     ClothingDegradation = 3,
-    FireSpread = true,
+    FireSpread = false,
     -- Number of in-game days before rotten food is removed from the map. -1 means rotten food is never removed. Minimum=-1 Maximum=2147483647 Default=-1
     DaysForRottenFoodRemoval = -1,
     -- If enabled, generators will work on exterior tiles, allowing for example to power gas pump.
@@ -403,7 +403,7 @@ SandboxVars = {
     -- If disabled snow will not accumulate on ground but will still be visible on vegetation and rooftops.
     EnableSnowOnGround = true,
     -- When enabled certain melee weapons will be able to strike multiple zombies in one hit.
-    MultiHitZombies = false,
+    MultiHitZombies = true,
     -- Chance of being bitten when a zombie attacks from behind. Default=High
     -- 1 = Low
     -- 2 = Medium
@@ -466,7 +466,7 @@ SandboxVars = {
     -- 2 = Low
     -- 3 = Normal
     -- 4 = High
-    DamageToPlayerFromHitByACar = 1,
+    DamageToPlayerFromHitByACar = 3,
     -- Enable or disable traffic jams that spawn on the main roads of the map.
     TrafficJam = true,
     -- How frequently cars will be discovered with an alarm. Default=Extremely Rare
@@ -496,7 +496,7 @@ SandboxVars = {
     -- 2 = In bodies only
     MaggotSpawn = 1,
     -- The higher the value, the longer lightbulbs last before breaking. If 0, lightbulbs will never break. Does not affect vehicle headlights. Minimum=0,00 Maximum=1000,00 Default=1,00
-    LightBulbLifespan = 1.0,
+    LightBulbLifespan = 0.0,
     AT_VehicleDamageenable = true,
     ATY_safezone_protect = true,
     ATY_nonpvp_protect = true,
@@ -504,7 +504,7 @@ SandboxVars = {
     -- Minimum=0 Maximum=100 Default=100
     AT_Blood = 100,
     Map = {
-        AllowMiniMap = false,
+        AllowMiniMap = true,
         AllowWorldMap = true,
         MapAllKnown = false,
     },
@@ -623,35 +623,19 @@ SandboxVars = {
     DAMN = {
         AllowVanillaVehicleDismantling = true,
         AllowVanillaWorldItemDismantling = true,
-        AllowPowerChadSpawns = true,
         AllowMrBusSpawns = true,
         AllowChonkerSpawns = true,
         AllowCashcowSpawns = true,
         AllowMcBoxySpawns = true,
-        AllowBushmasterSpawns = true,
     },
     BicPen = {
         EnableEasterEgg = true,
     },
-    AmmSUIButton = {
-        -- Minimum=4 Maximum=20 Default=8
-        columns = 8,
-        all = true,
-        marksSymbols = true,
-        weaponsSymbols = true,
-        toolsSymbols = true,
-        carsSymbols = true,
-        itemsSymbols = true,
-        furnituresSymbols = true,
-        foodsSymbols = true,
-        medSymbols = true,
-        craftSymbols = true,
-    },
     Advanced_trajectory = {
         -- Show or hide crosshair.
         aimpoint = true,
-        showOutlines = false,
-        hideTracer = false,
+        showOutlines = true,
+        hideTracer = true,
         Enablerange = true,
         Enablethrow = true,
         -- For debugging, character says what body part was shot.
@@ -962,7 +946,7 @@ SandboxVars = {
         --  - When In-Game, [NV Hot-Key] while Not Aiming will Toggle this option Default=Manual [ON] w/Aiming
         -- 1 = OFF
         -- 2 = Manual [ON] w/Aiming
-        EnumNVControl = 2,
+        EnumNVControl = 3,
         -- Auto-Activate Laser Sight (On-Aim)
         --  - When Enabled, Laser Sight is activated automatically while Aiming
         --  - When Disabled, Laser Sight is activated with [Weapon-Light Hot-Key] while Aiming
@@ -970,7 +954,7 @@ SandboxVars = {
         -- 1 = Manual [ON] w/Aiming
         -- 2 = Manual [ON] w/Aiming (No-Glow)
         -- 3 = Auto [ON] w/Aiming
-        EnumAutoToggleLaser = 1,
+        EnumAutoToggleLaser = 3,
         -- Weapon-Light RunTime
         --  - Charge units drained per tick
         --  - Higher value means LESS Runtime
@@ -1068,7 +1052,7 @@ SandboxVars = {
         --  - Applies Aim-Time Penalty for using Firearms in Vehicles
         --  - Calculated based on the Overall Length and Weight of the Firearm
         --  - Mitigated by Folded-Stocks and Sawn-Off configurations
-        BoolVehiclePenalty = false,
+        BoolVehiclePenalty = true,
         -- Function
         --  - Prevent Firearm Condition from decreasing
         BoolFireArmsNeverBreak = false,
@@ -1185,7 +1169,7 @@ SandboxVars = {
         --  - Vanilla only allows hitting: Head or Torso
         --  - Primarily done to allow visible Arrows / Bolts stuck in Limbs
         --  - Enabling may make killing zombies more difficult
-        BoolZombieBodyParts = false,
+        BoolZombieBodyParts = true,
         -- Sound
         --  - Increase or Reduce the Effect of Suppression Attachments
         --  - Calculated based on option level chosen Default=100% - Default
@@ -1194,7 +1178,7 @@ SandboxVars = {
         -- 3 = 100% - Default
         -- 4 = 75% - Quiet
         -- 5 = 50% - Whisper
-        EnumSoundSuppression = 3,
+        EnumSoundSuppression = 4,
         -- Sound
         --  - Increase the Overall Sound Radius of all Firearms
         --  - Calculated based on option level chosen Default=+0 - No Boost
@@ -2222,7 +2206,7 @@ SandboxVars = {
         -- 18 = 170%
         -- 19 = 180%
         -- 20 = 190%
-        EnumArmor = 6,
+        EnumArmor = 9,
         -- Loot
         --  - Reduce or Remove Weapons / Items produced after 1992
         --  - Be Advised... This option Removes A-L-O-T of weapons Default=ALLOW
@@ -2704,53 +2688,13 @@ SandboxVars = {
         -- Allow Core Game to add Associated Magazines and Loose or Box Ammo in Surplus Location containers
         BoolSURammo = true,
     },
-    AutoGate = {
-        -- Everytime the gate is closed by a controller, it will also be locked.
-        AutoLockGate = true,
-        -- Max range that a controller can interact with the gate. Minimum=8 Maximum=50 Default=35
-        ControllerRange = 35,
-        -- Total uses each battery can have. Minimum=10 Maximum=300 Default=100
-        BatteryMaxUseCount = 100,
-        -- Level of Metalworking required to install gate motor. Minimum=1 Maximum=10 Default=4
-        LevelRequirementsInstallMetalWelding = 4,
-        -- Level of Electrical required to interact with the controller. Minimum=1 Maximum=10 Default=1
-        LevelRequirementsControllerInteraction = 1,
-        -- Level of Mechanics required to interact with the gate. Minimum=1 Maximum=10 Default=1
-        LevelRequirementsGateInteraction = 1,
-        -- Level of Electrical required to make controllers. (needs restart) Minimum=1 Maximum=10 Default=2
-        LevelRequirementsMakeControllerElectrical = 2,
-        -- Level of Electrical required to make a gate motors. (needs restart) Minimum=1 Maximum=10 Default=3
-        LevelRequirementsMakeComponentsElectrical = 3,
-        -- Level of Mechanics required to make a gate motors. (needs restart) Minimum=1 Maximum=10 Default=4
-        LevelRequirementsMakeComponentsMechanics = 4,
-    },
     BarricadeHurtZombies = {
         -- Damage on zombie per hit on the barricade. 0.5 corresponds to around 1 zombie per wooden plank. Minimum=0,00 Maximum=100,00 Default=0,50
-        BarricadeDamage = 0.5,
+        BarricadeDamage = 1.0,
         -- Default value doesn't include non player-built object (e.g. windows, doors, garage door...) Default=Player-built and moved objects
         -- 1 = Player-built and moved objects
         -- 2 = All
         HurtingBarricade = 1,
-    },
-    BecomeBrave = {
-        -- Minimum zombie kills required to have a chance to become desensitized. Minimum=1 Maximum=10000 Default=350
-        MinimumZombieKills = 350,
-        -- Maximum zombie kills required to become desensitized Minimum=1 Maximum=10000 Default=1500
-        MaximumZombieKills = 1500,
-        -- Consider traits that can increase the chance of becoming desensitized (more info in workshop page)
-        ConsiderTraits = true,
-        -- Consider occupations Police, Fireman, Park Ranger, Security Guard, Doctor and Nurse that can increase the chance of becoming desensitized
-        ConsiderOccupations = true,
-    },
-    BecomeDesensitized = {
-        -- Minimum zombie kills required to have a chance to become desensitized. Minimum=1 Maximum=10000 Default=500
-        MinimumZombieKills = 500,
-        -- Maximum zombie kills required to become desensitized Minimum=1 Maximum=10000 Default=2000
-        MaximumZombieKills = 2000,
-        -- Consider traits that can increase the chance of becoming desensitized (more info in workshop page)
-        ConsiderTraits = true,
-        -- Consider occupations Police, Fireman, Park Ranger, Security Guard, Doctor and Nurse that can increase the chance of becoming desensitized
-        ConsiderOccupations = true,
     },
     BetterBatteries = {
         -- Amount of in-game minutes it takes to charge a battery from empty to full without penalties / buffs in place. Minimum=0,00 Maximum=1440,00 Default=60,00
@@ -2765,20 +2709,6 @@ SandboxVars = {
         MaximumCharge = 1.0,
         -- Lifetime multiplier applied to all electrical devices that use batteries. (Negative value results in unlimited charge, 0 results in instant charge loss.) Minimum=-1,00 Maximum=9999,00 Default=1,00
         LifetimeMult = 1.0,
-    },
-    Bicycles = {
-        -- Determines whether your character will get tired as they pedal. 
-        Exhaustion = true,
-        -- Minimum=0,00 Maximum=1,00 Default=0,39
-        ExhaustionDrain = 0.39,
-        -- Determines whether your character will receive fitness exp as they pedal. 
-        FitnessExperience = true,
-        -- Minimum=0 Maximum=500 Default=15
-        FitnessExpGain = 15,
-        -- Determines whether your character will warm up from pedaling. 
-        Warmth = true,
-        -- Minimum=0,00 Maximum=1,00 Default=0,10
-        WarmthGain = 0.1,
     },
     FancyHandwork = {
         -- Player Firearm Level to change to Tactical Aiming animation. <LINE> Set to 0 to always use this.  Set to 11 to never. Minimum=0 Maximum=11 Default=3
@@ -2800,7 +2730,7 @@ SandboxVars = {
     },
     BrutalHandwork = {
         -- When a player is dual-wielding melee weapons, automatically alternate between left and right attacks. Disable to require the Modifier to be pressed for an offhand attack.
-        DualWieldMelee = false,
+        DualWieldMelee = true,
         -- Even when a player is unarmed, they will be able to attack. By default, must be aiming and holding the Modifier key to punch.
         EnableUnarmed = true,
         -- When a player is unarmed, always raise their fists when aiming for unarmed attacks.  Disable to require the Modifier to be held when aiming.
@@ -2825,7 +2755,7 @@ SandboxVars = {
         PryingMechanic = true,
         -- Toggles whether all doors can be pried open or not.
         -- By default, reinforced doors (Prison doors, metal grid doors, etc.) cannot be pried open up unless the Player has a Strength level equal to or higher than the Min. Reinforced Door Level. 
-        PryAllDoors = false,
+        PryAllDoors = true,
         -- Toggles whether to display a Color representing the Condition of various Vehicle Parts in the Vehicle Dashboard. 
         PartsHighlighter = true,
         -- Toggles friendly User Interface colors for those affected by color blindness. 
@@ -2844,9 +2774,9 @@ SandboxVars = {
     DaysGone = {
         -- Displays "Days Later" instead of "Days Gone".
         -- A reference to the 2002 movie. 
-        DaysLater = false,
+        DaysLater = true,
         -- Includes the Knox Evacuation, 3 days before the game starts, in the day counter. 
-        IncludePreOutbreak = false,
+        IncludePreOutbreak = true,
         -- Write some custom text after the day count instead of 'Days Gone'.
         -- Leave it blank for default. 
         CustomText = "",
@@ -2862,7 +2792,7 @@ SandboxVars = {
     },
     DynamicBackpacks = {
         -- Allows items with the SharpKnife tag to remove upgrades.
-        KnivesCanRemove = false,
+        KnivesCanRemove = true,
         -- Base amount of upgrades every Inventory Container item will have Minimum=0 Maximum=10 Default=1
         BaseUpgradeSlots = 1,
         -- Extra/Less Upgrade slots for containers that can go on the back Minimum=-20 Maximum=10 Default=1
@@ -2873,7 +2803,7 @@ SandboxVars = {
         OtherSlotModifier = 0,
         -- Every X levels of tailoring will give all containers another upgrade slot. 
         -- (0 to disable) Minimum=0 Maximum=10 Default=10
-        TailoringModifier = 10,
+        TailoringModifier = 5,
         -- Percentage bonus of the containers original capacity. Minimum=0,00 Maximum=1,00 Default=0,10
         ClothCapacityPercentage = 0.1,
         -- Additive bonus to container capacity. Minimum=-100 Maximum=100 Default=1
@@ -2921,7 +2851,7 @@ SandboxVars = {
         -- Includes all kills into the final value in Post Death floating text.
         includePostDeathUI = true,
         -- Target time (in milliseconds) between two updates in multiplayer. Small value gives reactivity. High value reduces network use and server workload. Minimum=0 Maximum=10000000 Default=500
-        MaxUpdateDelay = 500,
+        MaxUpdateDelay = 5000,
         -- Each client can see every character score. Deactivate on (very large) servers to reduce Global Mod Data transfer load.
         shareOnServer = true,
         -- Dead characters are kept and count toward server kills. Deactivate for server that never wipe.
@@ -2957,12 +2887,12 @@ SandboxVars = {
         -- Example: Max kills is set to 1000. You start with Cowardly. You need 100 kills to remove it. If you get 50 melee kills, it'll be removed. The same is true if you get 40 melee kills (x2 = 80 kills for the counter) and 20 firearms kills Minimum=0 Maximum=500000 Default=20000
         BraverySystemKills = 20000,
         -- If enabled, getting desensitized through the Bravery system will also remove other fear perks like Pluviophile, Homichlophobia, Agoraphobic, and Claustrophobic, and prevent you from gaining them
-        BraverySystemRemovesOtherFearPerks = false,
+        BraverySystemRemovesOtherFearPerks = true,
         FearOfLocationsSystem = true,
         -- If enabled, you will only ever have Claustrophobic OR Agoraphobic, whichever has the lower counter
         FearOfLocationsExclusiveFears = true,
         -- If you have an issue managing both Agoraphobic and Claustrophobic traits simultaneously, you can set up passive decay using this option. This slowly decays the opposite counter based on whether you're outside/inside every minute, regardless of your mental state. For example, setting this to 0.1 and being inside will gradually reduce your fear of outside by adding 0.1 to the outside counter every minute. Setting it to 0 will have no effect on counters. Recommended values range from 0.1 to 0.5 Minimum=0,00 Maximum=8,00 Default=0,00
-        FearOfLocationsSystemPassiveCounterDecay = 0.0,
+        FearOfLocationsSystemPassiveCounterDecay = 0.1,
         -- Counter = amount of minutes you need to spend outside/inside to lose the respective trait, Agoraphobic or Claustrophobic. Being outside/inside when stressed or unhappy will decrease the counter. Reaching a negative counter value will GAIN you the appropriate trait. Reaching a positive counter value will get rid of the appropriate trait, being in between -counter and +counter will result in no change. The lower boundary is -2x of the counter, and the upper boundary is 2x of the set value here Minimum=0 Maximum=500000 Default=12000
         FearOfLocationsSystemCounter = 12000,
         -- Controls how fast the counter decreases when you are unhappy (50%+) or stressed (50%+). Since you are more often normal than unhappy or stressed, it's recommended not to set this value too low. The formula for how much the counter decreases every minute is: 1 * (1 + unhappiness(0-1)) + (1 * stress(0-1)) * multiplier. At minimum, you lose 0 * multiplier; at maximum, you lose 4 * multiplier Minimum=0,00 Maximum=100,00 Default=1,00
@@ -3024,7 +2954,7 @@ SandboxVars = {
         -- Determines how fast you increase/decrease the SleepHealthiness counter, which dictates if you get/lose Wakeful and Sleepyhead. Higher values mean faster gain and loss. Lower values mean slower gain and loss Minimum=0,00 Maximum=100,00 Default=1,00
         SleepSystemMultiplier = 1.0,
         -- If this is enabled, you can lose positive traits during gameplay. This mostly applies to trait systems like love/fear of weather/locations or weight system as not a lot of positive traits can be lost
-        TraitsLockSystemCanLosePositive = true,
+        TraitsLockSystemCanLosePositive = false,
         -- If this is enabled, you can gain positive traits during gameplay. This applies to a lot of traits; you DO NOT want to have this disabled
         TraitsLockSystemCanGainPositive = true,
         -- If this is enabled, you can lose negative traits during gameplay. This mostly applies to trait systems like love/fear of weather/locations or weight system and also a bunch of simple traits
@@ -3033,7 +2963,7 @@ SandboxVars = {
         TraitsLockSystemCanGainNegative = true,
         -- Describing conditions on which you lose/gain traits in here would take a lot of text, so just check Google Sheets for details (link in mod workshop page description). Affected traits that can be gained/lost dynamically: High/Low Thirst, Light Eater/Hearty Appetite, Thick/Thin Skinned, Slow/Fast Healer.
         -- IMPORTANT: if you pick any of these traits in character creation they will be permanent on your character, both negative and positive
-        WeightSystem = true,
+        WeightSystem = false,
         -- How many levels in Strength + Fitness you need to have to gain Thick Skinned and Fast Healer (this is not only condition, once again check Google Sheets) Minimum=0 Maximum=20 Default=16
         WeightSystemSkill = 16,
         -- What your average mental (average from panic + unhappiness + fear + stress) health should be in last 31 survived days to obtain Thick Skinned and Fast Healer (this is not only condition, once again check Google Sheets) Minimum=0,00 Maximum=100,00 Default=60,00
@@ -3294,7 +3224,7 @@ SandboxVars = {
         -- The percentage of initial random fuel found in barrels. Minimum=0,00 Maximum=1,00 Default=0,50
         BarrelRandomQuantityPercent = 0.5,
         -- Allow picking up barrel that contain fuel.
-        BarrelCanPickupFull = false,
+        BarrelCanPickupFull = true,
     },
     FunctionalAppliances = {
         -- How often filled beer kegs spawn in bars. Default=Normal
@@ -3403,54 +3333,6 @@ SandboxVars = {
         -- 4 = Full
         -- 5 = Completely Random
         FAConditionAmount = 5,
-    },
-    HereTheyCome = {
-        -- Cooldown between two hordes in game minutes Minimum=0 Maximum=72000 Default=8640
-        HordeCooldown = 8640,
-        -- Min hour of day at which the Horde may happen Minimum=0 Maximum=23 Default=0
-        HordeMinHour = 0,
-        -- Max hour of day at which the Horde may happend Minimum=0 Maximum=23 Default=6
-        HordeMaxHour = 6,
-        -- Minimum amount of agitation per hour Minimum=0 Maximum=10000 Default=0
-        HordeMinHourlyProgress = 0,
-        -- Maximum amount of agitation per hour Minimum=0 Maximum=10000 Default=250
-        HordeMaxHourlyProgress = 250,
-        -- Horde agitation trigger threshold Minimum=0 Maximum=10000 Default=1000
-        HordeTriggerThreshold = 1000,
-        -- First day at which a horde may appear Minimum=0 Maximum=365 Default=20
-        HordeFirstDay = 20,
-        -- Number of zombie waves per horde Minimum=1 Maximum=10 Default=5
-        HordeNumWaves = 5,
-        -- Number of minutes between waves Minimum=1 Maximum=120 Default=30
-        TimeBetweenWaves = 30,
-        -- Delay in ticks between spawn batches Minimum=1 Maximum=1200 Default=100
-        HordeWaveBatchTicks = 100,
-        -- Number of zombies per spawn batch Minimum=1 Maximum=100 Default=5
-        HordeWaveBatchSize = 5,
-        -- Minimum amount of zombies per wave Minimum=1 Maximum=300 Default=30
-        HordeWaveMinZombieCount = 30,
-        -- Maximum amount of zombies per wave Minimum=0 Maximum=300 Default=75
-        HordeWaveMaxZombieCount = 75,
-        -- Additional number of maximum zombies for each horde Minimum=0 Maximum=100 Default=1
-        HordeZombieIncrement = 1,
-        -- Minimum wave spawn distance Minimum=5 Maximum=200 Default=65
-        HordeMinSpawnDistance = 65,
-        -- Maximum wave spawn distance Minimum=5 Maximum=200 Default=85
-        HordeMaxSpawnDistance = 85,
-        -- Whether to display the horde agitation icon or not
-        HordeProgressIndicator = true,
-        -- Displays a warning text when horde starts/progresses
-        HordeWarnText = true,
-        -- Number of minutes after the event before the first wave starts Minimum=5 Maximum=180 Default=10
-        HordeWarnTime = 10,
-        -- Max angle at which the wave origin may be focused Minimum=0 Maximum=360 Default=30
-        HordeDirectionMaxAngle = 30,
-        -- Silently pulse and draw zombies to player during Horde
-        PulsePlayersDuringHorde = true,
-        -- Range of the pulse pulling zombies to players Minimum=5 Maximum=200 Default=125
-        PulseRange = 125,
-        -- How many minutes between noise pulses Minimum=1 Maximum=120 Default=5
-        TimeBetweenPulses = 5,
     },
     Hide = {
         -- Determines how long it takes to hide somewhere. Minimum=10 Maximum=1000 Default=300
@@ -3571,13 +3453,13 @@ SandboxVars = {
         VagabondGuaranteedExtraLoot = 1,
         -- Defines the base inventory carry capacity for those who take the Pack Mule trait.
         -- This is the base value before applying bonuses from Strength. Minimum=1 Maximum=100 Default=10
-        WeightPackMule = 10,
+        WeightPackMule = 12,
         -- Defines the base inventory carry capacity for those who take the Pack Mouse trait.
         -- This is the base value before applying bonuses from Strength. Minimum=1 Maximum=100 Default=6
         WeightPackMouse = 6,
         -- Defines the base inventory carry capacity for players with neither Pack Mule nor Pack Mouse traits.
         -- This is the base value before applying bonuses from Strength. Minimum=1 Maximum=100 Default=8
-        WeightDefault = 8,
+        WeightDefault = 10,
         -- Gives bonus inventory carry capacity to all players.
         -- You can set a negative value to reduce all player inventory capacity globally as well. Minimum=-100 Maximum=100 Default=0
         WeightGlobalMod = 0,
@@ -3605,7 +3487,7 @@ SandboxVars = {
         -- Higher values mean drops happen less frequently. Minimum=100 Maximum=10000 Default=1500
         AntiqueChance = 1500,
         -- If true, Antique Collector trait will be able to find antique items anywhere, instead of only in crates and metal shelves.
-        AntiqueAnywhere = false,
+        AntiqueAnywhere = true,
         -- Players who take the Deprived trait will still be allowed to keep a belt.
         -- Belts are ordinarily difficult to obtain through normal play without killing other players or mods which add them to loot tables.
         ForgivingDeprived = false,
@@ -3862,7 +3744,7 @@ SandboxVars = {
         -- Jackets, mostly for the police officer and ranger occupations, often offer a fair amount of resistance to bites and scratches. Doesn't include firefighter jackets.
         WantJackets = true,
         -- Brings the veteran back to active duty.
-        WantVeteranUniforms = false,
+        WantVeteranUniforms = true,
         -- Disable to reduce clutter when using mods that add a lot of uniforms.
         WantVanillaEMS = true,
         -- STFR uniforms for the fire officer, police officer, park ranger, security guard and nurse occupations. Does nothing if STFR is not enabled.
@@ -3873,13 +3755,13 @@ SandboxVars = {
         -- Spawns you with an appropriate badge item from STR. These are RP items - they aren't wearable.
         STRBadges = true,
         -- Brita's Armour Pack items for the veteran. Doesn't do much if you don't have Veteran Army Uniforms enabled.
-        WantBrita = false,
+        WantBrita = true,
         -- Applies clothing in a different way. This might cause mod conflicts, but may help if Occupational Clothing isn't working.
         LegacyMethod = false,
     },
     RVInterior = {
         -- Zombies this distance or closer to a player will prevent them from entering vehicle interiors (0 = disabled). Minimum=0 Maximum=100 Default=20
-        SafeZombieDistance = 20,
+        SafeZombieDistance = 10,
         -- Zombies currently chasing the player will prevent them from entering vehicle interiors, no matter the distance.
         NotWhenChased = true,
     },
@@ -3936,16 +3818,7 @@ SandboxVars = {
     },
     BLTAnnotations = {
         -- If enabled, player corpses will include a fully annotated map containing every symbols from their main map
-        DropMapOnDeath = false,
-    },
-    SOMW = {
-        -- Reduces chance of breaking melee weapons by the specified multiplier.
-        -- For example: choosing a value of "3" means that the weapon will break approximately 3 times slower. Default=1
-        -- 1 = 1
-        -- 2 = 2
-        -- 3 = 3
-        -- 4 = 5
-        CondLowerChanceMultiplier = 1,
+        DropMapOnDeath = true,
     },
     SkillRecoveryJournal = {
         -- The amount of experienced recovered from reading bound journals.
@@ -3960,7 +3833,7 @@ SandboxVars = {
         TranscribeTVXP = false,
         -- Recovery percentage for passive skills.
         -- Set this to -1 to use the General Skill Recovery Percentage. Minimum=-1 Maximum=100 Default=0
-        RecoverPassiveSkills = 0,
+        RecoverPassiveSkills = -1,
         -- Recovery percentage for combat skills.
         -- Set this to -1 to use the General Skill Recovery Percentage. Minimum=-1 Maximum=100 Default=-1
         RecoverCombatSkills = -1,
@@ -3982,19 +3855,19 @@ SandboxVars = {
         RecoveryJournalUsed = false,
         Craftable = true,
         -- Minimum=0 Maximum=100 Default=0
-        KillsTrack = 0,
+        KillsTrack = 100,
     },
     StairsAlert = {
         -- Determines if Players will say something if they see zombies upstairs, or not. 
         DisplayIfNoZombies = true,
         -- Determines if Players will include the number of zombies they see in their speeches. 
-        DisplayZombieAmount = true,
+        DisplayZombieAmount = false,
         -- Displays a 2D marker symbol in the ground where the zombie is supposed to be upstairs. 
         DisplayMarker = true,
     },
     TrueCrawl = {
         -- Use this option only if you're hosting an Local or Dedicated server. (To avoid issues). [Default is False]. 
-        StealhModeServer = false,
+        StealhModeServer = true,
         -- Toggles the Stealth Mode ON or OFF. If OFF, only the vanilla Sneaking system will be used. [Default is True].
         StealhModeEnable = true,
         -- Toggles the Moodle Stealth Indicator. (Works ONLY if Stealth Mode is ON!) [Default is True]. 
@@ -4025,14 +3898,11 @@ SandboxVars = {
         -- If enabled, the region indicator will not appear at all when a Player is outside any known regions. 
         HideUIOffRegion = false,
     },
-    WriteOnWorld = {
-        AdminsOnly = true,
-    },
     RCUI = {
         -- Visible: always on screen, Visible with Remote: on screen only if player got a remote controler in the inventory, Hidden: always hidden Default=Visible
         -- 1 = Visible
         -- 2 = Visible with Remote
-        RemoteUIVisibility = 1,
+        RemoteUIVisibility = 2,
     },
     Kamer_ShowWallHealth = {
         -- <H2><ORANGE>Choose visiblity mode <CENTRE><TEXT><BR>Everyone - everyone can see menu, <LINE>Admin Only - admins/debug can see menu, <LINE>Disable - no one can see menu, <LINE> Default=Everyone

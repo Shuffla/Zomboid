@@ -1,0 +1,5 @@
+[20-10-24 19:42:42.902][INFO] user "Shuffmayn" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[20-10-24 19:50:01.956][INFO] user "sumiii3" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[20-10-24 20:53:03.843][INFO] user "Shuffmayn" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[20-10-24 20:53:03.844][IMPORTANT] user Shuffmayn (76561197983853879)  killed Shuffmayn (76561197983853879)  (6408,5550,0).
+[20-10-24 20:57:41.104][INFO] user "Shuffmayn" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.

@@ -1,0 +1,81 @@
+[20-10-24 10:15:05.386][info] Start chat server initialization....
+[20-10-24 10:15:05.390][info] General chat has id = 0.
+[20-10-24 10:15:05.390][info] Say chat has id = 1.
+[20-10-24 10:15:05.390][info] Shout chat has id = 2.
+[20-10-24 10:15:05.390][info] Radio chat has id = 3.
+[20-10-24 10:15:05.390][info] Admin chat has id = 4.
+[20-10-24 10:15:05.390][info] Server chat has id = 5.
+[20-10-24 10:15:05.390][info] Chat server successfully initialized.
+[20-10-24 10:19:37.165][info] Player with id = '0' tries to connect.
+[20-10-24 10:19:37.166][info] Adding player '0' to chat server.
+[20-10-24 10:19:37.169][info] Player joined to default chats.
+[20-10-24 10:19:37.170][info] Player Shuffmayn(0) joined to chat server successfully.
+[20-10-24 10:22:17.499][info] Player 0 disconnecting....
+[20-10-24 10:22:17.499][info] Disconnecting player 0 finished.
+[20-10-24 10:23:11.700][info] Player 0 disconnecting....
+[20-10-24 10:23:11.700][info] Disconnecting player 0 finished.
+[20-10-24 10:23:11.701][info] Player with id = '0' tries to connect.
+[20-10-24 10:23:11.701][info] Adding player '0' to chat server.
+[20-10-24 10:23:11.701][error] Player or connection is not found on server!.
+[20-10-24 10:23:11.701][error] player = null.
+[20-10-24 10:23:13.838][info] Player with id = '0' tries to connect.
+[20-10-24 10:23:13.838][info] Adding player '0' to chat server.
+[20-10-24 10:23:13.838][info] Player joined to default chats.
+[20-10-24 10:23:13.838][info] Player Shuffmayn(0) joined to chat server successfully.
+[20-10-24 10:30:55.594][info] Player joined admin chat.
+[20-10-24 10:43:41.203][info] Player with id = '4' tries to connect.
+[20-10-24 10:43:41.203][info] Adding player '4' to chat server.
+[20-10-24 10:43:41.203][info] Player joined to default chats.
+[20-10-24 10:43:41.203][info] Player sumiii3(4) joined to chat server successfully.
+[20-10-24 10:53:42.604][info] Got message:ChatMessage{chat=Local, author='Shuffmayn', text='psst'}.
+[20-10-24 10:53:42.605][info] Message ChatMessage{chat=Local, author='Shuffmayn', text='psst'} sent to chat (id = 2) members.
+[20-10-24 10:53:45.674][info] Got message:ChatMessage{chat=Local, author='sumiii3', text='HEY YOU!'}.
+[20-10-24 10:53:45.674][info] Message ChatMessage{chat=Local, author='sumiii3', text='HEY YOU!'} sent to chat (id = 2) members.
+[20-10-24 10:53:50.268][info] Got message:ChatMessage{chat=Local, author='Shuffmayn', text='hey'}.
+[20-10-24 10:53:50.268][info] Message ChatMessage{chat=Local, author='Shuffmayn', text='hey'} sent to chat (id = 2) members.
+[20-10-24 10:53:50.806][info] Got message:ChatMessage{chat=Local, author='sumiii3', text='HEY!'}.
+[20-10-24 10:53:50.806][info] Message ChatMessage{chat=Local, author='sumiii3', text='HEY!'} sent to chat (id = 2) members.
+[20-10-24 10:53:52.034][info] Got message:ChatMessage{chat=Local, author='Shuffmayn', text='pssst!'}.
+[20-10-24 10:53:52.034][info] Message ChatMessage{chat=Local, author='Shuffmayn', text='pssst!'} sent to chat (id = 2) members.
+[20-10-24 10:53:53.257][info] Got message:ChatMessage{chat=Local, author='sumiii3', text='psst'}.
+[20-10-24 10:53:53.258][info] Message ChatMessage{chat=Local, author='sumiii3', text='psst'} sent to chat (id = 2) members.
+[20-10-24 10:53:57.634][info] Got message:ChatMessage{chat=Local, author='Shuffmayn', text='OVER HERE!'}.
+[20-10-24 10:53:57.634][info] Message ChatMessage{chat=Local, author='Shuffmayn', text='OVER HERE!'} sent to chat (id = 2) members.
+[20-10-24 10:54:31.421][info] Got message:ChatMessage{chat=Local, author='sumiii3', text='HEY YOU!'}.
+[20-10-24 10:54:31.421][info] Message ChatMessage{chat=Local, author='sumiii3', text='HEY YOU!'} sent to chat (id = 2) members.
+[20-10-24 10:55:26.270][info] Got message:ChatMessage{chat=Local, author='Shuffmayn', text='OVER HERE!'}.
+[20-10-24 10:55:26.270][info] Message ChatMessage{chat=Local, author='Shuffmayn', text='OVER HERE!'} sent to chat (id = 2) members.
+[20-10-24 11:16:36.505][info] Got message:ChatMessage{chat=Local, author='sumiii3', text='OVER HERE!'}.
+[20-10-24 11:16:36.505][info] Message ChatMessage{chat=Local, author='sumiii3', text='OVER HERE!'} sent to chat (id = 2) members.
+[20-10-24 11:19:41.342][info] Got message:ChatMessage{chat=Local, author='sumiii3', text='HEY YOU!'}.
+[20-10-24 11:19:41.342][info] Message ChatMessage{chat=Local, author='sumiii3', text='HEY YOU!'} sent to chat (id = 2) members.
+[20-10-24 11:21:06.768][info] Got message:ChatMessage{chat=Local, author='sumiii3', text='OVER HERE!'}.
+[20-10-24 11:21:06.768][info] Message ChatMessage{chat=Local, author='sumiii3', text='OVER HERE!'} sent to chat (id = 2) members.
+[20-10-24 11:23:05.504][info] Got message:ChatMessage{chat=Local, author='sumiii3', text='HEY YOU!'}.
+[20-10-24 11:23:05.504][info] Message ChatMessage{chat=Local, author='sumiii3', text='HEY YOU!'} sent to chat (id = 2) members.
+[20-10-24 11:23:10.851][info] Got message:ChatMessage{chat=Local, author='Shuffmayn', text='HEY YOU!'}.
+[20-10-24 11:23:10.851][info] Message ChatMessage{chat=Local, author='Shuffmayn', text='HEY YOU!'} sent to chat (id = 2) members.
+[20-10-24 11:23:12.052][info] Got message:ChatMessage{chat=Local, author='Shuffmayn', text='OVER HERE!'}.
+[20-10-24 11:23:12.052][info] Message ChatMessage{chat=Local, author='Shuffmayn', text='OVER HERE!'} sent to chat (id = 2) members.
+[20-10-24 11:23:13.302][info] Got message:ChatMessage{chat=Local, author='Shuffmayn', text='HEY YOU!'}.
+[20-10-24 11:23:13.302][info] Message ChatMessage{chat=Local, author='Shuffmayn', text='HEY YOU!'} sent to chat (id = 2) members.
+[20-10-24 11:23:14.285][info] Got message:ChatMessage{chat=Local, author='Shuffmayn', text='HEY YOU!'}.
+[20-10-24 11:23:14.285][info] Message ChatMessage{chat=Local, author='Shuffmayn', text='HEY YOU!'} sent to chat (id = 2) members.
+[20-10-24 11:23:15.355][info] Got message:ChatMessage{chat=Local, author='Shuffmayn', text='HEY!'}.
+[20-10-24 11:23:15.355][info] Message ChatMessage{chat=Local, author='Shuffmayn', text='HEY!'} sent to chat (id = 2) members.
+[20-10-24 11:23:15.618][info] Got message:ChatMessage{chat=Local, author='sumiii3', text='OVER HERE!'}.
+[20-10-24 11:23:15.618][info] Message ChatMessage{chat=Local, author='sumiii3', text='OVER HERE!'} sent to chat (id = 2) members.
+[20-10-24 11:23:16.508][info] Got message:ChatMessage{chat=Local, author='Shuffmayn', text='OVER HERE!'}.
+[20-10-24 11:23:16.508][info] Message ChatMessage{chat=Local, author='Shuffmayn', text='OVER HERE!'} sent to chat (id = 2) members.
+[20-10-24 11:23:26.403][info] Got message:ChatMessage{chat=Local, author='Shuffmayn', text='OVER HERE!'}.
+[20-10-24 11:23:26.403][info] Message ChatMessage{chat=Local, author='Shuffmayn', text='OVER HERE!'} sent to chat (id = 2) members.
+[20-10-24 11:33:40.196][info] Got message:ChatMessage{chat=Local, author='sumiii3', text='HEY!'}.
+[20-10-24 11:33:40.196][info] Message ChatMessage{chat=Local, author='sumiii3', text='HEY!'} sent to chat (id = 2) members.
+[20-10-24 11:50:13.514][info] Player 4 disconnecting....
+[20-10-24 11:50:13.514][info] Disconnecting player 4 finished.
+[20-10-24 11:50:13.514][info] Player 4 disconnecting....
+[20-10-24 11:50:13.514][info] Disconnecting player 4 finished.
+[20-10-24 11:50:25.614][info] Player 0 disconnecting....
+[20-10-24 11:50:25.614][info] Disconnecting player 0 finished.
+[20-10-24 11:50:25.614][info] Player 0 disconnecting....
+[20-10-24 11:50:25.614][info] Disconnecting player 0 finished.

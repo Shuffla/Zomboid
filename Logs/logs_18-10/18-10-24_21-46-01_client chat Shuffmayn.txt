@@ -1,0 +1,4 @@
+[18-10-24 21:46:01.585][info] Init chat system....
+[18-10-24 21:46:01.585][info] Mode: multiplayer.
+[18-10-24 21:46:01.585][info] Chat owner: Shuffmayn.
+[18-10-24 21:48:44.980][info] Got message from server: ChatMessage{chat=Server, author='Server', text='teleported J_killer to Shuffmayn'}.

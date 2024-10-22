@@ -1,0 +1,4 @@
+[20-10-24 19:43:22.100] Shuffmayn granted 32 access level on Shuffmayn.
+[20-10-24 19:43:34.318] Shuffmayn granted 1 access level on Shuffmayn.
+[20-10-24 19:43:34.319] Shuffmayn enabled invisibility on Shuffmayn.
+[20-10-24 19:43:38.354] Shuffmayn granted 32 access level on Shuffmayn.

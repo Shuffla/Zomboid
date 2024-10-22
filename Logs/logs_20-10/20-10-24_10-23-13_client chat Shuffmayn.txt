@@ -1,0 +1,18 @@
+[20-10-24 10:23:13.863][info] Init chat system....
+[20-10-24 10:23:13.863][info] Mode: multiplayer.
+[20-10-24 10:23:13.863][info] Chat owner: Shuffmayn.
+[20-10-24 10:24:27.864][info] Got message from server: ChatMessage{chat=Server, author='Server', text='Your access level is now: 32'}.
+[20-10-24 10:25:01.330][info] Got message from server: ChatMessage{chat=Server, author='Server', text='Your access level is now: 32'}.
+[20-10-24 10:25:13.114][info] Got message from server: ChatMessage{chat=Server, author='Server', text='Your access level is now: 32'}.
+[20-10-24 10:30:55.614][info] Got message from server: ChatMessage{chat=Server, author='Server', text='Your access level is now: 32'}.
+[20-10-24 10:53:45.697][info] Got message from server: ChatMessage{chat=Local, author='sumiii3', text='HEY YOU!'}.
+[20-10-24 10:53:50.831][info] Got message from server: ChatMessage{chat=Local, author='sumiii3', text='HEY!'}.
+[20-10-24 10:53:53.281][info] Got message from server: ChatMessage{chat=Local, author='sumiii3', text='psst'}.
+[20-10-24 10:54:31.448][info] Got message from server: ChatMessage{chat=Local, author='sumiii3', text='HEY YOU!'}.
+[20-10-24 11:16:36.531][info] Got message from server: ChatMessage{chat=Local, author='sumiii3', text='OVER HERE!'}.
+[20-10-24 11:19:41.365][info] Got message from server: ChatMessage{chat=Local, author='sumiii3', text='HEY YOU!'}.
+[20-10-24 11:21:06.780][info] Got message from server: ChatMessage{chat=Local, author='sumiii3', text='OVER HERE!'}.
+[20-10-24 11:23:05.530][info] Got message from server: ChatMessage{chat=Local, author='sumiii3', text='HEY YOU!'}.
+[20-10-24 11:23:15.648][info] Got message from server: ChatMessage{chat=Local, author='sumiii3', text='OVER HERE!'}.
+[20-10-24 11:33:40.232][info] Got message from server: ChatMessage{chat=Local, author='sumiii3', text='HEY!'}.
+[20-10-24 11:49:31.965][info] Got message from server: ChatMessage{chat=Server, author='Server', text='teleported sumiii3 to Shuffmayn'}.

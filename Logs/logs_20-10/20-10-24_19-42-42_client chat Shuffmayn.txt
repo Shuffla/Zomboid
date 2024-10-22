@@ -1,0 +1,9 @@
+[20-10-24 19:42:42.915][info] Init chat system....
+[20-10-24 19:42:42.915][info] Mode: multiplayer.
+[20-10-24 19:42:42.915][info] Chat owner: Shuffmayn.
+[20-10-24 19:43:04.141][info] Got message from server: ChatMessage{chat=Server, author='Server', text='Unknown command setacceslevel Shuffmayn admin'}.
+[20-10-24 19:43:13.974][info] Got message from server: ChatMessage{chat=Server, author='Server', text='Unknown command setacceslevel "Shuffmayn" admin'}.
+[20-10-24 19:43:22.124][info] Got message from server: ChatMessage{chat=Server, author='Server', text='Your access level is now: 32'}.
+[20-10-24 19:43:34.341][info] Got message from server: ChatMessage{chat=Server, author='Server', text='Your access level is now: 1'}.
+[20-10-24 19:43:34.342][info] Got message from server: ChatMessage{chat=Server, author='Server', text='User Shuffmayn is now invisible.'}.
+[20-10-24 19:43:38.374][info] Got message from server: ChatMessage{chat=Server, author='Server', text='Your access level is now: 32'}.

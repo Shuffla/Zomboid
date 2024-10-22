@@ -1,0 +1,23 @@
+[20-10-24 10:15:26.838] added connection index=0 127.0.0.1.
+[20-10-24 10:15:28.523] 76561197983853879 "Shuffmayn" attempting to join.
+[20-10-24 10:15:28.523] 76561197983853879 "Shuffmayn" allowed to join.
+[20-10-24 10:18:38.253] 76561197983853879 "Shuffmayn" attempting to join used queue.
+[20-10-24 10:19:32.510] player Shuffmayn loading time was: 22425 ms.
+[20-10-24 10:19:37.189] 76561197983853879 "Shuffmayn" fully connected (6117,5771,0).
+[20-10-24 10:21:46.081] added connection index=1 76.14.31.28.
+[20-10-24 10:21:51.682] null "null" removed connection index=1.
+[20-10-24 10:21:56.780] added connection index=1 207.47.119.214.
+[20-10-24 10:22:06.780] null "null" removed connection index=1.
+[20-10-24 10:22:17.501] user Shuffmayn died at (6118,5768,0) (non pvp).
+[20-10-24 10:22:40.197] added connection index=1 76.14.31.28.
+[20-10-24 10:22:41.869] 76561198101076415 "sumiii3" attempting to join.
+[20-10-24 10:22:41.870] 76561198101076415 "sumiii3" allowed to join.
+[20-10-24 10:23:11.701] 76561197983853879 "Shuffmayn" disconnected player (6118,5768,0).
+[20-10-24 10:23:13.839] 76561197983853879 "Shuffmayn" fully connected (6117,5771,0).
+[20-10-24 10:41:44.089] 76561198101076415 "sumiii3" attempting to join used queue.
+[20-10-24 10:42:51.586] player sumiii3 loading time was: 32631 ms.
+[20-10-24 10:43:41.204] 76561198101076415 "sumiii3" fully connected (6117,5771,0).
+[20-10-24 11:50:13.503] 76561198101076415 "sumiii3" removed connection index=1.
+[20-10-24 11:50:13.536] 76561198101076415 "sumiii3" disconnected player (6110,5765,0).
+[20-10-24 11:50:25.603] 76561197983853879 "Shuffmayn" removed connection index=0.
+[20-10-24 11:50:25.615] 76561197983853879 "Shuffmayn" disconnected player (6116,5770,0).

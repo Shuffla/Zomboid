@@ -1,2 +1,2 @@
-Engineer:engineer;FirstAid;
+Engineer:engineer;Underweight;Slack;Smoker;Snorer;FastReader;FirstAid;preparedcar;Lucky;superimmune;
 Mechanic:mechanics;preparedcar;

@@ -1,0 +1,4 @@
+[20-10-24 09:58:19.778] added connection index=0 127.0.0.1.
+[20-10-24 09:58:21.464] 76561197983853879 "Shuffmayn" attempting to join.
+[20-10-24 09:58:21.464] 76561197983853879 "Shuffmayn" allowed to join.
+[20-10-24 10:10:02.023] 76561197983853879 "Shuffmayn" removed connection index=0.

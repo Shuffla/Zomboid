@@ -1,0 +1,20 @@
+[20-10-24 10:19:38.737] [76561197983853879][Shuffmayn][6117,5771,0][Login][Hours Survived: 0].
+[20-10-24 10:19:38.738] [76561197983853879][Shuffmayn][6117,5771,0][Cooking=0, Fitness=3, Strength=4, Blunt=0, Axe=0, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=1, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=2, Electricity=1, MetalWelding=1, Mechanics=1, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0, Lockpicking=0][Hours Survived: 0].
+[20-10-24 10:19:38.738] [76561197983853879][Shuffmayn][6117,5771,0][Level Changed][Strength][3][Hours Survived: 0].
+[20-10-24 10:22:17.492] [76561197983853879][Shuffmayn][6118,5768,0][Died][Hours Survived: 1].
+[20-10-24 10:23:16.301] [76561197983853879][Shuffmayn][6117,5771,0][Created Player 1][Hours Survived: 0].
+[20-10-24 10:23:16.310] [76561197983853879][Shuffmayn][6117,5771,0][Cooking=0, Fitness=3, Strength=4, Blunt=0, Axe=0, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=1, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=2, Electricity=1, MetalWelding=1, Mechanics=1, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0, Lockpicking=0][Hours Survived: 0].
+[20-10-24 10:23:16.327] [76561197983853879][Shuffmayn][6117,5771,0][Level Changed][Strength][3][Hours Survived: 0].
+[20-10-24 10:43:43.943] [76561198101076415][sumiii3][6117,5771,0][Login][Hours Survived: 0].
+[20-10-24 10:43:43.953] [76561198101076415][sumiii3][6117,5771,0][Cooking=0, Fitness=5, Strength=5, Blunt=0, Axe=1, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=1, Aiming=0, Reloading=0, Farming=1, Fishing=0, Trapping=2, PlantScavenging=2, Doctor=2, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=1, SmallBlunt=0, Tailoring=0, Lockpicking=0][Hours Survived: 0].
+[20-10-24 11:44:27.395] [76561197983853879][Shuffmayn][7173,6078,0][Level Changed][Doctor][3][Hours Survived: 32].
+[20-10-24 11:44:27.688] [76561197983853879][Shuffmayn][7173,6078,0][Level Changed][Doctor][4][Hours Survived: 32].
+[20-10-24 11:44:28.243] [76561197983853879][Shuffmayn][7173,6078,0][Level Changed][Doctor][5][Hours Survived: 32].
+[20-10-24 11:44:28.440] [76561197983853879][Shuffmayn][7173,6078,0][Level Changed][Doctor][6][Hours Survived: 32].
+[20-10-24 11:44:28.618] [76561197983853879][Shuffmayn][7173,6078,0][Level Changed][Doctor][7][Hours Survived: 32].
+[20-10-24 11:44:35.153] [76561197983853879][Shuffmayn][7173,6078,0][Level Changed][Strength][4][Hours Survived: 32].
+[20-10-24 11:44:35.308] [76561197983853879][Shuffmayn][7173,6078,0][Level Changed][Strength][5][Hours Survived: 32].
+[20-10-24 11:44:35.457] [76561197983853879][Shuffmayn][7173,6078,0][Level Changed][Strength][6][Hours Survived: 32].
+[20-10-24 11:44:36.089] [76561197983853879][Shuffmayn][7173,6078,0][Level Changed][Strength][7][Hours Survived: 32].
+[20-10-24 11:44:36.327] [76561197983853879][Shuffmayn][7173,6078,0][Level Changed][Strength][8][Hours Survived: 32].
+[20-10-24 11:47:41.403] [76561198101076415][sumiii3][6954,5776,0][Level Changed][Sprinting][1][Hours Survived: 25].

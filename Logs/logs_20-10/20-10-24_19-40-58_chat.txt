@@ -1,0 +1,35 @@
+[20-10-24 19:40:58.425][info] Start chat server initialization....
+[20-10-24 19:40:58.430][info] General chat has id = 0.
+[20-10-24 19:40:58.430][info] Say chat has id = 1.
+[20-10-24 19:40:58.430][info] Shout chat has id = 2.
+[20-10-24 19:40:58.430][info] Radio chat has id = 3.
+[20-10-24 19:40:58.430][info] Admin chat has id = 4.
+[20-10-24 19:40:58.430][info] Server chat has id = 5.
+[20-10-24 19:40:58.430][info] Chat server successfully initialized.
+[20-10-24 19:42:42.898][info] Player with id = '0' tries to connect.
+[20-10-24 19:42:42.898][info] Adding player '0' to chat server.
+[20-10-24 19:42:42.899][info] Player joined to default chats.
+[20-10-24 19:42:42.899][info] Player Shuffmayn(0) joined to chat server successfully.
+[20-10-24 19:43:22.099][info] Player joined admin chat.
+[20-10-24 19:43:34.318][info] Player 0 are leaving admin chat....
+[20-10-24 19:43:34.318][info] Player 0 leaved admin chat.
+[20-10-24 19:43:38.354][info] Player joined admin chat.
+[20-10-24 19:50:01.956][info] Player with id = '4' tries to connect.
+[20-10-24 19:50:01.956][info] Adding player '4' to chat server.
+[20-10-24 19:50:01.956][info] Player joined to default chats.
+[20-10-24 19:50:01.956][info] Player sumiii3(4) joined to chat server successfully.
+[20-10-24 20:05:10.313][info] Got message:ChatMessage{chat=Local, author='Shuffmayn', text='HEY YOU!'}.
+[20-10-24 20:05:10.314][info] Message ChatMessage{chat=Local, author='Shuffmayn', text='HEY YOU!'} sent to chat (id = 2) members.
+[20-10-24 20:53:03.839][info] Player 0 disconnecting....
+[20-10-24 20:53:03.839][info] Disconnecting player 0 finished.
+[20-10-24 20:57:38.241][info] Player 0 disconnecting....
+[20-10-24 20:57:38.241][info] Disconnecting player 0 finished.
+[20-10-24 20:57:38.242][info] Player with id = '0' tries to connect.
+[20-10-24 20:57:38.242][info] Adding player '0' to chat server.
+[20-10-24 20:57:38.242][error] Player or connection is not found on server!.
+[20-10-24 20:57:38.242][error] player = null.
+[20-10-24 20:57:41.104][info] Player with id = '0' tries to connect.
+[20-10-24 20:57:41.104][info] Adding player '0' to chat server.
+[20-10-24 20:57:41.104][info] Player joined to default chats.
+[20-10-24 20:57:41.104][info] Player joined admin chat.
+[20-10-24 20:57:41.104][info] Player Shuffmayn(0) joined to chat server successfully.

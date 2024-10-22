@@ -1,0 +1,371 @@
+[20-10-24 19:46:24.899] 76561197983853879 "Shuffmayn" container -1 6107,5766,1 [Base.Hat_BalaclavaFull].
+[20-10-24 19:46:30.880] 76561197983853879 "Shuffmayn" container -1 6107,5766,1 [Base.Boxers_Hearts].
+[20-10-24 19:46:36.881] 76561197983853879 "Shuffmayn" container -1 6107,5766,1 [Base.Military_Ghillie].
+[20-10-24 19:46:48.877] 76561197983853879 "Shuffmayn" container -1 6107,5766,1 [Base.Bag_SSO].
+[20-10-24 19:46:51.879] 76561197983853879 "Shuffmayn" container -1 6107,5766,1 [Base.Screwdriver].
+[20-10-24 19:46:53.716] 76561197983853879 "Shuffmayn" floor +1 6108,5766,1 [Base.Trauma_Bag].
+[20-10-24 19:49:15.882] 76561197983853879 "Shuffmayn" container -1 6107,5766,1 [Base.Suppressor_Rifle].
+[20-10-24 19:49:18.888] 76561197983853879 "Shuffmayn" container -1 6107,5766,1 [Base.Light_Small_Socom].
+[20-10-24 19:49:24.887] 76561197983853879 "Shuffmayn" container -1 6109,5765,1 [Base.G21].
+[20-10-24 19:50:06.880] 76561197983853879 "Shuffmayn" container -1 6107,5766,1 [Base.45Clip].
+[20-10-24 19:50:09.879] 76561197983853879 "Shuffmayn" container -93 6107,5766,1 [Base.Bullets45].
+[20-10-24 19:51:42.879] 76561197983853879 "Shuffmayn" container -82 6108,5766,1 [Base.Pen, Base.Battery, Base.AlcoholBandage2Dirty, Base.MakeupEyeshadow, Base.SutureNeedleHolder, Base.WaterBottleEmpty, Base.Matches, Base.Disinfectant, Base.AlcoholBandage2, Base.Cigarettes, Base.Lighter, Base.SutureNeedle].
+[20-10-24 19:51:45.885] 76561197983853879 "Shuffmayn" container -5 6108,5766,1 [Base.TinOpener, MREM.MRE, Base.Disinfectant, farming.HandShovel].
+[20-10-24 19:51:48.887] 76561197983853879 "Shuffmayn" container -1 6108,5766,1 [Base.Crowbar].
+[20-10-24 19:51:58.064] 76561197983853879 "Shuffmayn" floor -1 6108,5766,1 [Base.Trauma_Bag].
+[20-10-24 19:52:00.880] 76561197983853879 "Shuffmayn" container +0 6107,5765,1 [Base.Trauma_Bag].
+[20-10-24 19:52:56.044] 76561198101076415 "sumiii3" container -1 6124,5767,0 [Base.Crowbar].
+[20-10-24 19:57:33.886] 76561197983853879 "Shuffmayn" container -2 6107,5766,1 [Base.9mmClip, Base.9mmExtClip].
+[20-10-24 19:57:47.034] 76561198101076415 "sumiii3" container -1 6112,5762,0 [Base.Cereal].
+[20-10-24 19:57:59.029] 76561198101076415 "sumiii3" container -1 6112,5762,0 [Base.Crisps3].
+[20-10-24 19:58:07.989] 76561197983853879 "Shuffmayn" floor +1 6110,5763,0 [Base.9mmExtClip].
+[20-10-24 19:58:08.000] 76561197983853879 "Shuffmayn" floor +1 6110,5763,0 [Base.9mmClip].
+[20-10-24 19:58:10.441] 76561197983853879 "Shuffmayn" floor +1 6110,5763,0 [Base.Bullets9mmBox].
+[20-10-24 19:58:10.487] 76561197983853879 "Shuffmayn" floor +1 6110,5763,0 [Base.Bullets9mmBox].
+[20-10-24 19:58:10.533] 76561197983853879 "Shuffmayn" floor +1 6110,5763,0 [Base.Bullets9mmBox].
+[20-10-24 19:58:10.588] 76561197983853879 "Shuffmayn" floor +1 6110,5763,0 [Base.Bullets9mmBox].
+[20-10-24 19:58:10.634] 76561197983853879 "Shuffmayn" floor +1 6110,5763,0 [Base.Bullets9mmBox].
+[20-10-24 19:58:10.683] 76561197983853879 "Shuffmayn" floor +1 6110,5763,0 [Base.Bullets9mmBox].
+[20-10-24 19:58:18.878] 76561197983853879 "Shuffmayn" container -1 6109,5762,0 [Base.CannedPineapple].
+[20-10-24 19:59:05.599] 76561197983853879 "Shuffmayn" floor -1 6112,5763,0 [Base.BeefJerky].
+[20-10-24 20:00:36.131] 76561197983853879 "Shuffmayn" floor +1 6145,5799,0 [Base.PillsAntiDep].
+[20-10-24 20:00:47.036] 76561198101076415 "sumiii3" floor -1 6145,5799,0 [Base.PillsAntiDep].
+[20-10-24 20:00:52.188] 76561198101076415 "sumiii3" floor +1 6146,5799,0 [Base.PillsAntiDep].
+[20-10-24 20:01:03.388] 76561198101076415 "sumiii3" floor -1 6146,5799,0 [Base.PillsAntiDep].
+[20-10-24 20:01:15.173] 76561198101076415 "sumiii3" floor +1 6146,5827,0 [Base.Hat_BaseballCapKY_Reverse].
+[20-10-24 20:01:28.270] 76561198101076415 "sumiii3" floor -1 6146,5827,0 [Base.Hat_BaseballCapKY_Reverse].
+[20-10-24 20:05:45.670] 76561198101076415 "sumiii3" floor +1 6489,5523,0 [farming.StrewberrieBagSeed].
+[20-10-24 20:05:45.671] 76561198101076415 "sumiii3" floor +1 6488,5525,0 [Base.Sheet].
+[20-10-24 20:05:45.672] 76561198101076415 "sumiii3" floor +1 6491,5523,0 [Base.Gravelbag].
+[20-10-24 20:05:58.082] 76561197983853879 "Shuffmayn" floor +1 6514,5502,0 [Base.Glue].
+[20-10-24 20:05:58.083] 76561197983853879 "Shuffmayn" floor +1 6515,5502,0 [Base.BlowTorch].
+[20-10-24 20:06:07.556] 76561198101076415 "sumiii3" floor +1 6478,5591,0 [Base.Hat_BaseballCapKY_Reverse].
+[20-10-24 20:06:20.700] 76561198101076415 "sumiii3" floor -1 6478,5591,0 [Base.Hat_BaseballCapKY_Reverse].
+[20-10-24 20:06:50.272] 76561197983853879 "Shuffmayn" floor +1 6487,5592,0 [Base.Hat_BaseballCap].
+[20-10-24 20:08:27.778] 76561198101076415 "sumiii3" floor +1 6489,5594,0 [Base.Hat_BaseballCapKY_Reverse].
+[20-10-24 20:08:55.105] 76561198101076415 "sumiii3" container -1 6500,5589,0 [Base.Ring_Left_RingFinger_GoldRuby].
+[20-10-24 20:09:50.029] 76561198101076415 "sumiii3" container -1 6498,5584,0 [Base.CannedChili].
+[20-10-24 20:09:56.025] 76561198101076415 "sumiii3" container -1 6498,5584,0 [Base.CannedMushroomSoup].
+[20-10-24 20:09:59.023] 76561198101076415 "sumiii3" container -1 6498,5584,0 [Base.CannedCornedBeef].
+[20-10-24 20:10:02.023] 76561198101076415 "sumiii3" container -1 6498,5584,0 [Base.CannedCorn].
+[20-10-24 20:10:05.022] 76561198101076415 "sumiii3" container -1 6498,5584,0 [SapphCooking.CanofBeets].
+[20-10-24 20:10:44.031] 76561198101076415 "sumiii3" container -1 6505,5584,0 [Base.Magazine].
+[20-10-24 20:10:57.881] 76561197983853879 "Shuffmayn" container -2 6505,5584,0 [Base.VHS_Retail].
+[20-10-24 20:11:14.017] 76561198101076415 "sumiii3" container -1 6505,5580,0 [Base.Newspaper].
+[20-10-24 20:11:25.704] 76561197983853879 "Shuffmayn" floor +1 6504,5582,0 [Base.TinCanEmpty].
+[20-10-24 20:11:35.016] 76561198101076415 "sumiii3" container -1 6505,5580,0 [Base.Scotchtape].
+[20-10-24 20:12:04.410] 76561198101076415 "sumiii3" container -1 6498,5581,0 [Base.Perfume].
+[20-10-24 20:12:26.020] 76561198101076415 "sumiii3" container -1 6498,5579,0 [DynamicBackpacks.UpgradeCapacityCloth].
+[20-10-24 20:12:54.269] 76561198101076415 "sumiii3" floor -1 6502,5580,0 [Base.Saw].
+[20-10-24 20:13:24.145] 76561197983853879 "Shuffmayn" floor +1 6548,5490,0 [Base.Book].
+[20-10-24 20:13:24.146] 76561197983853879 "Shuffmayn" floor +1 6548,5486,0 [Base.CannedMushroomSoup].
+[20-10-24 20:13:24.192] 76561197983853879 "Shuffmayn" floor +1 6552,5487,0 [Base.CannedSardines].
+[20-10-24 20:13:24.192] 76561197983853879 "Shuffmayn" floor +1 6551,5489,0 [Base.CannedCornedBeef].
+[20-10-24 20:13:24.193] 76561197983853879 "Shuffmayn" floor +1 6561,5484,0 [Base.Lipstick].
+[20-10-24 20:13:24.208] 76561197983853879 "Shuffmayn" floor +1 6552,5483,0 [Base.SheetPaper2].
+[20-10-24 20:13:24.209] 76561197983853879 "Shuffmayn" floor +1 6556,5484,0 [Base.DishCloth].
+[20-10-24 20:13:24.218] 76561197983853879 "Shuffmayn" floor +1 6559,5490,0 [Base.ElectronicsScrap].
+[20-10-24 20:13:24.219] 76561197983853879 "Shuffmayn" floor +1 6557,5486,0 [Base.Shoes_RidingBoots].
+[20-10-24 20:13:24.219] 76561197983853879 "Shuffmayn" floor +1 6557,5487,0 [Base.VHS_Retail].
+[20-10-24 20:13:24.228] 76561197983853879 "Shuffmayn" floor +1 6559,5489,0 [Base.Bullets45Box].
+[20-10-24 20:13:24.238] 76561197983853879 "Shuffmayn" floor +1 6560,5489,0 [DynamicBackpacks.UpgradeWeightReductionCloth].
+[20-10-24 20:13:24.239] 76561197983853879 "Shuffmayn" floor +1 6555,5485,0 [Radio.ElectricWire].
+[20-10-24 20:13:24.239] 76561197983853879 "Shuffmayn" floor +1 6556,5487,0 [Base.Shirt_FormalTINT].
+[20-10-24 20:13:24.284] 76561197983853879 "Shuffmayn" floor +1 6557,5478,0 [Base.WhiskeyEmpty].
+[20-10-24 20:13:24.304] 76561197983853879 "Shuffmayn" floor +1 6553,5490,0 [Base.DishCloth].
+[20-10-24 20:13:24.314] 76561197983853879 "Shuffmayn" floor +1 6500,5478,0 [Base.Notebook].
+[20-10-24 20:13:24.358] 76561197983853879 "Shuffmayn" floor +1 6496,5482,0 [Base.DriedBlackBeans].
+[20-10-24 20:13:24.359] 76561197983853879 "Shuffmayn" floor +1 6496,5484,0 [Base.TinOpener].
+[20-10-24 20:13:24.360] 76561197983853879 "Shuffmayn" floor +1 6499,5484,0 [Base.Plate].
+[20-10-24 20:13:24.370] 76561197983853879 "Shuffmayn" floor +1 6500,5483,0 [Base.Trousers].
+[20-10-24 20:13:24.371] 76561197983853879 "Shuffmayn" floor +1 6502,5483,0 [Base.Disc_Retail].
+[20-10-24 20:13:24.371] 76561197983853879 "Shuffmayn" floor +1 6503,5484,0 [Base.Magazine].
+[20-10-24 20:13:24.400] 76561197983853879 "Shuffmayn" floor +1 6519,5484,0 [Base.Newspaper].
+[20-10-24 20:13:24.401] 76561197983853879 "Shuffmayn" floor +1 6517,5487,0 [Base.TinOpener].
+[20-10-24 20:13:24.401] 76561197983853879 "Shuffmayn" floor +1 6521,5485,0 [Base.TomatoPaste].
+[20-10-24 20:13:24.401] 76561197983853879 "Shuffmayn" floor +1 6522,5486,0 [Base.TunaTin].
+[20-10-24 20:13:24.402] 76561197983853879 "Shuffmayn" floor +1 6520,5487,0 [Base.DriedSplitPeas].
+[20-10-24 20:13:24.425] 76561197983853879 "Shuffmayn" floor +1 6530,5480,0 [Base.Shirt_Scrubs].
+[20-10-24 20:13:24.509] 76561197983853879 "Shuffmayn" floor +1 6524,5480,0 [Base.Belt2].
+[20-10-24 20:13:24.534] 76561197983853879 "Shuffmayn" floor +1 6525,5475,0 [Base.PipeWrench].
+[20-10-24 20:13:24.534] 76561197983853879 "Shuffmayn" floor +1 6529,5475,0 [Base.PropaneTank].
+[20-10-24 20:13:24.535] 76561197983853879 "Shuffmayn" floor +1 6527,5476,0 [Base.SheetMetal].
+[20-10-24 20:13:24.535] 76561197983853879 "Shuffmayn" floor +1 6528,5476,0 [Base.Newspaper].
+[20-10-24 20:13:24.535] 76561197983853879 "Shuffmayn" floor +1 6525,5477,0 [Base.furniture_seating_outdoor_01_17].
+[20-10-24 20:13:24.559] 76561197983853879 "Shuffmayn" floor +1 6523,5486,0 [Base.Sponge].
+[20-10-24 20:13:24.560] 76561197983853879 "Shuffmayn" floor +1 6523,5487,0 [Base.Sheet].
+[20-10-24 20:13:24.566] 76561197983853879 "Shuffmayn" floor +1 6527,5488,0 [BicPen.BicPen].
+[20-10-24 20:13:48.878] 76561197983853879 "Shuffmayn" container -1 6475,5572,0 [Base.Scissors].
+[20-10-24 20:13:54.885] 76561197983853879 "Shuffmayn" container -1 6474,5566,0 [Base.Necklace_SilverCrucifix].
+[20-10-24 20:14:06.239] 76561197983853879 "Shuffmayn" container -1 6474,5566,0 [AuthenticZClothing.Dress_Short2].
+[20-10-24 20:14:19.040] 76561197983853879 "Shuffmayn" floor +1 6475,5577,0 [AuthenticZClothing.Dress_Short2].
+[20-10-24 20:14:25.307] 76561198101076415 "sumiii3" floor -1 6475,5577,0 [AuthenticZClothing.Dress_Short2].
+[20-10-24 20:15:03.878] 76561197983853879 "Shuffmayn" container -1 6475,5582,0 [Base.DogChain].
+[20-10-24 20:15:11.024] 76561198101076415 "sumiii3" container -1 6482,5579,0 [AdditionalBooks2.BookAiming1].
+[20-10-24 20:15:15.885] 76561197983853879 "Shuffmayn" container -2 6477,5582,0 [ExtraBooks.EBReloading1, Base.FishingMag2].
+[20-10-24 20:15:24.886] 76561197983853879 "Shuffmayn" container +0 6477,5582,0 [Base.FishingMag2].
+[20-10-24 20:22:09.887] 76561197983853879 "Shuffmayn" container -1 6482,5579,0 [SapphCooking.AsianFoodMagazine].
+[20-10-24 20:22:15.880] 76561197983853879 "Shuffmayn" container -1 6482,5579,0 [Base.Eraser].
+[20-10-24 20:22:21.883] 76561197983853879 "Shuffmayn" container -1 6482,5579,0 [Base.Magazine].
+[20-10-24 20:24:21.886] 76561197983853879 "Shuffmayn" container -2 6475,5587,0 [SapphCooking.CanofRefriedBeans, SapphCooking.CanofProteinPowder].
+[20-10-24 20:24:24.897] 76561197983853879 "Shuffmayn" container -3 6475,5587,0 [Base.Dogfood, SapphCooking.CannedBread, Base.CannedPineapple].
+[20-10-24 20:24:51.887] 76561197983853879 "Shuffmayn" container -1 6477,5584,0 [Base.Sheet].
+[20-10-24 20:24:54.890] 76561197983853879 "Shuffmayn" container -1 6477,5584,0 [Base.Tweezers].
+[20-10-24 20:25:06.885] 76561197983853879 "Shuffmayn" container -1 6480,5585,0 [KCMweapons.DoomsdayPreppers1].
+[20-10-24 20:25:15.877] 76561197983853879 "Shuffmayn" container -1 6480,5585,0 [Base.Bag_FannyPackFront].
+[20-10-24 20:25:18.881] 76561197983853879 "Shuffmayn" container +0 6480,5585,0 [KCMweapons.DoomsdayPreppers1].
+[20-10-24 20:25:21.883] 76561197983853879 "Shuffmayn" container -1 6480,5585,0 [KCMweapons.DoomsdayPreppers1].
+[20-10-24 20:25:27.882] 76561197983853879 "Shuffmayn" container -1 6480,5585,0 [Base.ClosedUmbrellaBlack].
+[20-10-24 20:25:42.899] 76561197983853879 "Shuffmayn" container -1 6480,5584,0 [Tsarcraft.CassetteThePoguesFairytaleOfNewYork(1987)].
+[20-10-24 20:25:48.881] 76561197983853879 "Shuffmayn" container -1 6480,5584,0 [Base.Hot_Pants].
+[20-10-24 20:25:51.883] 76561197983853879 "Shuffmayn" container -2 6480,5584,0 [Base.TightsFishnets, DynamicBackpacks.UpgradeCapacityJean].
+[20-10-24 20:27:31.864] 76561197983853879 "Shuffmayn" floor +1 6482,5584,0 [Base.Hot_Pants].
+[20-10-24 20:27:32.136] 76561197983853879 "Shuffmayn" floor +1 6482,5584,0 [Base.TightsFishnets].
+[20-10-24 20:27:38.499] 76561197983853879 "Shuffmayn" floor -1 6482,5584,0 [Base.Hot_Pants].
+[20-10-24 20:27:38.613] 76561197983853879 "Shuffmayn" floor -1 6482,5584,0 [Base.TightsFishnets].
+[20-10-24 20:27:53.013] 76561198101076415 "sumiii3" container -1 6475,5585,0 [SapphCooking.BowlJello_Lime].
+[20-10-24 20:27:56.012] 76561198101076415 "sumiii3" container +0 6475,5585,0 [Base.Bowl].
+[20-10-24 20:27:57.878] 76561197983853879 "Shuffmayn" container -1 6477,5582,0 [Base.FishingMag2].
+[20-10-24 20:28:06.902] 76561197983853879 "Shuffmayn" container +0 6477,5582,0 [Base.FishingMag2].
+[20-10-24 20:28:08.018] 76561198101076415 "sumiii3" container -1 6475,5585,0 [farming.Cabbage].
+[20-10-24 20:28:29.023] 76561198101076415 "sumiii3" container -1 6477,5588,0 [Base.BeefJerky].
+[20-10-24 20:29:03.123] 76561197983853879 "Shuffmayn" floor +1 6477,5583,0 [Base.Hot_Pants].
+[20-10-24 20:29:03.383] 76561197983853879 "Shuffmayn" floor +1 6477,5583,0 [Base.TightsFishnets].
+[20-10-24 20:29:35.679] 76561198101076415 "sumiii3" floor -1 6477,5583,0 [Base.Hot_Pants].
+[20-10-24 20:29:38.968] 76561198101076415 "sumiii3" floor -1 6477,5583,0 [Base.TightsFishnets].
+[20-10-24 20:29:46.887] 76561198101076415 "sumiii3" floor -1 6477,5584,0 [Base.SewingKit].
+[20-10-24 20:31:38.012] 76561198101076415 "sumiii3" container -2 6460,5586,0 [Base.Apple, Base.Cherry].
+[20-10-24 20:31:47.009] 76561198101076415 "sumiii3" container -1 6460,5586,0 [SapphCooking.ArborioRiceBowl].
+[20-10-24 20:32:05.031] 76561198101076415 "sumiii3" container -1 6460,5589,0 [Base.CannedFruitCocktail].
+[20-10-24 20:32:09.877] 76561197983853879 "Shuffmayn" container -2 6461,5583,0 [Tsarcraft.VinylMaxPayne, Base.VHS_Retail].
+[20-10-24 20:32:15.887] 76561197983853879 "Shuffmayn" container -1 6461,5583,0 [Base.ElectronicsMag2].
+[20-10-24 20:32:22.890] 76561198101076415 "sumiii3" floor -1 6462,5587,0 [Base.Crisps4].
+[20-10-24 20:32:24.891] 76561197983853879 "Shuffmayn" container +0 6461,5583,0 [Base.ElectronicsMag2].
+[20-10-24 20:32:54.890] 76561197983853879 "Shuffmayn" container -1 6467,5580,0 [Base.Battery].
+[20-10-24 20:33:00.879] 76561197983853879 "Shuffmayn" container -1 6467,5580,0 [Base.Hammer].
+[20-10-24 20:34:33.881] 76561197983853879 "Shuffmayn" container -1 6445,5588,0 [Base.Chocolate].
+[20-10-24 20:34:38.620] 76561197983853879 "Shuffmayn" floor -1 6445,5586,0 [Base.CleaningLiquid2].
+[20-10-24 20:34:48.879] 76561197983853879 "Shuffmayn" container -2 6445,5586,0 [Base.BakingSoda, Base.TomatoPaste].
+[20-10-24 20:34:51.882] 76561197983853879 "Shuffmayn" container -4 6445,5586,0 [SapphCooking.BagofSeaweed, SapphCooking.BagofWontonWrappers, Base.TinnedBeans, Base.CannedPineapple].
+[20-10-24 20:34:54.883] 76561197983853879 "Shuffmayn" container -3 6445,5586,0 [Base.Dogfood, Base.CannedPotato2, SapphCooking.InstantNoodles_Beef].
+[20-10-24 20:35:05.006] 76561198101076415 "sumiii3" container -1 6445,5589,0 [farming.Strewberrie].
+[20-10-24 20:35:10.999] 76561198101076415 "sumiii3" container -1 6445,5589,0 [Base.WaterBottleFull].
+[20-10-24 20:35:51.889] 76561197983853879 "Shuffmayn" container -1 6445,5584,0 [Base.Saw].
+[20-10-24 20:36:35.306] 76561197983853879 "Shuffmayn" floor +1 6435,5565,0 [Base.Brass45].
+[20-10-24 20:36:36.132] 76561197983853879 "Shuffmayn" floor +1 6435,5565,0 [Base.Brass45].
+[20-10-24 20:36:36.967] 76561197983853879 "Shuffmayn" floor +1 6435,5565,0 [Base.Brass45].
+[20-10-24 20:36:40.709] 76561197983853879 "Shuffmayn" floor +1 6435,5565,0 [Base.Brass45].
+[20-10-24 20:36:41.796] 76561197983853879 "Shuffmayn" floor +1 6435,5565,0 [Base.Brass45].
+[20-10-24 20:36:42.647] 76561197983853879 "Shuffmayn" floor +1 6435,5565,0 [Base.Brass45].
+[20-10-24 20:36:43.876] 76561197983853879 "Shuffmayn" floor +1 6435,5565,0 [Base.Brass45].
+[20-10-24 20:36:45.373] 76561197983853879 "Shuffmayn" floor +1 6435,5565,0 [Base.Brass45].
+[20-10-24 20:36:47.340] 76561197983853879 "Shuffmayn" floor +1 6435,5565,0 [Base.Brass45].
+[20-10-24 20:36:48.850] 76561197983853879 "Shuffmayn" floor +1 6435,5565,0 [Base.Brass45].
+[20-10-24 20:36:49.802] 76561197983853879 "Shuffmayn" floor +1 6435,5565,0 [Base.Brass45].
+[20-10-24 20:36:51.384] 76561197983853879 "Shuffmayn" floor +1 6435,5565,0 [Base.Brass45].
+[20-10-24 20:36:52.839] 76561197983853879 "Shuffmayn" floor +1 6435,5565,0 [Base.Brass45].
+[20-10-24 20:36:55.874] 76561197983853879 "Shuffmayn" floor +1 6435,5565,0 [Base.Brass45].
+[20-10-24 20:37:57.896] 76561197983853879 "Shuffmayn" container -2 6433,5563,0 [Base.Underpants_White, Base.Bra_Strapless_White].
+[20-10-24 20:38:00.884] 76561197983853879 "Shuffmayn" container -1 6434,5563,0 [Base.Briefs_White].
+[20-10-24 20:38:30.878] 76561197983853879 "Shuffmayn" container -1 6431,5561,0 [Base.LouisvilleMap1].
+[20-10-24 20:38:48.884] 76561197983853879 "Shuffmayn" container -1 6431,5561,0 [Base.Jumper_RoundNeckTIED].
+[20-10-24 20:39:30.221] 76561197983853879 "Shuffmayn" floor +1 6426,5581,0 [Base.Glasses_Normal].
+[20-10-24 20:39:54.881] 76561197983853879 "Shuffmayn" container -1 6429,5585,0 [Base.SpoonMagazinePrserving].
+[20-10-24 20:40:03.878] 76561197983853879 "Shuffmayn" container +0 6429,5585,0 [Base.SpoonMagazinePrserving].
+[20-10-24 20:40:09.887] 76561197983853879 "Shuffmayn" container -1 6429,5585,0 [Base.VHS_Retail].
+[20-10-24 20:40:27.882] 76561197983853879 "Shuffmayn" container -1 6429,5585,0 [Autotsar.ATATuningFordMustang].
+[20-10-24 20:40:36.888] 76561197983853879 "Shuffmayn" container +0 6429,5585,0 [Autotsar.ATATuningFordMustang].
+[20-10-24 20:40:41.006] 76561198101076415 "sumiii3" container -1 6431,5589,0 [SapphCooking.BottlewithMilk].
+[20-10-24 20:40:45.882] 76561197983853879 "Shuffmayn" container -1 6431,5584,0 [Tsarcraft.VinylAliceCooperPoison(1989)].
+[20-10-24 20:40:50.003] 76561198101076415 "sumiii3" container +0 6431,5589,0 [Base.WaterBottleEmpty].
+[20-10-24 20:40:57.881] 76561197983853879 "Shuffmayn" container -1 6431,5588,0 [Base.Crisps3].
+[20-10-24 20:40:59.007] 76561198101076415 "sumiii3" container -1 6431,5589,0 [SapphCooking.StrawberryMilk].
+[20-10-24 20:41:34.997] 76561198101076415 "sumiii3" container -1 6431,5588,0 [Base.BeefJerky].
+[20-10-24 20:42:00.883] 76561197983853879 "Shuffmayn" container -1 6431,5586,0 [Base.CannedFruitCocktail].
+[20-10-24 20:42:03.877] 76561197983853879 "Shuffmayn" container -4 6431,5586,0 [Base.CannedMushroomSoup, Base.CannedSardines, Base.CannedBolognese, Base.CannedFruitCocktail].
+[20-10-24 20:42:06.880] 76561197983853879 "Shuffmayn" container -3 6431,5586,0 [Base.TinnedSoup, Base.CannedBolognese, Base.CannedTomato2].
+[20-10-24 20:42:33.878] 76561197983853879 "Shuffmayn" container -1 6427,5588,0 [KCMweapons.KCM_Compound].
+[20-10-24 20:42:40.979] 76561197983853879 "Shuffmayn" floor -1 6426,5588,0 [Base.ComicBook].
+[20-10-24 20:42:47.006] 76561198101076415 "sumiii3" container -2 6431,5583,0 [Base.Bandaid].
+[20-10-24 20:42:53.008] 76561198101076415 "sumiii3" container -1 6431,5583,0 [Base.Disinfectant].
+[20-10-24 20:43:11.000] 76561198101076415 "sumiii3" container -1 6429,5585,0 [dtitems.DTBoredomBook5].
+[20-10-24 20:43:55.103] 76561198101076415 "sumiii3" floor +1 6424,5581,0 [dtitems.DTBoredomBook5].
+[20-10-24 20:46:09.884] 76561197983853879 "Shuffmayn" container -1 6431,5589,0 [Base.Salami].
+[20-10-24 20:46:59.704] 76561197983853879 "Shuffmayn" floor +1 6340,5485,0 [Base.BluePen].
+[20-10-24 20:46:59.705] 76561197983853879 "Shuffmayn" floor +1 6342,5486,0 [Base.GP5M_Gasmask].
+[20-10-24 20:46:59.706] 76561197983853879 "Shuffmayn" floor +1 6343,5486,0 [Base.HandTorch].
+[20-10-24 20:46:59.719] 76561197983853879 "Shuffmayn" floor +1 6336,5480,0 [Base.Magazine].
+[20-10-24 20:46:59.719] 76561197983853879 "Shuffmayn" floor +1 6332,5481,0 [Base.Newspaper].
+[20-10-24 20:46:59.720] 76561197983853879 "Shuffmayn" floor +1 6333,5481,0 [Base.DishCloth].
+[20-10-24 20:46:59.720] 76561197983853879 "Shuffmayn" floor +1 6335,5483,0 [Base.Pot].
+[20-10-24 20:46:59.749] 76561197983853879 "Shuffmayn" floor +1 6340,5480,0 [Base.Pepper].
+[20-10-24 20:46:59.750] 76561197983853879 "Shuffmayn" floor +1 6338,5478,0 [Base.Magazine].
+[20-10-24 20:46:59.773] 76561197983853879 "Shuffmayn" floor +1 6330,5477,0 [Base.HandTorch].
+[20-10-24 20:46:59.774] 76561197983853879 "Shuffmayn" floor +1 6331,5479,0 [Base.Book].
+[20-10-24 20:46:59.775] 76561197983853879 "Shuffmayn" floor +1 6328,5477,0 [Base.Drumstick].
+[20-10-24 20:46:59.813] 76561197983853879 "Shuffmayn" floor +1 6333,5485,0 [Base.LightBulb].
+[20-10-24 20:46:59.814] 76561197983853879 "Shuffmayn" floor +1 6334,5487,0 [Base.PropaneTank].
+[20-10-24 20:46:59.838] 76561197983853879 "Shuffmayn" floor +1 6342,5483,0 [Base.Socks_Ankle].
+[20-10-24 20:47:13.000] 76561197983853879 "Shuffmayn" floor +1 6409,5556,0 [Base.Brass45].
+[20-10-24 20:47:14.683] 76561197983853879 "Shuffmayn" floor +1 6409,5556,0 [Base.Brass45].
+[20-10-24 20:47:16.685] 76561197983853879 "Shuffmayn" floor +1 6409,5556,0 [Base.Brass45].
+[20-10-24 20:47:18.401] 76561197983853879 "Shuffmayn" floor +1 6409,5556,0 [Base.Brass45].
+[20-10-24 20:47:22.467] 76561197983853879 "Shuffmayn" floor +1 6409,5556,0 [Base.Brass45].
+[20-10-24 20:47:23.734] 76561197983853879 "Shuffmayn" floor +1 6409,5556,0 [Base.Hat_Ranger].
+[20-10-24 20:47:24.350] 76561197983853879 "Shuffmayn" floor +1 6409,5556,0 [Base.Brass45].
+[20-10-24 20:47:28.715] 76561197983853879 "Shuffmayn" floor +1 6409,5556,0 [Base.Brass45].
+[20-10-24 20:47:30.821] 76561197983853879 "Shuffmayn" floor +1 6409,5556,0 [Base.Brass45].
+[20-10-24 20:47:36.078] 76561197983853879 "Shuffmayn" floor +1 6409,5556,0 [Base.Brass45].
+[20-10-24 20:47:37.239] 76561197983853879 "Shuffmayn" floor +1 6409,5556,0 [Base.Brass45].
+[20-10-24 20:47:37.841] 76561197983853879 "Shuffmayn" floor +1 6409,5556,0 [Base.Brass45].
+[20-10-24 20:47:47.865] 76561197983853879 "Shuffmayn" floor +1 6416,5563,0 [Base.Brass45].
+[20-10-24 20:47:48.481] 76561197983853879 "Shuffmayn" floor +1 6416,5563,0 [Base.Brass45].
+[20-10-24 20:47:49.830] 76561197983853879 "Shuffmayn" floor +1 6416,5563,0 [Base.Brass45].
+[20-10-24 20:48:59.766] 76561197983853879 "Shuffmayn" floor +1 6341,5463,0 [Base.Needle].
+[20-10-24 20:48:59.767] 76561197983853879 "Shuffmayn" floor +1 6342,5463,0 [Base.WristWatch_Left_DigitalDress].
+[20-10-24 20:48:59.767] 76561197983853879 "Shuffmayn" floor +1 6341,5464,0 [Base.Earbuds].
+[20-10-24 20:48:59.767] 76561197983853879 "Shuffmayn" floor +1 6343,5464,0 [Base.ComicBook].
+[20-10-24 20:48:59.789] 76561197983853879 "Shuffmayn" floor +1 6332,5452,0 [Base.Plunger].
+[20-10-24 20:48:59.823] 76561197983853879 "Shuffmayn" floor +1 6341,5451,0 [Base.PlateOrange].
+[20-10-24 20:48:59.823] 76561197983853879 "Shuffmayn" floor +1 6344,5453,0 [Base.Plate].
+[20-10-24 20:48:59.833] 76561197983853879 "Shuffmayn" floor +1 6333,5459,0 [Base.BathTowel].
+[20-10-24 20:48:59.833] 76561197983853879 "Shuffmayn" floor +1 6337,5459,0 [Base.TinOpener].
+[20-10-24 20:48:59.852] 76561197983853879 "Shuffmayn" floor +1 6331,5454,0 [Base.Disc_Retail].
+[20-10-24 20:48:59.867] 76561197983853879 "Shuffmayn" floor +1 6343,5457,0 [Base.Newspaper].
+[20-10-24 20:48:59.868] 76561197983853879 "Shuffmayn" floor +1 6343,5459,0 [Base.VHS_Retail].
+[20-10-24 20:48:59.877] 76561197983853879 "Shuffmayn" floor +1 6344,5459,0 [Base.Magazine].
+[20-10-24 20:48:59.898] 76561197983853879 "Shuffmayn" floor +1 6337,5460,0 [Base.Drumstick].
+[20-10-24 20:50:01.991] 76561198101076415 "sumiii3" container +0 6409,5546,0 [Base.CannedCorn, Base.CannedChili].
+[20-10-24 20:50:04.997] 76561198101076415 "sumiii3" container +0 6409,5546,0 [Base.CannedCornedBeef, Base.CannedFruitCocktail].
+[20-10-24 20:50:07.995] 76561198101076415 "sumiii3" container +0 6409,5546,0 [Base.CannedMushroomSoup].
+[20-10-24 20:50:09.880] 76561197983853879 "Shuffmayn" container +0 6409,5546,0 [Base.DogChain, Base.MakeupEyeshadow, Base.BakingSoda].
+[20-10-24 20:50:10.996] 76561198101076415 "sumiii3" container +0 6409,5546,0 [DynamicBackpacks.UpgradeCapacityCloth].
+[20-10-24 20:50:12.882] 76561197983853879 "Shuffmayn" container +0 6409,5546,0 [Base.CleaningLiquid2].
+[20-10-24 20:50:15.878] 76561197983853879 "Shuffmayn" container +0 6409,5546,0 [Base.Military_Ghillie].
+[20-10-24 20:50:16.993] 76561198101076415 "sumiii3" container +0 6409,5546,0 [AdditionalBooks2.BookAiming1].
+[20-10-24 20:50:18.885] 76561197983853879 "Shuffmayn" container +0 6409,5546,0 [Base.Hat_BalaclavaFull].
+[20-10-24 20:50:21.883] 76561197983853879 "Shuffmayn" container +0 6409,5546,0 [SapphCooking.BagofWontonWrappers].
+[20-10-24 20:50:22.998] 76561198101076415 "sumiii3" container +0 6409,5546,0 [Base.Disinfectant].
+[20-10-24 20:50:24.881] 76561197983853879 "Shuffmayn" container +0 6409,5546,0 [SapphCooking.CanofRefriedBeans, SapphCooking.CanofProteinPowder].
+[20-10-24 20:50:27.881] 76561197983853879 "Shuffmayn" container +0 6409,5546,0 [Base.TinnedBeans].
+[20-10-24 20:50:28.996] 76561198101076415 "sumiii3" container +0 6409,5546,0 [SapphCooking.CanofBeets].
+[20-10-24 20:50:30.883] 76561197983853879 "Shuffmayn" container +0 6409,5546,0 [SapphCooking.CannedBread, Base.CannedFruitCocktail].
+[20-10-24 20:50:31.995] 76561198101076415 "sumiii3" container +0 6409,5546,0 [Base.Scotchtape].
+[20-10-24 20:50:33.886] 76561197983853879 "Shuffmayn" container +0 6409,5546,0 [Base.CannedFruitCocktail].
+[20-10-24 20:50:36.881] 76561197983853879 "Shuffmayn" container +0 6409,5546,0 [Base.CannedMushroomSoup, Base.CannedPineapple].
+[20-10-24 20:50:39.888] 76561197983853879 "Shuffmayn" container +0 6409,5546,0 [Base.CannedPineapple].
+[20-10-24 20:50:40.991] 76561198101076415 "sumiii3" container +0 6409,5546,0 [Base.Perfume].
+[20-10-24 20:50:42.885] 76561197983853879 "Shuffmayn" container +0 6409,5546,0 [Base.CannedSardines, Base.CannedPotato2].
+[20-10-24 20:50:45.885] 76561197983853879 "Shuffmayn" container +0 6409,5546,0 [Base.CannedBolognese].
+[20-10-24 20:50:48.879] 76561197983853879 "Shuffmayn" container +0 6409,5546,0 [Base.CannedBolognese, Base.CannedTomato2].
+[20-10-24 20:50:51.880] 76561197983853879 "Shuffmayn" container +0 6409,5546,0 [Base.TinnedSoup].
+[20-10-24 20:50:54.882] 76561197983853879 "Shuffmayn" container +0 6409,5546,0 [Base.Dogfood].
+[20-10-24 20:53:03.323] 76561197983853879 "Shuffmayn" floor +1 6408,5550,0 [Base.G21].
+[20-10-24 20:53:03.324] 76561197983853879 "Shuffmayn" floor +1 6408,5550,0 [Base.HandAxe].
+[20-10-24 20:54:34.993] 76561198101076415 "sumiii3" container -5 6408,5550,0 [AuthenticZClothing.Bag_MilitaryWebbingTightened_AZ, Base.RippedSheets, Base.WristWatch_Left_DigitalDress].
+[20-10-24 20:54:40.989] 76561198101076415 "sumiii3" container -3 6408,5550,0 [Base.KeyRing, Base.Sheet, Base.Bag_SSO].
+[20-10-24 20:54:46.993] 76561198101076415 "sumiii3" container -3 6408,5550,0 [Base.Jacket_RangerOPENROLL, Base.Trousers_Ranger, Base.Shirt_RangerOPENROLL].
+[20-10-24 20:55:19.993] 76561198101076415 "sumiii3" container +0 6409,5546,0 [AuthenticZClothing.Bag_MilitaryWebbingTightened_AZ, Base.WristWatch_Left_DigitalDress].
+[20-10-24 20:55:23.000] 76561198101076415 "sumiii3" container +0 6409,5546,0 [Base.RippedSheets].
+[20-10-24 20:55:25.993] 76561198101076415 "sumiii3" container +0 6409,5546,0 [Base.WristWatch_Left_DigitalBlack].
+[20-10-24 20:55:28.998] 76561198101076415 "sumiii3" container +0 6409,5546,0 [Base.Socks_Ankle].
+[20-10-24 20:55:31.992] 76561198101076415 "sumiii3" container +0 6409,5546,0 [AuthenticZClothing.Dress_Short2].
+[20-10-24 20:55:34.992] 76561198101076415 "sumiii3" container +0 6409,5546,0 [Base.Sheet].
+[20-10-24 20:55:37.986] 76561198101076415 "sumiii3" container +0 6409,5546,0 [Base.SewingKit].
+[20-10-24 20:55:43.998] 76561198101076415 "sumiii3" container +0 6409,5546,0 [Base.Screwdriver].
+[20-10-24 20:55:46.988] 76561198101076415 "sumiii3" container +0 6409,5546,0 [Base.Saw].
+[20-10-24 20:55:52.999] 76561198101076415 "sumiii3" container +0 6409,5546,0 [Base.Bag_SSO].
+[20-10-24 20:55:55.993] 76561198101076415 "sumiii3" container +0 6409,5546,0 [Base.Ring_Left_RingFinger_SilverDiamond].
+[20-10-24 20:55:58.997] 76561198101076415 "sumiii3" container +0 6409,5546,0 [Base.Shirt_RangerOPENROLL].
+[20-10-24 20:56:01.990] 76561198101076415 "sumiii3" container +0 6409,5546,0 [Base.Trousers_Ranger].
+[20-10-24 20:56:07.985] 76561198101076415 "sumiii3" container +0 6409,5546,0 [Base.Jacket_RangerOPENROLL].
+[20-10-24 20:56:10.994] 76561198101076415 "sumiii3" container +0 6409,5546,0 [Base.Trousers_DefaultTEXTURE_TINT].
+[20-10-24 20:56:49.994] 76561198101076415 "sumiii3" container -1 6408,5550,0 [Base.Bullets45].
+[20-10-24 20:56:52.992] 76561198101076415 "sumiii3" container -1 6408,5550,0 [Base.Belt2].
+[20-10-24 20:56:55.990] 76561198101076415 "sumiii3" container -1 6408,5550,0 [Base.Boxers_Hearts].
+[20-10-24 20:57:01.987] 76561198101076415 "sumiii3" container -1 6408,5550,0 [AuthenticZBackpacksPlus.AuthenticCanteenSilverfull].
+[20-10-24 20:57:04.989] 76561198101076415 "sumiii3" container -1 6408,5550,0 [Base.Bag_FannyPackFront].
+[20-10-24 20:57:07.989] 76561198101076415 "sumiii3" container -1 6408,5550,0 [Base.HolsterSimpleL].
+[20-10-24 20:57:10.989] 76561198101076415 "sumiii3" container -1 6408,5550,0 [Base.KitchenKnife].
+[20-10-24 20:57:13.993] 76561198101076415 "sumiii3" container -1 6408,5550,0 [Base.Tshirt_WhiteLongSleeveTINTROLL].
+[20-10-24 20:57:16.986] 76561198101076415 "sumiii3" container -1 6408,5550,0 [Base.Socks_Long].
+[20-10-24 20:57:19.991] 76561198101076415 "sumiii3" container -1 6408,5550,0 [Base.LouisvilleMap1].
+[20-10-24 20:57:22.991] 76561198101076415 "sumiii3" container -1 6408,5550,0 [Base.Glove_Mechanix].
+[20-10-24 20:57:25.610] 76561198101076415 "sumiii3" container -1 6408,5550,0 [Base.Necklace_SilverCrucifix].
+[20-10-24 20:57:46.989] 76561198101076415 "sumiii3" container +0 6409,5546,0 [Base.LouisvilleMap1].
+[20-10-24 20:57:49.987] 76561198101076415 "sumiii3" container +0 6409,5546,0 [Base.Glove_Mechanix].
+[20-10-24 20:57:52.986] 76561198101076415 "sumiii3" container +0 6409,5546,0 [Base.Socks_Long].
+[20-10-24 20:57:58.990] 76561198101076415 "sumiii3" container +0 6409,5546,0 [Base.Tshirt_WhiteLongSleeveTINTROLL].
+[20-10-24 20:58:01.984] 76561198101076415 "sumiii3" container +0 6409,5546,0 [Base.HolsterSimpleL].
+[20-10-24 20:58:13.987] 76561198101076415 "sumiii3" container -1 6408,5550,0 [Base.Vest_DefaultTEXTURE_TINT].
+[20-10-24 20:58:15.380] 76561197983853879 "Shuffmayn" floor +1 6117,5771,0 [Base.Bag_JanitorToolbox].
+[20-10-24 20:58:16.984] 76561198101076415 "sumiii3" container -1 6408,5550,0 [Base.Shoes_TrainerTINT].
+[20-10-24 20:58:19.083] 76561197983853879 "Shuffmayn" floor +1 6117,5771,0 [Base.PetrolCan].
+[20-10-24 20:58:19.991] 76561198101076415 "sumiii3" container -1 6408,5550,0 [Base.Jumper_RoundNeckTIED].
+[20-10-24 21:01:05.792] 76561198101076415 "sumiii3" floor +1 6115,5771,0 [Base.Shoes_TrainerTINT].
+[20-10-24 21:01:08.788] 76561198101076415 "sumiii3" floor +1 6115,5771,0 [Base.Jumper_RoundNeckTIED].
+[20-10-24 21:01:11.577] 76561198101076415 "sumiii3" floor +1 6115,5771,0 [Base.Ring_Right_MiddleFinger_Silver].
+[20-10-24 21:01:15.226] 76561198101076415 "sumiii3" floor +1 6115,5771,0 [Base.Necklace_SilverCrucifix].
+[20-10-24 21:01:15.227] 76561198101076415 "sumiii3" floor +1 6115,5771,0 [Base.Necklace_SilverCrucifix].
+[20-10-24 21:01:18.705] 76561198101076415 "sumiii3" floor +1 6115,5771,0 [Base.KitchenKnife].
+[20-10-24 21:01:22.253] 76561198101076415 "sumiii3" floor +1 6115,5771,0 [Base.Bag_FannyPackFront].
+[20-10-24 21:01:30.477] 76561198101076415 "sumiii3" floor +1 6115,5771,0 [AuthenticZBackpacksPlus.AuthenticCanteenSilverfull].
+[20-10-24 21:01:38.788] 76561198101076415 "sumiii3" floor +1 6115,5771,0 [Base.Belt2].
+[20-10-24 21:01:43.087] 76561198101076415 "sumiii3" floor +1 6115,5771,0 [Base.Bullets45].
+[20-10-24 21:01:53.211] 76561198101076415 "sumiii3" floor +1 6115,5771,0 [Base.KeyRing].
+[20-10-24 21:02:21.880] 76561197983853879 "Shuffmayn" container -1 6117,5773,0 [Base.Bag_SSO].
+[20-10-24 21:02:26.719] 76561197983853879 "Shuffmayn" floor -1 6115,5771,0 [Base.KeyRing].
+[20-10-24 21:02:30.521] 76561197983853879 "Shuffmayn" floor +1 6115,5770,0 [Base.KeyRing].
+[20-10-24 21:02:45.879] 76561197983853879 "Shuffmayn" container -1 6117,5773,0 [AuthenticZClothing.Bag_MilitaryWebbingTightened_AZ].
+[20-10-24 21:03:14.043] 76561197983853879 "Shuffmayn" floor -1 6115,5770,0 [Base.KeyRing].
+[20-10-24 21:03:14.063] 76561197983853879 "Shuffmayn" floor -1 6115,5771,0 [Base.Bullets45].
+[20-10-24 21:03:14.821] 76561197983853879 "Shuffmayn" floor -1 6115,5771,0 [Base.Necklace_SilverCrucifix].
+[20-10-24 21:03:14.821] 76561197983853879 "Shuffmayn" floor -1 6115,5771,0 [Base.Necklace_SilverCrucifix].
+[20-10-24 21:03:15.175] 76561197983853879 "Shuffmayn" floor -1 6115,5771,0 [Base.Ring_Right_MiddleFinger_Silver].
+[20-10-24 21:03:15.888] 76561197983853879 "Shuffmayn" container -14 6117,5773,0 [Base.Glove_Mechanix, Base.WristWatch_Left_DigitalBlack, Base.RippedSheets, Base.MakeupEyeshadow, Base.Socks_Long, Base.SewingKit, Base.Scotchtape, Base.Socks_Ankle, Base.Ring_Left_RingFinger_SilverDiamond, Base.Perfume, Base.LouisvilleMap1, Base.WristWatch_Left_DigitalDress].
+[20-10-24 21:03:15.888] 76561197983853879 "Shuffmayn" container -4 6115,5771,0 [Base.Battery, Base.Thread, Base.Needle].
+[20-10-24 21:03:16.082] 76561197983853879 "Shuffmayn" floor -1 6115,5771,0 [Base.Belt2].
+[20-10-24 21:03:17.217] 76561198101076415 "sumiii3" floor -1 6111,5762,0 [Base.TortillaChips].
+[20-10-24 21:03:17.566] 76561197983853879 "Shuffmayn" floor -1 6115,5771,0 [Base.KitchenKnife].
+[20-10-24 21:03:18.878] 76561197983853879 "Shuffmayn" container -6 6117,5773,0 [Base.DogChain, Base.Screwdriver, SapphCooking.BagofWontonWrappers, Base.Disinfectant, Base.HolsterSimpleL, Base.BakingSoda].
+[20-10-24 21:03:19.281] 76561197983853879 "Shuffmayn" floor -1 6115,5771,0 [Base.Bag_FannyPackFront].
+[20-10-24 21:03:21.880] 76561197983853879 "Shuffmayn" container -4 6117,5773,0 [Base.Saw, Base.Tote, SapphCooking.CanofRefriedBeans, SapphCooking.CanofProteinPowder].
+[20-10-24 21:03:24.879] 76561197983853879 "Shuffmayn" container -3 6117,5773,0 [SapphCooking.CanofBeets, Base.TinnedBeans, SapphCooking.CannedBread].
+[20-10-24 21:03:27.882] 76561197983853879 "Shuffmayn" container -4 6117,5773,0 [Base.CannedCornedBeef, Base.CannedCorn, Base.CannedChili, Base.CannedFruitCocktail].
+[20-10-24 21:03:30.887] 76561197983853879 "Shuffmayn" container -3 6117,5773,0 [Base.CannedMushroomSoup, Base.CannedFruitCocktail].
+[20-10-24 21:03:33.886] 76561197983853879 "Shuffmayn" container -4 6117,5773,0 [Base.CannedMushroomSoup, Base.CannedPotato2, Base.CannedPineapple].
+[20-10-24 21:03:36.879] 76561197983853879 "Shuffmayn" container -1 6117,5773,0 [Base.CannedSardines].
+[20-10-24 21:05:45.555] 76561197983853879 "Shuffmayn" floor -1 6115,5771,0 [Base.Jumper_RoundNeckTIED].
+[20-10-24 21:05:58.137] 76561197983853879 "Shuffmayn" floor -1 6115,5771,0 [AuthenticZBackpacksPlus.AuthenticCanteenSilverfull].
+[20-10-24 21:07:48.879] 76561197983853879 "Shuffmayn" container -1 6117,5773,0 [Base.Tshirt_WhiteLongSleeveTINTROLL].
+[20-10-24 21:08:03.880] 76561197983853879 "Shuffmayn" container +0 6117,5773,0 [Base.Ring_Right_MiddleFinger_Silver, Base.Ring_Left_RingFinger_SilverDiamond].
+[20-10-24 21:08:06.881] 76561197983853879 "Shuffmayn" container +0 6117,5773,0 [Base.Tote, Base.SewingKit].
+[20-10-24 21:08:27.134] 76561197983853879 "Shuffmayn" floor -1 6114,5762,0 [Base.Shirt_Scrubs].
+[20-10-24 21:08:28.496] 76561197983853879 "Shuffmayn" floor +1 6113,5764,0 [Base.Shirt_Scrubs].
+[20-10-24 21:08:45.880] 76561197983853879 "Shuffmayn" container -1 6117,5773,0 [Base.Jacket_RangerOPENROLL].
+[20-10-24 21:08:51.883] 76561197983853879 "Shuffmayn" container -1 6117,5773,0 [Base.Trousers_Ranger].
+[20-10-24 21:08:54.881] 76561197983853879 "Shuffmayn" container -1 6117,5773,0 [Base.Shirt_RangerOPENROLL].
+[20-10-24 21:09:06.882] 76561197983853879 "Shuffmayn" container -1 6117,5773,0 [Base.Hat_BalaclavaFull].
+[20-10-24 21:09:09.880] 76561197983853879 "Shuffmayn" container +0 6117,5773,0 [Base.Belt2].
+[20-10-24 21:09:12.877] 76561197983853879 "Shuffmayn" container +0 6117,5773,0 [Base.Socks_Ankle].
+[20-10-24 21:09:27.880] 76561197983853879 "Shuffmayn" container +0 6117,5773,0 [Base.Perfume].
+[20-10-24 21:09:57.884] 76561197983853879 "Shuffmayn" container +0 6111,5770,0 [Tsarcraft.VinylMaxPayne, Tsarcraft.VinylAliceCooperPoison(1989), Base.VHS_Retail].
+[20-10-24 21:13:17.062] 76561197983853879 "Shuffmayn" floor +1 6108,5769,0 [Base.Necklace_SilverCrucifix].
+[20-10-24 21:14:51.876] 76561197983853879 "Shuffmayn" container -1 6108,5762,0 [Base.Icecream].
+[20-10-24 21:14:58.972] 76561198101076415 "sumiii3" container -1 6105,5762,0 [Base.Icecream].
+[20-10-24 21:15:31.972] 76561198101076415 "sumiii3" container -1 6108,5764,0 [Base.GummyBears].
+[20-10-24 21:15:42.880] 76561197983853879 "Shuffmayn" container -2 6117,5773,0 [Base.CannedBolognese].
+[20-10-24 21:16:00.876] 76561197983853879 "Shuffmayn" container +0 6112,5762,0 [SapphCooking.BagofWontonWrappers].
+[20-10-24 21:16:03.889] 76561197983853879 "Shuffmayn" container +0 6112,5762,0 [SapphCooking.BagofSeaweed, SapphCooking.CanofProteinPowder].
+[20-10-24 21:16:06.887] 76561197983853879 "Shuffmayn" container +0 6112,5762,0 [SapphCooking.CanofRefriedBeans].
+[20-10-24 21:16:09.881] 76561197983853879 "Shuffmayn" container +0 6112,5762,0 [SapphCooking.CanofBeets, Base.TinnedBeans].
+[20-10-24 21:16:12.879] 76561197983853879 "Shuffmayn" container +0 6112,5762,0 [SapphCooking.CannedBread].
+[20-10-24 21:16:15.883] 76561197983853879 "Shuffmayn" container +0 6112,5762,0 [Base.CannedCorn, Base.CannedChili].
+[20-10-24 21:16:18.883] 76561197983853879 "Shuffmayn" container +0 6112,5762,0 [Base.CannedCornedBeef].
+[20-10-24 21:16:21.882] 76561197983853879 "Shuffmayn" container +0 6112,5762,0 [Base.CannedFruitCocktail].
+[20-10-24 21:16:24.878] 76561197983853879 "Shuffmayn" container +0 6112,5762,0 [Base.CannedFruitCocktail].
+[20-10-24 21:16:27.886] 76561197983853879 "Shuffmayn" container +0 6112,5762,0 [Base.CannedMushroomSoup].
+[20-10-24 21:16:30.880] 76561197983853879 "Shuffmayn" container +0 6112,5762,0 [Base.CannedPineapple].
+[20-10-24 21:16:33.888] 76561197983853879 "Shuffmayn" container +0 6112,5762,0 [Base.CannedPotato2, Base.CannedPineapple].
+[20-10-24 21:16:36.878] 76561197983853879 "Shuffmayn" container +0 6112,5762,0 [Base.CannedSardines].
+[20-10-24 21:16:39.886] 76561197983853879 "Shuffmayn" container +0 6112,5762,0 [Base.CannedBolognese].

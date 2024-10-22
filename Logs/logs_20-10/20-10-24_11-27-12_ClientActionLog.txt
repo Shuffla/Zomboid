@@ -1,0 +1,8 @@
+[20-10-24 11:27:12.263] [76561197983853879][ISEnterVehicle][Shuffmayn][6530,5626,0][SmallCar].
+[20-10-24 11:27:30.157] [76561197983853879][ISExitVehicle][Shuffmayn][6530,5626,0][SmallCar].
+[20-10-24 11:37:19.595] [76561197983853879][ISEnterVehicle][Shuffmayn][7128,5923,0][69mini].
+[20-10-24 11:38:12.311] [76561197983853879][ISExitVehicle][Shuffmayn][7127,5924,0][69mini].
+[20-10-24 11:39:07.918] [76561197983853879][ISEnterVehicle][Shuffmayn][7131,5922,0][TrailerHome].
+[20-10-24 11:39:58.780] [76561197983853879][ISExitVehicle][Shuffmayn][7130,5922,0][TrailerHome].
+[20-10-24 11:43:23.368] [76561197983853879][ISEnterVehicle][Shuffmayn][7173,6047,0][ATAJeepClassic].
+[20-10-24 11:44:00.395] [76561197983853879][ISExitVehicle][Shuffmayn][7174,6046,0][ATAJeepClassic].
